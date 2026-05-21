@@ -1,0 +1,1070 @@
+{
+  "table_of_contents": [
+    {
+      "title": "OPEN ACCESS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          48.04030226700252,
+          170.1994657168299
+        ],
+        [
+          96.83123425692695,
+          170.1994657168299
+        ],
+        [
+          96.83123425692695,
+          177.609375
+        ],
+        [
+          48.04030226700252,
+          177.609375
+        ]
+      ]
+    },
+    {
+      "title": "CITATION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.853515625,
+          398.798828125
+        ],
+        [
+          75.373046875,
+          398.798828125
+        ],
+        [
+          75.373046875,
+          407.021484375
+        ],
+        [
+          46.853515625,
+          407.021484375
+        ]
+      ]
+    },
+    {
+      "title": "COPVRIGHT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          49.47265625,
+          462.5244140625
+        ],
+        [
+          80.90234375,
+          462.5244140625
+        ],
+        [
+          80.90234375,
+          471.5693359375
+        ],
+        [
+          49.47265625,
+          471.5693359375
+        ]
+      ]
+    },
+    {
+      "title": "Association of different cell types and inflammation in early acne vulgaris",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.9345088161209,
+          134.029296875
+        ],
+        [
+          487.1586901763224,
+          134.029296875
+        ],
+        [
+          487.1586901763224,
+          206.388671875
+        ],
+        [
+          219.9345088161209,
+          206.388671875
+        ]
+      ]
+    },
+    {
+      "title": "KEYWORDS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          219.9345088161209,
+          488.8369140625
+        ],
+        [
+          252.2115869017632,
+          488.8369140625
+        ],
+        [
+          252.2115869017632,
+          497.8818359375
+        ],
+        [
+          219.9345088161209,
+          497.8818359375
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.6851385390428,
+          577.6416015625
+        ],
+        [
+          310.7607052896725,
+          577.6416015625
+        ],
+        [
+          310.7607052896725,
+          588.5752448797863
+        ],
+        [
+          220.6851385390428,
+          588.5752448797863
+        ]
+      ]
+    },
+    {
+      "title": "2 Inflammation in early acne vulgaris",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.606300354003906,
+          482.1063232421875
+        ],
+        [
+          278.50421142578125,
+          482.1063232421875
+        ],
+        [
+          278.50421142578125,
+          498.7012939453125
+        ],
+        [
+          49.606300354003906,
+          498.7012939453125
+        ]
+      ]
+    },
+    {
+      "title": "3 Adaptive immune cells",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.8203125,
+          208.85546875
+        ],
+        [
+          457.316162109375,
+          208.85546875
+        ],
+        [
+          457.316162109375,
+          223.68402099609375
+        ],
+        [
+          303.8203125,
+          223.68402099609375
+        ]
+      ]
+    },
+    {
+      "title": "3.1 T helper 1 cells",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.693359375,
+          235.990234375
+        ],
+        [
+          407.712890625,
+          235.990234375
+        ],
+        [
+          407.712890625,
+          248.341796875
+        ],
+        [
+          304.693359375,
+          248.341796875
+        ]
+      ]
+    },
+    {
+      "title": "3.2 T helper 17 cells",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.529296875,
+          623.6884765625
+        ],
+        [
+          414.59747314453125,
+          623.6884765625
+        ],
+        [
+          414.59747314453125,
+          635.8377685546875
+        ],
+        [
+          303.529296875,
+          635.8377685546875
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Regulatory T cells",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.111328125,
+          74.4150390625
+        ],
+        [
+          424.1057934508816,
+          74.4150390625
+        ],
+        [
+          424.1057934508816,
+          86.22439893143365
+        ],
+        [
+          304.111328125,
+          86.22439893143365
+        ]
+      ]
+    },
+    {
+      "title": "4 Innate immune cells",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          521.7275390625
+        ],
+        [
+          444.3727959697733,
+          521.7275390625
+        ],
+        [
+          444.3727959697733,
+          533.8414959928762
+        ],
+        [
+          303.2544080604534,
+          533.8414959928762
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Dendritic cells",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.2544080604534,
+          548.0400390625
+        ],
+        [
+          404.5894206549118,
+          548.0400390625
+        ],
+        [
+          404.5894206549118,
+          557.8343722172751
+        ],
+        [
+          303.2544080604534,
+          557.8343722172751
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Macrophages",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.47265625,
+          162.80859375
+        ],
+        [
+          144.6094970703125,
+          162.80859375
+        ],
+        [
+          144.6094970703125,
+          175.6614990234375
+        ],
+        [
+          49.47265625,
+          175.6614990234375
+        ]
+      ]
+    },
+    {
+      "title": "4.3 Mast cells",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.8943786621094,
+          74.4150390625
+        ],
+        [
+          380.01495361328125,
+          74.4150390625
+        ],
+        [
+          380.01495361328125,
+          88.0709228515625
+        ],
+        [
+          304.8943786621094,
+          88.0709228515625
+        ]
+      ]
+    },
+    {
+      "title": "4.4 Innate lymphoid cells",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.8943786621094,
+          587.09765625
+        ],
+        [
+          444.380859375,
+          587.09765625
+        ],
+        [
+          444.380859375,
+          600.5747528076172
+        ],
+        [
+          304.8943786621094,
+          600.5747528076172
+        ]
+      ]
+    },
+    {
+      "title": "5 Skin cells involved in acne inflammation",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.79093198992443,
+          233.93054318788958
+        ],
+        [
+          190.65994962216624,
+          233.93054318788958
+        ],
+        [
+          190.65994962216624,
+          260.9225289403384
+        ],
+        [
+          48.79093198992443,
+          260.9225289403384
+        ]
+      ]
+    },
+    {
+      "title": "5.1 Keratinocytes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.79093198992443,
+          275.8701171875
+        ],
+        [
+          144.87153652392948,
+          275.8701171875
+        ],
+        [
+          144.87153652392948,
+          287.1647373107747
+        ],
+        [
+          48.79093198992443,
+          287.1647373107747
+        ]
+      ]
+    },
+    {
+      "title": "5.2 Sebocytes",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          48.79093198992443,
+          636.5609973285841
+        ],
+        [
+          126.85642317380352,
+          636.5609973285841
+        ],
+        [
+          126.85642317380352,
+          646.3081032947462
+        ],
+        [
+          48.79093198992443,
+          646.3081032947462
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 1",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          59.29974811083123,
+          275.16829919857526
+        ],
+        [
+          85.57178841309823,
+          275.16829919857526
+        ],
+        [
+          85.57178841309823,
+          282.037109375
+        ],
+        [
+          59.29974811083123,
+          282.037109375
+        ]
+      ]
+    },
+    {
+      "title": "FIGURE 2",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          58.54911838790932,
+          662.053428317008
+        ],
+        [
+          86.32241813602015,
+          662.053428317008
+        ],
+        [
+          86.32241813602015,
+          672.2021484375
+        ],
+        [
+          58.54911838790932,
+          672.2021484375
+        ]
+      ]
+    },
+    {
+      "title": "5.3 Fibroblasts",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.79093198992443,
+          74.4150390625
+        ],
+        [
+          129.8589420654912,
+          74.4150390625
+        ],
+        [
+          129.8589420654912,
+          84.72484416740872
+        ],
+        [
+          48.79093198992443,
+          84.72484416740872
+        ]
+      ]
+    },
+    {
+      "title": "6 Conclusions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.79093198992443,
+          286.41495992876224
+        ],
+        [
+          138.86649874055416,
+          286.41495992876224
+        ],
+        [
+          138.86649874055416,
+          297.66015625
+        ],
+        [
+          48.79093198992443,
+          297.66015625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          48.79093198992443,
+          636.8447265625
+        ],
+        [
+          119.35012594458438,
+          636.8447265625
+        ],
+        [
+          119.35012594458438,
+          647.0578806767586
+        ],
+        [
+          48.79093198992443,
+          647.0578806767586
+        ]
+      ]
+    },
+    {
+      "title": "Author contributions",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          302.65625,
+          75.72751558325912
+        ],
+        [
+          435.3652392947103,
+          75.72751558325912
+        ],
+        [
+          435.3652392947103,
+          86.337890625
+        ],
+        [
+          302.65625,
+          86.337890625
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.23828125,
+          222.4228515625
+        ],
+        [
+          354.29722921914356,
+          222.4228515625
+        ],
+        [
+          354.29722921914356,
+          234.7568359375
+        ],
+        [
+          303.23828125,
+          234.7568359375
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          302.65625,
+          327.26171875
+        ],
+        [
+          421.10327455919395,
+          327.26171875
+        ],
+        [
+          421.10327455919395,
+          340.41796875
+        ],
+        [
+          302.65625,
+          340.41796875
+        ]
+      ]
+    },
+    {
+      "title": "Conflict of interest",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.40234375,
+          407.8788958147818
+        ],
+        [
+          422.60453400503775,
+          407.8788958147818
+        ],
+        [
+          422.60453400503775,
+          419.7666015625
+        ],
+        [
+          304.40234375,
+          419.7666015625
+        ]
+      ]
+    },
+    {
+      "title": "Publisher's note",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.7556675062972,
+          500.1015138023152
+        ],
+        [
+          404.5894206549118,
+          500.1015138023152
+        ],
+        [
+          404.5894206549118,
+          511.0380859375
+        ],
+        [
+          304.7556675062972,
+          511.0380859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          434
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          121
+        ],
+        [
+          "Span",
+          80
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          391
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          118
+        ],
+        [
+          "Span",
+          87
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          209
+        ],
+        [
+          "Span",
+          180
+        ],
+        [
+          "ListItem",
+          51
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          202
+        ],
+        [
+          "Span",
+          174
+        ],
+        [
+          "ListItem",
+          52
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          161
+        ],
+        [
+          "Span",
+          136
+        ],
+        [
+          "ListItem",
+          37
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/fimmu-15-1275269"
+}

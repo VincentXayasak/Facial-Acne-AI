@@ -1,0 +1,893 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Does poor sleep quality affect skin ageing?",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.3671875,
+          82.58203125
+        ],
+        [
+          348.0546875,
+          82.58203125
+        ],
+        [
+          348.0546875,
+          99.54901123046875
+        ],
+        [
+          59.3671875,
+          99.54901123046875
+        ]
+      ]
+    },
+    {
+      "title": "P. Oyetakin-White,1 A. Suggs,1 B. Koo,2 M. S. Matsui,3 D. Yarosh,3 K. D. Cooper1 and E. D. Baron1",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          58.203125,
+          110.8740234375
+        ],
+        [
+          521.5,
+          110.8740234375
+        ],
+        [
+          521.5,
+          124.28497314453125
+        ],
+        [
+          58.203125,
+          124.28497314453125
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.94921875,
+          209.13134765625
+        ],
+        [
+          107.67578125,
+          209.13134765625
+        ],
+        [
+          107.67578125,
+          219.07177734375
+        ],
+        [
+          59.94921875,
+          219.07177734375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          59.076171875,
+          527.98974609375
+        ],
+        [
+          120.70353698730469,
+          527.98974609375
+        ],
+        [
+          120.70353698730469,
+          540.6943359375
+        ],
+        [
+          59.076171875,
+          540.6943359375
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.09765625,
+          295.53662109375
+        ],
+        [
+          113.10256958007812,
+          295.53662109375
+        ],
+        [
+          113.10256958007812,
+          307.5731506347656
+        ],
+        [
+          68.09765625,
+          307.5731506347656
+        ]
+      ]
+    },
+    {
+      "title": "Subjects",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.970703125,
+          378.88330078125
+        ],
+        [
+          110.294921875,
+          378.88330078125
+        ],
+        [
+          110.294921875,
+          391.2519226074219
+        ],
+        [
+          68.970703125,
+          391.2519226074219
+        ]
+      ]
+    },
+    {
+      "title": "Sleep quality assessment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          68.6796875,
+          595.27880859375
+        ],
+        [
+          169.61660766601562,
+          595.27880859375
+        ],
+        [
+          169.61660766601562,
+          606.0045776367188
+        ],
+        [
+          68.6796875,
+          606.0045776367188
+        ]
+      ]
+    },
+    {
+      "title": "Intrinsic and extrinsic skin ageing",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.095703125,
+          356.70849609375
+        ],
+        [
+          447.873046875,
+          356.70849609375
+        ],
+        [
+          447.873046875,
+          366.98736572265625
+        ],
+        [
+          311.095703125,
+          366.98736572265625
+        ]
+      ]
+    },
+    {
+      "title": "Recovery from ultraviolet-induced erythema",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.38671875,
+          442.1978454589844
+        ],
+        [
+          489.48828125,
+          442.1978454589844
+        ],
+        [
+          489.48828125,
+          450.76025390625
+        ],
+        [
+          311.38671875,
+          450.76025390625
+        ]
+      ]
+    },
+    {
+      "title": "Skin barrier recovery",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          309.640625,
+          585.630859375
+        ],
+        [
+          395.0535583496094,
+          585.630859375
+        ],
+        [
+          395.0535583496094,
+          594.51416015625
+        ],
+        [
+          309.640625,
+          594.51416015625
+        ]
+      ]
+    },
+    {
+      "title": "Self-evaluation questionnaire",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.3671875,
+          130.37255859375
+        ],
+        [
+          178.1015625,
+          130.37255859375
+        ],
+        [
+          178.1015625,
+          139.7054443359375
+        ],
+        [
+          59.3671875,
+          139.7054443359375
+        ]
+      ]
+    },
+    {
+      "title": "Evaluation of under-eye dark circles",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.076171875,
+          202.24951171875
+        ],
+        [
+          203.93753051757812,
+          202.24951171875
+        ],
+        [
+          203.93753051757812,
+          211.47869873046875
+        ],
+        [
+          59.076171875,
+          211.47869873046875
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.78515625,
+          284.83154296875
+        ],
+        [
+          132.46591186523438,
+          284.83154296875
+        ],
+        [
+          132.46591186523438,
+          295.157470703125
+        ],
+        [
+          58.78515625,
+          295.157470703125
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          59.5275993347168,
+          439.29052734375
+        ],
+        [
+          95.162109375,
+          439.29052734375
+        ],
+        [
+          95.162109375,
+          451.0062255859375
+        ],
+        [
+          59.5275993347168,
+          451.0062255859375
+        ]
+      ]
+    },
+    {
+      "title": "Subject demographics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          58.494140625,
+          463.75927734375
+        ],
+        [
+          147.61044311523438,
+          463.75927734375
+        ],
+        [
+          147.61044311523438,
+          474.4770812988281
+        ],
+        [
+          58.494140625,
+          474.4770812988281
+        ]
+      ]
+    },
+    {
+      "title": "Intrinsic and extrinsic skin ageing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          301.6062316894531,
+          142.60693359375
+        ],
+        [
+          437.6875,
+          142.60693359375
+        ],
+        [
+          437.6875,
+          151.66778564453125
+        ],
+        [
+          301.6062316894531,
+          151.66778564453125
+        ]
+      ]
+    },
+    {
+      "title": "Recovery from ultraviolet-induced erythema",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          299.74609375,
+          272.59716796875
+        ],
+        [
+          479.2665710449219,
+          272.59716796875
+        ],
+        [
+          479.2665710449219,
+          283.19525146484375
+        ],
+        [
+          299.74609375,
+          283.19525146484375
+        ]
+      ]
+    },
+    {
+      "title": "Skin barrier recovery",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          298.873046875,
+          441.966796875
+        ],
+        [
+          385.595703125,
+          441.966796875
+        ],
+        [
+          385.595703125,
+          451.142578125
+        ],
+        [
+          298.873046875,
+          451.142578125
+        ]
+      ]
+    },
+    {
+      "title": "Self-evaluation questionnaire",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.09765625,
+          549.39990234375
+        ],
+        [
+          187.5200958251953,
+          549.39990234375
+        ],
+        [
+          187.5200958251953,
+          558.2691650390625
+        ],
+        [
+          68.09765625,
+          558.2691650390625
+        ]
+      ]
+    },
+    {
+      "title": "Evaluation of under-eye dark circles",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          68.388671875,
+          644.21630859375
+        ],
+        [
+          213.85873413085938,
+          644.21630859375
+        ],
+        [
+          213.85873413085938,
+          653.9100646972656
+        ],
+        [
+          68.388671875,
+          653.9100646972656
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.5274658203125,
+          439.29052734375
+        ],
+        [
+          363.1875,
+          439.29052734375
+        ],
+        [
+          363.1875,
+          451.1195983886719
+        ],
+        [
+          311.5274658203125,
+          451.1195983886719
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          300.91015625,
+          331.0927734375
+        ],
+        [
+          360.27734375,
+          331.0927734375
+        ],
+        [
+          360.27734375,
+          343.40313720703125
+        ],
+        [
+          300.91015625,
+          343.40313720703125
+        ]
+      ]
+    },
+    {
+      "title": "What's already known about this topic?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          308.4765625,
+          497.40380859375
+        ],
+        [
+          511.3846435546875,
+          497.40380859375
+        ],
+        [
+          511.3846435546875,
+          509.2298278808594
+        ],
+        [
+          308.4765625,
+          509.2298278808594
+        ]
+      ]
+    },
+    {
+      "title": "What does this study add?",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.603515625,
+          639.0837249755859
+        ],
+        [
+          445.1936950683594,
+          639.0837249755859
+        ],
+        [
+          445.1936950683594,
+          649.56884765625
+        ],
+        [
+          307.603515625,
+          649.56884765625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.6796875,
+          165.1640625
+        ],
+        [
+          166.9516143798828,
+          165.1640625
+        ],
+        [
+          166.9516143798828,
+          177.06610107421875
+        ],
+        [
+          68.6796875,
+          177.06610107421875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          68.970703125,
+          321.53466796875
+        ],
+        [
+          123.099609375,
+          321.53466796875
+        ],
+        [
+          123.099609375,
+          332.4613037109375
+        ],
+        [
+          68.970703125,
+          332.4613037109375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          204
+        ],
+        [
+          "Line",
+          62
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "TableCell",
+          48
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          258
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TableCell",
+          34
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          476
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Clin Experimental Derm - 2014 - Oyetakin\u2010White - Does poor sleep quality affect skin ageing"
+}

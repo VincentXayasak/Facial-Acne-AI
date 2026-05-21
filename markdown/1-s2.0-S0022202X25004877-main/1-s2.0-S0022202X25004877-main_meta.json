@@ -1,0 +1,1307 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Multi-Omics Analysis Identifies Genetic \nMechanisms and Therapeutic Targets for Acne \nVulgaris",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.60546875,
+          68.43603515625
+        ],
+        [
+          497.5443420410156,
+          68.43603515625
+        ],
+        [
+          497.5443420410156,
+          144.13623046875
+        ],
+        [
+          40.60546875,
+          144.13623046875
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.6357421875,
+          429.71539306640625
+        ],
+        [
+          119.77770233154297,
+          429.71539306640625
+        ],
+        [
+          119.77770233154297,
+          439.1799011230469
+        ],
+        [
+          42.6357421875,
+          439.1799011230469
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.3505859375,
+          511.8098449707031
+        ],
+        [
+          343.9485778808594,
+          511.8098449707031
+        ],
+        [
+          343.9485778808594,
+          521.2743530273438
+        ],
+        [
+          301.3505859375,
+          521.2743530273438
+        ]
+      ]
+    },
+    {
+      "title": "Identification of key functional genes associated with AV",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.80078125,
+          521.87255859375
+        ],
+        [
+          532.2384643554688,
+          521.87255859375
+        ],
+        [
+          532.2384643554688,
+          532.1132354736328
+        ],
+        [
+          302.80078125,
+          532.1132354736328
+        ]
+      ]
+    },
+    {
+      "title": "Sensitivity analyses",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.765625,
+          321.15234375
+        ],
+        [
+          120.60099792480469,
+          321.15234375
+        ],
+        [
+          120.60099792480469,
+          331.3062744140625
+        ],
+        [
+          41.765625,
+          331.3062744140625
+        ]
+      ]
+    },
+    {
+      "title": "Transcriptome-wide associations of candidate genes with acne",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.765625,
+          603.0270385742188
+        ],
+        [
+          280.4019470214844,
+          603.0270385742188
+        ],
+        [
+          280.4019470214844,
+          612.86572265625
+        ],
+        [
+          41.765625,
+          612.86572265625
+        ]
+      ]
+    },
+    {
+      "title": "Investigation of plasma proteins linked to acne risk through \nSMR and PWAS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          301.640625,
+          218.689453125
+        ],
+        [
+          541.6028442382812,
+          218.689453125
+        ],
+        [
+          541.6028442382812,
+          238.9542236328125
+        ],
+        [
+          301.640625,
+          238.9542236328125
+        ]
+      ]
+    },
+    {
+      "title": "Regulatory mechanisms underlying acne development: \npathways, epigenetics, and immune-cell\u2014specific effects",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          300.48046875,
+          441.7920227050781
+        ],
+        [
+          529.223388671875,
+          441.7920227050781
+        ],
+        [
+          529.223388671875,
+          462.22998046875
+        ],
+        [
+          300.48046875,
+          462.22998046875
+        ]
+      ]
+    },
+    {
+      "title": "Transcriptomic profiling of prioritized targets in acne skin",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          41.25,
+          462.75
+        ],
+        [
+          274.5,
+          462.75
+        ],
+        [
+          274.5,
+          472.5
+        ],
+        [
+          41.25,
+          472.5
+        ]
+      ]
+    },
+    {
+      "title": "Prioritization of potential therapeutic targets for AV",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          302.25,
+          428.25
+        ],
+        [
+          512.25,
+          428.25
+        ],
+        [
+          512.25,
+          438.52587890625
+        ],
+        [
+          302.25,
+          438.52587890625
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          41.25,
+          693.15380859375
+        ],
+        [
+          100.5,
+          693.15380859375
+        ],
+        [
+          100.5,
+          702.0
+        ],
+        [
+          41.25,
+          702.0
+        ]
+      ]
+    },
+    {
+      "title": "Lipid metabolism",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          41.25,
+          415.5
+        ],
+        [
+          111.75,
+          415.5
+        ],
+        [
+          111.75,
+          426.29150390625
+        ],
+        [
+          41.25,
+          426.29150390625
+        ]
+      ]
+    },
+    {
+      "title": "OCTNs in inflammation",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.25,
+          414.439453125
+        ],
+        [
+          399.75,
+          414.439453125
+        ],
+        [
+          399.75,
+          423.75
+        ],
+        [
+          302.25,
+          423.75
+        ]
+      ]
+    },
+    {
+      "title": "Endoplasmic reticulum stress",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          302.220703125,
+          522.0
+        ],
+        [
+          419.25,
+          522.0
+        ],
+        [
+          419.25,
+          533.34228515625
+        ],
+        [
+          302.220703125,
+          533.34228515625
+        ]
+      ]
+    },
+    {
+      "title": "Cellular signaling, junction regulation, and skin remodeling",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.916500091552734,
+          87.169921875
+        ],
+        [
+          279.6706237792969,
+          87.169921875
+        ],
+        [
+          279.6706237792969,
+          96.42822265625
+        ],
+        [
+          42.916500091552734,
+          96.42822265625
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          303.0908203125,
+          188.103515625
+        ],
+        [
+          429.029541015625,
+          188.103515625
+        ],
+        [
+          429.029541015625,
+          197.67034912109375
+        ],
+        [
+          303.0908203125,
+          197.67034912109375
+        ]
+      ]
+    },
+    {
+      "title": "Study design",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          302.220703125,
+          199.19091796875
+        ],
+        [
+          356.11785888671875,
+          199.19091796875
+        ],
+        [
+          356.11785888671875,
+          208.51019287109375
+        ],
+        [
+          302.220703125,
+          208.51019287109375
+        ]
+      ]
+    },
+    {
+      "title": "Study samples",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          303.6708984375,
+          399.52880859375
+        ],
+        [
+          362.08935546875,
+          399.52880859375
+        ],
+        [
+          362.08935546875,
+          409.2592468261719
+        ],
+        [
+          303.6708984375,
+          409.2592468261719
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          41.25,
+          329.94580078125
+        ],
+        [
+          76.5,
+          329.94580078125
+        ],
+        [
+          76.5,
+          337.5
+        ],
+        [
+          41.25,
+          337.5
+        ]
+      ]
+    },
+    {
+      "title": "X Qiu et al.",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          42.0556640625,
+          16.43994140625
+        ],
+        [
+          97.28520202636719,
+          16.43994140625
+        ],
+        [
+          97.28520202636719,
+          26.7244873046875
+        ],
+        [
+          42.0556640625,
+          26.7244873046875
+        ]
+      ]
+    },
+    {
+      "title": "ETHICS STATEMENT",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          42.6357421875,
+          491.28662109375
+        ],
+        [
+          117.93172454833984,
+          491.28662109375
+        ],
+        [
+          117.93172454833984,
+          501.6400451660156
+        ],
+        [
+          42.6357421875,
+          501.6400451660156
+        ]
+      ]
+    },
+    {
+      "title": "DATA AVAILABILITY STATEMENT",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          42.916500091552734,
+          671.74365234375
+        ],
+        [
+          166.51712036132812,
+          671.74365234375
+        ],
+        [
+          166.51712036132812,
+          682.2630157470703
+        ],
+        [
+          42.916500091552734,
+          682.2630157470703
+        ]
+      ]
+    },
+    {
+      "title": "ORCIDs",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          303.9309997558594,
+          51.61376953125
+        ],
+        [
+          334.9585876464844,
+          51.61376953125
+        ],
+        [
+          334.9585876464844,
+          60.85198974609375
+        ],
+        [
+          303.9309997558594,
+          60.85198974609375
+        ]
+      ]
+    },
+    {
+      "title": "CONFLICT OF INTEREST",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          302.220703125,
+          105.9468994140625
+        ],
+        [
+          394.90545654296875,
+          105.9468994140625
+        ],
+        [
+          394.90545654296875,
+          113.9169921875
+        ],
+        [
+          302.220703125,
+          113.9169921875
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          301.3505859375,
+          138.71490478515625
+        ],
+        [
+          388.48736572265625,
+          138.71490478515625
+        ],
+        [
+          388.48736572265625,
+          146.68499755859375
+        ],
+        [
+          301.3505859375,
+          146.68499755859375
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          301.9306640625,
+          191.162109375
+        ],
+        [
+          407.4577331542969,
+          191.162109375
+        ],
+        [
+          407.4577331542969,
+          199.80694580078125
+        ],
+        [
+          301.9306640625,
+          199.80694580078125
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIAL",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          302.80078125,
+          250.8046875
+        ],
+        [
+          409.9746398925781,
+          250.8046875
+        ],
+        [
+          409.9746398925781,
+          259.61798095703125
+        ],
+        [
+          302.80078125,
+          259.61798095703125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          301.9306640625,
+          296.30126953125
+        ],
+        [
+          351.4009094238281,
+          296.30126953125
+        ],
+        [
+          351.4009094238281,
+          304.4620056152344
+        ],
+        [
+          301.9306640625,
+          304.4620056152344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          361
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          78
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          165
+        ],
+        [
+          "Span",
+          19
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          61
+        ],
+        [
+          "Span",
+          61
+        ],
+        [
+          "TableCell",
+          37
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          54
+        ],
+        [
+          "Span",
+          44
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          88
+        ],
+        [
+          "Span",
+          50
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          118
+        ],
+        [
+          "Span",
+          48
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          304
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          314
+        ],
+        [
+          "Line",
+          125
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          364
+        ],
+        [
+          "Line",
+          137
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/1-s2.0-S0022202X25004877-main"
+}

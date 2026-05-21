@@ -1,0 +1,401 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Circadian Rhythm and\nthe Skin: A Review of the\nLiterature",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.5,
+          74.25
+        ],
+        [
+          509.25,
+          76.5
+        ],
+        [
+          509.25,
+          190.01513671875
+        ],
+        [
+          208.5,
+          190.01513671875
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.5,
+          209.13134765625
+        ],
+        [
+          146.25,
+          209.13134765625
+        ],
+        [
+          146.25,
+          219.07177734375
+        ],
+        [
+          88.5,
+          219.07177734375
+        ]
+      ]
+    },
+    {
+      "title": "by ALEXIS B. LYONS, MD; LAUREN MOY, MD; RONALD MOY, MD;\nand REBECCA TUNG, MD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          209.6630859375,
+          211.5
+        ],
+        [
+          468.75,
+          211.5
+        ],
+        [
+          468.75,
+          236.65869140625
+        ],
+        [
+          209.6630859375,
+          236.65869140625
+        ]
+      ]
+    },
+    {
+      "title": "CIRCADIAN RHYTHM AND THE SKIN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          384.19189453125,
+          613.63037109375
+        ],
+        [
+          530.25,
+          613.63037109375
+        ],
+        [
+          530.25,
+          624.0
+        ],
+        [
+          384.19189453125,
+          624.0
+        ]
+      ]
+    },
+    {
+      "title": "CIRCADIAN RHYTHM AND CANCER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          209.6630859375,
+          650.33349609375
+        ],
+        [
+          354.7705078125,
+          650.33349609375
+        ],
+        [
+          354.7705078125,
+          662.4834442138672
+        ],
+        [
+          209.6630859375,
+          662.4834442138672
+        ]
+      ]
+    },
+    {
+      "title": "REVIEW",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          96.5478515625,
+          44.40264892578125
+        ],
+        [
+          137.65480041503906,
+          44.40264892578125
+        ],
+        [
+          137.65480041503906,
+          56.40264892578125
+        ],
+        [
+          96.5478515625,
+          56.40264892578125
+        ]
+      ]
+    },
+    {
+      "title": "CIRCADIAN RHYTHM, \nIMMUNODEFICIENCY, AND DNA REPAIR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          34.8486328125,
+          121.96142578125
+        ],
+        [
+          198.2135772705078,
+          121.96142578125
+        ],
+        [
+          198.2135772705078,
+          146.48345947265625
+        ],
+        [
+          34.8486328125,
+          146.48345947265625
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          35.70556640625,
+          662.4834442138672
+        ],
+        [
+          90.64789581298828,
+          662.4834442138672
+        ],
+        [
+          90.64789581298828,
+          674.4834442138672
+        ],
+        [
+          35.70556640625,
+          674.4834442138672
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          208.23486328125,
+          254.48345947265625
+        ],
+        [
+          264.9158935546875,
+          254.48345947265625
+        ],
+        [
+          264.9158935546875,
+          266.48345947265625
+        ],
+        [
+          208.23486328125,
+          266.48345947265625
+        ]
+      ]
+    },
+    {
+      "title": "REVIEW",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          96.26220703125,
+          43.96728515625
+        ],
+        [
+          137.65480041503906,
+          43.96728515625
+        ],
+        [
+          137.65480041503906,
+          56.15264892578125
+        ],
+        [
+          96.26220703125,
+          56.15264892578125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          354
+        ],
+        [
+          "Line",
+          168
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          357
+        ],
+        [
+          "Line",
+          162
+        ],
+        [
+          "ListItem",
+          23
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/jcad_12_9_42"
+}

@@ -1,0 +1,409 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CASE REPORT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.46095717884131,
+          69.72770853307766
+        ],
+        [
+          147.0068359375,
+          69.72770853307766
+        ],
+        [
+          147.0068359375,
+          80.5673828125
+        ],
+        [
+          46.46095717884131,
+          80.5673828125
+        ]
+      ]
+    },
+    {
+      "title": "Congenital adrenal hyperplasia and acne in male patients",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.46095717884131,
+          93.72003835091084
+        ],
+        [
+          495.05859375,
+          92.22051773729626
+        ],
+        [
+          495.05859375,
+          110.3505859375
+        ],
+        [
+          46.46095717884131,
+          110.96452540747843
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.61279296875,
+          210.68264621284754
+        ],
+        [
+          98.91687657430731,
+          210.68264621284754
+        ],
+        [
+          98.91687657430731,
+          221.8466796875
+        ],
+        [
+          45.61279296875,
+          221.8466796875
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.46095717884131,
+          557.071907957814
+        ],
+        [
+          92.92191435768262,
+          557.071907957814
+        ],
+        [
+          92.92191435768262,
+          566.2626953125
+        ],
+        [
+          46.46095717884131,
+          566.2626953125
+        ]
+      ]
+    },
+    {
+      "title": "Case reports",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          303.4949622166247,
+          651.5417066155321
+        ],
+        [
+          368.09814453125,
+          651.5417066155321
+        ],
+        [
+          368.09814453125,
+          661.2885906040268
+        ],
+        [
+          303.4949622166247,
+          661.2885906040268
+        ]
+      ]
+    },
+    {
+      "title": "Case 2",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          56.65283203125,
+          545.6435546875
+        ],
+        [
+          84.38462829589844,
+          545.6435546875
+        ],
+        [
+          84.38462829589844,
+          556.961669921875
+        ],
+        [
+          56.65283203125,
+          556.961669921875
+        ]
+      ]
+    },
+    {
+      "title": "Case 3",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          314.3056335449219,
+          235.6990966796875
+        ],
+        [
+          341.4298095703125,
+          235.6990966796875
+        ],
+        [
+          341.4298095703125,
+          245.66168212890625
+        ],
+        [
+          314.3056335449219,
+          245.66168212890625
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.73583984375,
+          444.8388671875
+        ],
+        [
+          368.1750793457031,
+          444.8388671875
+        ],
+        [
+          368.1750793457031,
+          457.77667236328125
+        ],
+        [
+          311.73583984375,
+          457.77667236328125
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.60107421875,
+          419.6376953125
+        ],
+        [
+          399.36187744140625,
+          419.6376953125
+        ],
+        [
+          399.36187744140625,
+          432.8885803222656
+        ],
+        [
+          303.60107421875,
+          432.8885803222656
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.60107421875,
+          508.1270751953125
+        ],
+        [
+          358.55194091796875,
+          508.1270751953125
+        ],
+        [
+          358.55194091796875,
+          520.0821838378906
+        ],
+        [
+          303.60107421875,
+          520.0821838378906
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          92
+        ],
+        [
+          "Span",
+          59
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          291
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          21
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/bjd1263"
+}

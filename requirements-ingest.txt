@@ -1,0 +1,7 @@
+# RAG ingestion (Chroma + LM Studio embeddings). Install without Marker if you only ingest.
+chromadb>=0.5.0
+langchain-text-splitters>=0.3.0
+langchain-core>=0.3.0
+openai>=1.40.0
+tiktoken>=0.7.0
+python-dotenv>=1.0.0

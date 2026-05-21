@@ -1,0 +1,341 @@
+{
+  "table_of_contents": [
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.3828125,
+          597.0
+        ],
+        [
+          107.34005037783375,
+          597.0
+        ],
+        [
+          107.34005037783375,
+          606.74853515625
+        ],
+        [
+          52.3828125,
+          606.74853515625
+        ]
+      ]
+    },
+    {
+      "title": "The role of sweat in the composition of skin microbiome: lessons learned from patients with congenital insensitivity to pain with anhidrosis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          296.8359375,
+          320.25
+        ],
+        [
+          529.1939546599496,
+          320.25
+        ],
+        [
+          529.1939546599496,
+          404.11669921875
+        ],
+        [
+          296.8359375,
+          404.11669921875
+        ]
+      ]
+    },
+    {
+      "title": "Author contribution",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.80078125,
+          506.57958984375
+        ],
+        [
+          144.87153652392948,
+          506.57958984375
+        ],
+        [
+          144.87153652392948,
+          516.75
+        ],
+        [
+          51.80078125,
+          516.75
+        ]
+      ]
+    },
+    {
+      "title": "Data availability",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          52.3828125,
+          592.22021484375
+        ],
+        [
+          127.60705289672543,
+          592.22021484375
+        ],
+        [
+          127.60705289672543,
+          601.5
+        ],
+        [
+          52.3828125,
+          601.5
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          293.634765625,
+          564.69287109375
+        ],
+        [
+          352.04534005037783,
+          564.69287109375
+        ],
+        [
+          352.04534005037783,
+          573.75
+        ],
+        [
+          293.634765625,
+          573.75
+        ]
+      ]
+    },
+    {
+      "title": "Long-standing patchy alopecia\nareata along the hairline, a\nvariety of alopecia areata\nmimicking frontal fibrosing\nalopecia and other cases of hair\nloss: case series of 11 patients",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.859375,
+          242.01123046875
+        ],
+        [
+          287.2505187988281,
+          242.01123046875
+        ],
+        [
+          287.2505187988281,
+          349.22943115234375
+        ],
+        [
+          62.859375,
+          349.22943115234375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          136
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          172
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          98
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          260
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from"
+}

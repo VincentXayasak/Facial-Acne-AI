@@ -1,0 +1,620 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Tretinoin 0.1% and Benzoyl Peroxide 3% \nCream for the Treatment of Facial Acne \nVulgaris",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.109375,
+          69.20068359375
+        ],
+        [
+          395.7240295410156,
+          69.20068359375
+        ],
+        [
+          395.7240295410156,
+          127.880859375
+        ],
+        [
+          47.109375,
+          127.880859375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.109375,
+          228.28082275390625
+        ],
+        [
+          88.8699951171875,
+          228.28082275390625
+        ],
+        [
+          88.8699951171875,
+          238.28082275390625
+        ],
+        [
+          47.109375,
+          238.28082275390625
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.81494140625,
+          437.29083251953125
+        ],
+        [
+          94.25999450683594,
+          437.29083251953125
+        ],
+        [
+          94.25999450683594,
+          447.70166015625
+        ],
+        [
+          46.81494140625,
+          447.70166015625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          47.6982421875,
+          484.58990478515625
+        ],
+        [
+          118.6199951171875,
+          484.58990478515625
+        ],
+        [
+          118.6199951171875,
+          496.58990478515625
+        ],
+        [
+          47.6982421875,
+          496.58990478515625
+        ]
+      ]
+    },
+    {
+      "title": "Corresponding Author:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          302.0888671875,
+          668.68505859375
+        ],
+        [
+          390.4800109863281,
+          668.68505859375
+        ],
+        [
+          390.4800109863281,
+          677.6040115356445
+        ],
+        [
+          302.0888671875,
+          677.6040115356445
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.5,
+          450.75
+        ],
+        [
+          112.5,
+          450.75
+        ],
+        [
+          112.5,
+          459.93603515625
+        ],
+        [
+          61.5,
+          459.93603515625
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.5,
+          582.75
+        ],
+        [
+          103.5,
+          582.75
+        ],
+        [
+          103.5,
+          591.75
+        ],
+        [
+          61.5,
+          591.75
+        ]
+      ]
+    },
+    {
+      "title": "Drug Pharmacology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          61.5,
+          603.75
+        ],
+        [
+          150.75,
+          603.75
+        ],
+        [
+          150.75,
+          614.25
+        ],
+        [
+          61.5,
+          614.25
+        ]
+      ]
+    },
+    {
+      "title": "Summary of Clinical Trials for Acne \nVulgaris Treatment",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.3427734375,
+          396.8525390625
+        ],
+        [
+          252.44398498535156,
+          396.8525390625
+        ],
+        [
+          252.44398498535156,
+          422.909912109375
+        ],
+        [
+          45.3427734375,
+          422.909912109375
+        ]
+      ]
+    },
+    {
+      "title": "Relevance to Patient Care and Clinical \nPractice in Comparison to Existing \nDrugs",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          62.419921875,
+          582.2519073486328
+        ],
+        [
+          282.7919921875,
+          582.2519073486328
+        ],
+        [
+          282.7919921875,
+          622.2599029541016
+        ],
+        [
+          62.419921875,
+          622.2599029541016
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          47.40380859375,
+          543.28271484375
+        ],
+        [
+          110.00399780273438,
+          543.28271484375
+        ],
+        [
+          110.00399780273438,
+          555.6520233154297
+        ],
+        [
+          47.40380859375,
+          555.6520233154297
+        ]
+      ]
+    },
+    {
+      "title": "Declaration of Conflicting Interests",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          302.677734375,
+          204.54345703125
+        ],
+        [
+          467.7196044921875,
+          204.54345703125
+        ],
+        [
+          467.7196044921875,
+          215.1409912109375
+        ],
+        [
+          302.677734375,
+          215.1409912109375
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          301.79443359375,
+          253.1409912109375
+        ],
+        [
+          340.6000061035156,
+          253.1409912109375
+        ],
+        [
+          340.6000061035156,
+          263.42138671875
+        ],
+        [
+          301.79443359375,
+          263.42138671875
+        ]
+      ]
+    },
+    {
+      "title": "ORCID iD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          301.5,
+          300.5068359375
+        ],
+        [
+          350.6400146484375,
+          300.5068359375
+        ],
+        [
+          350.6400146484375,
+          311.1410217285156
+        ],
+        [
+          301.5,
+          311.1410217285156
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.0,
+          338.1410217285156
+        ],
+        [
+          355.38134765625,
+          338.1410217285156
+        ],
+        [
+          355.38134765625,
+          348.1410217285156
+        ],
+        [
+          303.0,
+          348.1410217285156
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          85
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "Span",
+          42
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          400
+        ],
+        [
+          "TableCell",
+          118
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          351
+        ],
+        [
+          "TableCell",
+          118
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          298
+        ],
+        [
+          "Line",
+          110
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          196
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris"
+}

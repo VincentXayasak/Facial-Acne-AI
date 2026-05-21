@@ -1,0 +1,1224 @@
+{
+  "table_of_contents": [
+    {
+      "title": "CONTACT DERMATITIS (BRANDON ADLER AND VINCENT DELEO, SECTION EDITORS)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.546875,
+          66.02215576171875
+        ],
+        [
+          437.9030456542969,
+          66.02215576171875
+        ],
+        [
+          437.9030456542969,
+          75.52215576171875
+        ],
+        [
+          53.546875,
+          75.52215576171875
+        ]
+      ]
+    },
+    {
+      "title": "Irritant Contact Dermatitis \u2014 a Review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.0546875,
+          106.21337890625
+        ],
+        [
+          299.1640625,
+          106.21337890625
+        ],
+        [
+          299.1640625,
+          122.238037109375
+        ],
+        [
+          50.0546875,
+          122.238037109375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.63671875,
+          207.7919921875
+        ],
+        [
+          89.10459899902344,
+          207.7919921875
+        ],
+        [
+          89.10459899902344,
+          218.37689208984375
+        ],
+        [
+          50.63671875,
+          218.37689208984375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.927734375,
+          368.07763671875
+        ],
+        [
+          118.66639709472656,
+          368.07763671875
+        ],
+        [
+          118.66639709472656,
+          380.2803955078125
+        ],
+        [
+          50.927734375,
+          380.2803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Contributing Factors in the Development \nof ICD",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          304.984375,
+          430.7803955078125
+        ],
+        [
+          526.6994018554688,
+          430.7803955078125
+        ],
+        [
+          526.6994018554688,
+          455.2843933105469
+        ],
+        [
+          304.984375,
+          455.2843933105469
+        ]
+      ]
+    },
+    {
+      "title": "Exogenous",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.1418151855469,
+          518.2803955078125
+        ],
+        [
+          364.9898376464844,
+          518.2803955078125
+        ],
+        [
+          364.9898376464844,
+          530.2803955078125
+        ],
+        [
+          306.1418151855469,
+          530.2803955078125
+        ]
+      ]
+    },
+    {
+      "title": "Skin Irritants",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          305.56640625,
+          542.65380859375
+        ],
+        [
+          365.32073974609375,
+          542.65380859375
+        ],
+        [
+          365.32073974609375,
+          555.262939453125
+        ],
+        [
+          305.56640625,
+          555.262939453125
+        ]
+      ]
+    },
+    {
+      "title": "Physical, Mechanical, and Environmental Factors",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.0546875,
+          369.29364013671875
+        ],
+        [
+          271.96630859375,
+          369.29364013671875
+        ],
+        [
+          271.96630859375,
+          380.8232421875
+        ],
+        [
+          50.0546875,
+          380.8232421875
+        ]
+      ]
+    },
+    {
+      "title": "Endogenous",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.345703125,
+          630.8110961914062
+        ],
+        [
+          118.09160614013672,
+          630.8110961914062
+        ],
+        [
+          118.09160614013672,
+          642.8110961914062
+        ],
+        [
+          50.345703125,
+          642.8110961914062
+        ]
+      ]
+    },
+    {
+      "title": "Age",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          49.47265625,
+          656.7936401367188
+        ],
+        [
+          68.8875961303711,
+          656.7936401367188
+        ],
+        [
+          68.8875961303711,
+          667.7936477661133
+        ],
+        [
+          49.47265625,
+          667.7936477661133
+        ]
+      ]
+    },
+    {
+      "title": "Sex",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.529296875,
+          122.43505859375
+        ],
+        [
+          322.30072021484375,
+          122.43505859375
+        ],
+        [
+          322.30072021484375,
+          133.73431396484375
+        ],
+        [
+          303.529296875,
+          133.73431396484375
+        ]
+      ]
+    },
+    {
+      "title": "Race",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1417236328125,
+          301.1749572753906
+        ],
+        [
+          327.6797180175781,
+          301.1749572753906
+        ],
+        [
+          327.6797180175781,
+          312.1749572753906
+        ],
+        [
+          306.1417236328125,
+          312.1749572753906
+        ]
+      ]
+    },
+    {
+      "title": "Atopy",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.275390625,
+          454.6156311035156
+        ],
+        [
+          333.4767150878906,
+          454.6156311035156
+        ],
+        [
+          333.4767150878906,
+          465.6156311035156
+        ],
+        [
+          305.275390625,
+          465.6156311035156
+        ]
+      ]
+    },
+    {
+      "title": "Genetic Factors",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1418151855469,
+          595.18115234375
+        ],
+        [
+          377.15625,
+          595.18115234375
+        ],
+        [
+          377.15625,
+          606.5563354492188
+        ],
+        [
+          306.1418151855469,
+          606.5563354492188
+        ]
+      ]
+    },
+    {
+      "title": "Pathogenesis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.345703125,
+          429.87451171875
+        ],
+        [
+          122.84359741210938,
+          429.87451171875
+        ],
+        [
+          122.84359741210938,
+          441.93109130859375
+        ],
+        [
+          50.345703125,
+          441.93109130859375
+        ]
+      ]
+    },
+    {
+      "title": "Clinical Types",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.1417236328125,
+          276.43121337890625
+        ],
+        [
+          378.1897277832031,
+          276.43121337890625
+        ],
+        [
+          378.1897277832031,
+          288.51416015625
+        ],
+        [
+          306.1417236328125,
+          288.51416015625
+        ]
+      ]
+    },
+    {
+      "title": "Acute Irritant Contact Dermatitis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.984375,
+          302.0322265625
+        ],
+        [
+          455.15655517578125,
+          302.0322265625
+        ],
+        [
+          455.15655517578125,
+          313.41375732421875
+        ],
+        [
+          304.984375,
+          313.41375732421875
+        ]
+      ]
+    },
+    {
+      "title": "Delayed Acute Irritant Contact Dermatitis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.56640625,
+          527.20458984375
+        ],
+        [
+          495.30859375,
+          527.20458984375
+        ],
+        [
+          495.30859375,
+          538.4137573242188
+        ],
+        [
+          305.56640625,
+          538.4137573242188
+        ]
+      ]
+    },
+    {
+      "title": "Irritant Reaction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.529296875,
+          655.6392517089844
+        ],
+        [
+          381.3036193847656,
+          655.6392517089844
+        ],
+        [
+          381.3036193847656,
+          666.6392517089844
+        ],
+        [
+          303.529296875,
+          666.6392517089844
+        ]
+      ]
+    },
+    {
+      "title": "Subjective/Sensorial Irritation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.927734375,
+          134.02197265625
+        ],
+        [
+          188.42129516601562,
+          134.02197265625
+        ],
+        [
+          188.42129516601562,
+          145.13916015625
+        ],
+        [
+          50.927734375,
+          145.13916015625
+        ]
+      ]
+    },
+    {
+      "title": "Non\u2011Erythematous Irritation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.345703125,
+          262.25048828125
+        ],
+        [
+          181.19540405273438,
+          262.25048828125
+        ],
+        [
+          181.19540405273438,
+          273.36468505859375
+        ],
+        [
+          50.345703125,
+          273.36468505859375
+        ]
+      ]
+    },
+    {
+      "title": "Cumulative (Chronic) ICD",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          49.763671875,
+          365.59014892578125
+        ],
+        [
+          164.50950622558594,
+          365.59014892578125
+        ],
+        [
+          164.50950622558594,
+          376.59014892578125
+        ],
+        [
+          49.763671875,
+          376.59014892578125
+        ]
+      ]
+    },
+    {
+      "title": "Frictional Dermatitis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.345703125,
+          615.5901336669922
+        ],
+        [
+          145.00648498535156,
+          615.5901336669922
+        ],
+        [
+          145.00648498535156,
+          626.5901336669922
+        ],
+        [
+          50.345703125,
+          626.5901336669922
+        ]
+      ]
+    },
+    {
+      "title": "Pustular and Acneiform Dermatitis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          304.984375,
+          181.70770263671875
+        ],
+        [
+          463.98956298828125,
+          181.70770263671875
+        ],
+        [
+          463.98956298828125,
+          192.70770263671875
+        ],
+        [
+          304.984375,
+          192.70770263671875
+        ]
+      ]
+    },
+    {
+      "title": "Asteatotic Irritant Dermatitis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.1417236328125,
+          281.7076416015625
+        ],
+        [
+          438.560546875,
+          281.7076416015625
+        ],
+        [
+          438.560546875,
+          292.7076416015625
+        ],
+        [
+          306.1417236328125,
+          292.7076416015625
+        ]
+      ]
+    },
+    {
+      "title": "Airborne Dermatitis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.1417236328125,
+          443.77880859375
+        ],
+        [
+          397.13262939453125,
+          443.77880859375
+        ],
+        [
+          397.13262939453125,
+          455.2076416015625
+        ],
+        [
+          306.1417236328125,
+          455.2076416015625
+        ]
+      ]
+    },
+    {
+      "title": "Diagnosis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.1417236328125,
+          555.7251129150391
+        ],
+        [
+          358.8457336425781,
+          555.7251129150391
+        ],
+        [
+          358.8457336425781,
+          567.7587890625
+        ],
+        [
+          306.1417236328125,
+          567.7587890625
+        ]
+      ]
+    },
+    {
+      "title": "Prevention",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.63671875,
+          404.93109130859375
+        ],
+        [
+          109.73970031738281,
+          404.93109130859375
+        ],
+        [
+          109.73970031738281,
+          416.93109130859375
+        ],
+        [
+          50.63671875,
+          416.93109130859375
+        ]
+      ]
+    },
+    {
+      "title": "Management",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          51.023597717285156,
+          154.4921875
+        ],
+        [
+          123.099609375,
+          154.4921875
+        ],
+        [
+          123.099609375,
+          166.93109130859375
+        ],
+        [
+          51.023597717285156,
+          166.93109130859375
+        ]
+      ]
+    },
+    {
+      "title": "Prognosis",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.111328125,
+          604.9311218261719
+        ],
+        [
+          359.1097412109375,
+          604.9311218261719
+        ],
+        [
+          359.1097412109375,
+          616.9311218261719
+        ],
+        [
+          304.111328125,
+          616.9311218261719
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          49.181640625,
+          56.39910888671875
+        ],
+        [
+          110.05159759521484,
+          56.39910888671875
+        ],
+        [
+          110.05159759521484,
+          68.39910888671875
+        ],
+        [
+          49.181640625,
+          68.39910888671875
+        ]
+      ]
+    },
+    {
+      "title": "Compliance with Ethical Standards",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.0546875,
+          367.30517578125
+        ],
+        [
+          210.6953125,
+          367.30517578125
+        ],
+        [
+          210.6953125,
+          378.3465576171875
+        ],
+        [
+          50.0546875,
+          378.3465576171875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          50.927734375,
+          491.3309020996094
+        ],
+        [
+          109.8716049194336,
+          491.3309020996094
+        ],
+        [
+          109.8716049194336,
+          503.3309020996094
+        ],
+        [
+          50.927734375,
+          503.3309020996094
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          164
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          198
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          262
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          16
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          265
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          15
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          276
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Reference",
+          23
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          352
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "ListItem",
+          38
+        ],
+        [
+          "Reference",
+          37
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          352
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "ListItem",
+          37
+        ],
+        [
+          "Reference",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          340
+        ],
+        [
+          "Line",
+          132
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Reference",
+          30
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          40
+        ],
+        [
+          "Line",
+          13
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "Reference",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/13671_2021_Article_351"
+}

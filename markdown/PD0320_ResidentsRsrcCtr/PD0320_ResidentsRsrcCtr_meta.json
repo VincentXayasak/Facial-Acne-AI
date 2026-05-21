@@ -1,0 +1,317 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Effect of Cleansers\non the Skin Microbiome",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.75,
+          87.75
+        ],
+        [
+          438.75,
+          87.75
+        ],
+        [
+          438.75,
+          171.28125
+        ],
+        [
+          51.75,
+          171.28125
+        ]
+      ]
+    },
+    {
+      "title": "CLEANSERS AND MICROBIOME",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.25,
+          518.642578125
+        ],
+        [
+          191.25,
+          518.642578125
+        ],
+        [
+          191.25,
+          527.25
+        ],
+        [
+          53.25,
+          527.25
+        ]
+      ]
+    },
+    {
+      "title": "RESIDENT RESOURCE CENTER",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          345.076171875,
+          29.162109375
+        ],
+        [
+          521.736328125,
+          29.162109375
+        ],
+        [
+          521.736328125,
+          43.999755859375
+        ],
+        [
+          345.076171875,
+          43.999755859375
+        ]
+      ]
+    },
+    {
+      "title": "RESIDENT RESOURCE CENTER",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          78.908203125,
+          29.9195556640625
+        ],
+        [
+          254.88697814941406,
+          29.9195556640625
+        ],
+        [
+          254.88697814941406,
+          43.999755859375
+        ],
+        [
+          78.908203125,
+          43.999755859375
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          307.5000915527344,
+          422.4877014160156
+        ],
+        [
+          366.3481140136719,
+          422.4877014160156
+        ],
+        [
+          366.3481140136719,
+          434.4877014160156
+        ],
+        [
+          307.5000915527344,
+          434.4877014160156
+        ]
+      ]
+    },
+    {
+      "title": "RESIDENT RESOURCE CENTER",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          61.2421875,
+          29.53125
+        ],
+        [
+          236.05877685546875,
+          29.53125
+        ],
+        [
+          236.05877685546875,
+          43.999755859375
+        ],
+        [
+          61.2421875,
+          43.999755859375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "TableCell",
+          19
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/PD0320_ResidentsRsrcCtr"
+}

@@ -1,0 +1,2462 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REVIEW",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          55.875,
+          65.27294921875
+        ],
+        [
+          91.92745208740234,
+          65.27294921875
+        ],
+        [
+          91.92745208740234,
+          75.52215576171875
+        ],
+        [
+          55.875,
+          75.52215576171875
+        ]
+      ]
+    },
+    {
+      "title": "A brief insight into the etiology, genetics, and immunology \nof polycystic ovarian syndrome (PCOS)",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.023597717285156,
+          106.21337890625
+        ],
+        [
+          430.5867919921875,
+          106.21337890625
+        ],
+        [
+          430.5867919921875,
+          140.238037109375
+        ],
+        [
+          51.023597717285156,
+          140.238037109375
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          50.927734375,
+          226.3310546875
+        ],
+        [
+          89.10459899902344,
+          226.3310546875
+        ],
+        [
+          89.10459899902344,
+          236.37689208984375
+        ],
+        [
+          50.927734375,
+          236.37689208984375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.1418151855469,
+          610.63037109375
+        ],
+        [
+          376.283203125,
+          610.63037109375
+        ],
+        [
+          376.283203125,
+          624.2804107666016
+        ],
+        [
+          306.1418151855469,
+          624.2804107666016
+        ]
+      ]
+    },
+    {
+      "title": "Defnition of PCOS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.40234375,
+          305.81109619140625
+        ],
+        [
+          404.5525207519531,
+          305.81109619140625
+        ],
+        [
+          404.5525207519531,
+          317.81109619140625
+        ],
+        [
+          304.40234375,
+          317.81109619140625
+        ]
+      ]
+    },
+    {
+      "title": "The etiology and pathophysiology of PCOS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          304.40234375,
+          318.64013671875
+        ],
+        [
+          533.7552490234375,
+          318.64013671875
+        ],
+        [
+          533.7552490234375,
+          330.8060607910156
+        ],
+        [
+          304.40234375,
+          330.8060607910156
+        ]
+      ]
+    },
+    {
+      "title": "Hyperandrogenism",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.693359375,
+          355.91363525390625
+        ],
+        [
+          394.5586242675781,
+          355.91363525390625
+        ],
+        [
+          394.5586242675781,
+          366.91363525390625
+        ],
+        [
+          304.693359375,
+          366.91363525390625
+        ]
+      ]
+    },
+    {
+      "title": "Insulin resistance",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          50.345703125,
+          418.41363525390625
+        ],
+        [
+          130.39849853515625,
+          418.41363525390625
+        ],
+        [
+          130.39849853515625,
+          429.41363525390625
+        ],
+        [
+          50.345703125,
+          429.41363525390625
+        ]
+      ]
+    },
+    {
+      "title": "Oxidative stress",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.857421875,
+          493.21630859375
+        ],
+        [
+          378.611328125,
+          493.21630859375
+        ],
+        [
+          378.611328125,
+          504.41363525390625
+        ],
+        [
+          305.857421875,
+          504.41363525390625
+        ]
+      ]
+    },
+    {
+      "title": "AGEs and PCOS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          305.857421875,
+          454.93109130859375
+        ],
+        [
+          387.923828125,
+          454.93109130859375
+        ],
+        [
+          387.923828125,
+          466.93109130859375
+        ],
+        [
+          305.857421875,
+          466.93109130859375
+        ]
+      ]
+    },
+    {
+      "title": "Alterations during prenatal development \nmay be etiologic mechanism for PCOS",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          303.8203125,
+          56.00341796875
+        ],
+        [
+          527.8273315429688,
+          56.00341796875
+        ],
+        [
+          527.8273315429688,
+          80.90313720703125
+        ],
+        [
+          303.8203125,
+          80.90313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Genetic predisposition and PCOS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          305.56640625,
+          241.7802734375
+        ],
+        [
+          481.7353210449219,
+          241.7802734375
+        ],
+        [
+          481.7353210449219,
+          254.43109130859375
+        ],
+        [
+          305.56640625,
+          254.43109130859375
+        ]
+      ]
+    },
+    {
+      "title": "Genes involved IN STEROIDOGENESIS",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          303.8203125,
+          455.91363525390625
+        ],
+        [
+          475.2436218261719,
+          455.91363525390625
+        ],
+        [
+          475.2436218261719,
+          466.91363525390625
+        ],
+        [
+          303.8203125,
+          466.91363525390625
+        ]
+      ]
+    },
+    {
+      "title": "CYP11a",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          305.56640625,
+          493.21630859375
+        ],
+        [
+          336.99609375,
+          493.21630859375
+        ],
+        [
+          336.99609375,
+          504.1175537109375
+        ],
+        [
+          305.56640625,
+          504.1175537109375
+        ]
+      ]
+    },
+    {
+      "title": "CYP17",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          50.345703125,
+          218.99267578125
+        ],
+        [
+          76.72360229492188,
+          218.99267578125
+        ],
+        [
+          76.72360229492188,
+          229.21044921875
+        ],
+        [
+          50.345703125,
+          229.21044921875
+        ]
+      ]
+    },
+    {
+      "title": "CYP19",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          49.181640625,
+          517.93505859375
+        ],
+        [
+          76.72360229492188,
+          517.93505859375
+        ],
+        [
+          76.72360229492188,
+          529.2104797363281
+        ],
+        [
+          49.181640625,
+          529.2104797363281
+        ]
+      ]
+    },
+    {
+      "title": "CYP21",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          306.1435852050781,
+          131.70458984375
+        ],
+        [
+          331.8435974121094,
+          131.70458984375
+        ],
+        [
+          331.8435974121094,
+          141.71044921875
+        ],
+        [
+          306.1435852050781,
+          141.71044921875
+        ]
+      ]
+    },
+    {
+      "title": "Genes involved in the action of steroid hormones",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          305.56640625,
+          343.35888671875
+        ],
+        [
+          529.2184448242188,
+          343.35888671875
+        ],
+        [
+          529.2184448242188,
+          354.41363525390625
+        ],
+        [
+          305.56640625,
+          354.41363525390625
+        ]
+      ]
+    },
+    {
+      "title": "Androgen receptor gene",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          304.111328125,
+          456.13818359375
+        ],
+        [
+          404.2707214355469,
+          456.13818359375
+        ],
+        [
+          404.2707214355469,
+          466.71051025390625
+        ],
+        [
+          304.111328125,
+          466.71051025390625
+        ]
+      ]
+    },
+    {
+      "title": "Sex hormone\u2011binding globulin gene",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          49.763671875,
+          106.71044921875
+        ],
+        [
+          196.3826141357422,
+          106.71044921875
+        ],
+        [
+          196.3826141357422,
+          116.71044921875
+        ],
+        [
+          49.763671875,
+          116.71044921875
+        ]
+      ]
+    },
+    {
+      "title": "Genes involved in gonadotropin action, regulation, \nand secretion",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          50.63671875,
+          455.751953125
+        ],
+        [
+          285.93634033203125,
+          455.751953125
+        ],
+        [
+          285.93634033203125,
+          479.4096374511719
+        ],
+        [
+          50.63671875,
+          479.4096374511719
+        ]
+      ]
+    },
+    {
+      "title": "Luteinizing hormone and its receptor gene",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          50.0546875,
+          594.2104949951172
+        ],
+        [
+          221.6316375732422,
+          594.2104949951172
+        ],
+        [
+          221.6316375732422,
+          604.2104949951172
+        ],
+        [
+          50.0546875,
+          604.2104949951172
+        ]
+      ]
+    },
+    {
+      "title": "Follicle\u2011stimulating hormone receptor",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          305.56640625,
+          350.6605224609375
+        ],
+        [
+          458.43157958984375,
+          350.6605224609375
+        ],
+        [
+          458.43157958984375,
+          360.6605224609375
+        ],
+        [
+          305.56640625,
+          360.6605224609375
+        ]
+      ]
+    },
+    {
+      "title": "AMH",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          304.40234375,
+          594.6105041503906
+        ],
+        [
+          325.7735595703125,
+          594.6105041503906
+        ],
+        [
+          325.7735595703125,
+          604.6105041503906
+        ],
+        [
+          304.40234375,
+          604.6105041503906
+        ]
+      ]
+    },
+    {
+      "title": "Follistatin gene",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.345703125,
+          94.21044921875
+        ],
+        [
+          112.82360076904297,
+          94.21044921875
+        ],
+        [
+          112.82360076904297,
+          104.21044921875
+        ],
+        [
+          50.345703125,
+          104.21044921875
+        ]
+      ]
+    },
+    {
+      "title": "Genes involved in secretion and action of insulin",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          50.0546875,
+          330.91363525390625
+        ],
+        [
+          271.2265625,
+          330.91363525390625
+        ],
+        [
+          271.2265625,
+          341.91363525390625
+        ],
+        [
+          50.0546875,
+          341.91363525390625
+        ]
+      ]
+    },
+    {
+      "title": "The insulin gene",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          49.763671875,
+          493.21630859375
+        ],
+        [
+          116.79359436035156,
+          493.21630859375
+        ],
+        [
+          116.79359436035156,
+          504.21051025390625
+        ],
+        [
+          49.763671875,
+          504.21051025390625
+        ]
+      ]
+    },
+    {
+      "title": "The insulin receptor gene",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          305.275390625,
+          106.599609375
+        ],
+        [
+          407.7726135253906,
+          106.599609375
+        ],
+        [
+          407.7726135253906,
+          116.71044921875
+        ],
+        [
+          305.275390625,
+          116.71044921875
+        ]
+      ]
+    },
+    {
+      "title": "Insulin receptor substrate genes",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          306.1484375,
+          431.033203125
+        ],
+        [
+          434.5826110839844,
+          431.033203125
+        ],
+        [
+          434.5826110839844,
+          441.71051025390625
+        ],
+        [
+          306.1484375,
+          441.71051025390625
+        ]
+      ]
+    },
+    {
+      "title": "Calpain 10 gene",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          49.47265625,
+          106.71044921875
+        ],
+        [
+          115.18359375,
+          106.71044921875
+        ],
+        [
+          115.18359375,
+          116.71044921875
+        ],
+        [
+          49.47265625,
+          116.71044921875
+        ]
+      ]
+    },
+    {
+      "title": "Other genes",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          50.0546875,
+          380.91363525390625
+        ],
+        [
+          106.8595962524414,
+          380.91363525390625
+        ],
+        [
+          106.8595962524414,
+          391.91363525390625
+        ],
+        [
+          50.0546875,
+          391.91363525390625
+        ]
+      ]
+    },
+    {
+      "title": "Fat mass obesity gene",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          49.763671875,
+          406.70068359375
+        ],
+        [
+          139.152587890625,
+          406.70068359375
+        ],
+        [
+          139.152587890625,
+          416.71051025390625
+        ],
+        [
+          49.763671875,
+          416.71051025390625
+        ]
+      ]
+    },
+    {
+      "title": "PPAR\u2011\u03b3 gene (peroxisome proliferator\u2011activated receptor\u2011\u03b3 \ngene)",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          50.63671875,
+          644.2104949951172
+        ],
+        [
+          287.04058837890625,
+          644.2104949951172
+        ],
+        [
+          287.04058837890625,
+          666.7105026245117
+        ],
+        [
+          50.63671875,
+          666.7105026245117
+        ]
+      ]
+    },
+    {
+      "title": "The role of kisspeptin in PCOS",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          304.984375,
+          392.43109130859375
+        ],
+        [
+          465.0313415527344,
+          392.43109130859375
+        ],
+        [
+          465.0313415527344,
+          404.43109130859375
+        ],
+        [
+          304.984375,
+          404.43109130859375
+        ]
+      ]
+    },
+    {
+      "title": "BMP signaling in PCOS",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          304.984375,
+          629.9311218261719
+        ],
+        [
+          426.4646301269531,
+          629.9311218261719
+        ],
+        [
+          426.4646301269531,
+          641.9311218261719
+        ],
+        [
+          304.984375,
+          641.9311218261719
+        ]
+      ]
+    },
+    {
+      "title": "GDF8 signaling and SERPINE1 expression \nin PCOS",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          51.023597717285156,
+          56.3896484375
+        ],
+        [
+          272.50518798828125,
+          56.3896484375
+        ],
+        [
+          272.50518798828125,
+          80.90313720703125
+        ],
+        [
+          51.023597717285156,
+          80.90313720703125
+        ]
+      ]
+    },
+    {
+      "title": "Transcriptome analysis of oocytes \nand cumulus cells in PCOS",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          50.0546875,
+          618.8991088867188
+        ],
+        [
+          233.49314880371094,
+          618.8991088867188
+        ],
+        [
+          233.49314880371094,
+          643.4031066894531
+        ],
+        [
+          50.0546875,
+          643.4031066894531
+        ]
+      ]
+    },
+    {
+      "title": "Immunology and PCOS",
+      "heading_level": null,
+      "page_id": 20,
+      "polygon": [
+        [
+          306.1417236328125,
+          590.9326171875
+        ],
+        [
+          429.248046875,
+          590.9326171875
+        ],
+        [
+          429.248046875,
+          604.4311218261719
+        ],
+        [
+          306.1417236328125,
+          604.4311218261719
+        ]
+      ]
+    },
+    {
+      "title": "PCOS subsequent to antiepileptic \nmedication & psychiatric medication",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          305.56640625,
+          354.17333984375
+        ],
+        [
+          500.5513000488281,
+          354.17333984375
+        ],
+        [
+          500.5513000488281,
+          379.4350891113281
+        ],
+        [
+          305.56640625,
+          379.4350891113281
+        ]
+      ]
+    },
+    {
+      "title": "Antiandrogen treatment in PCOS",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          306.1417236328125,
+          518.8060607910156
+        ],
+        [
+          481.2193298339844,
+          518.8060607910156
+        ],
+        [
+          481.2193298339844,
+          530.8060607910156
+        ],
+        [
+          306.1417236328125,
+          530.8060607910156
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion and future aspects",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          48.890625,
+          567.4311218261719
+        ],
+        [
+          211.859375,
+          567.4311218261719
+        ],
+        [
+          211.859375,
+          579.73193359375
+        ],
+        [
+          48.890625,
+          579.73193359375
+        ]
+      ]
+    },
+    {
+      "title": "Declarations",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          303.8203125,
+          343.40606689453125
+        ],
+        [
+          364.0622253417969,
+          343.40606689453125
+        ],
+        [
+          364.0622253417969,
+          354.40606689453125
+        ],
+        [
+          303.8203125,
+          354.40606689453125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          306.1417236328125,
+          447.8331298828125
+        ],
+        [
+          364.98974609375,
+          447.8331298828125
+        ],
+        [
+          364.98974609375,
+          459.8331298828125
+        ],
+        [
+          306.1417236328125,
+          459.8331298828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          125
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "TableCell",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "Line",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          176
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "TableCell",
+          44
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          29
+        ],
+        [
+          "Line",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          159
+        ],
+        [
+          "Line",
+          70
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          226
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          243
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          253
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          112
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          230
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          234
+        ],
+        [
+          "Line",
+          106
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          213
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          239
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Reference",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          395
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          33
+        ],
+        [
+          "Reference",
+          30
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          364
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "Reference",
+          30
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          381
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "Reference",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          393
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "Reference",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          371
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "Reference",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          27
+        ],
+        [
+          "Reference",
+          27
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          373
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          28
+        ],
+        [
+          "Reference",
+          28
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          409
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Reference",
+          28
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 33,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          396
+        ],
+        [
+          "Line",
+          134
+        ],
+        [
+          "ListItem",
+          31
+        ],
+        [
+          "Reference",
+          28
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 34,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "ListItem",
+          7
+        ],
+        [
+          "Reference",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/10815_2022_Article_2625"
+}

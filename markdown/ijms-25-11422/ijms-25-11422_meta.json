@@ -1,0 +1,1331 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Role of the Skin Microbiome in Acne: Challenges and\nFuture Therapeutic Opportunities",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          34.921875,
+          117.1728515625
+        ],
+        [
+          514.515625,
+          117.1728515625
+        ],
+        [
+          514.515625,
+          155.907470703125
+        ],
+        [
+          34.921875,
+          155.907470703125
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          165.005859375,
+          531.5947265625
+        ],
+        [
+          234.5082244873047,
+          531.5947265625
+        ],
+        [
+          234.5082244873047,
+          545.0447692871094
+        ],
+        [
+          165.005859375,
+          545.0447692871094
+        ]
+      ]
+    },
+    {
+      "title": "2. Commensal and Pathogenic Dynamics in the Skin Microbiota",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          165.296875,
+          452.6572265625
+        ],
+        [
+          458.640625,
+          452.6572265625
+        ],
+        [
+          458.640625,
+          464.0998229980469
+        ],
+        [
+          165.296875,
+          464.0998229980469
+        ]
+      ]
+    },
+    {
+      "title": "2.1. C. acnes and Its Influence on Acne Pathophysiology",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          164.71484375,
+          551.3291015625
+        ],
+        [
+          392.41546630859375,
+          551.3291015625
+        ],
+        [
+          392.41546630859375,
+          561.37451171875
+        ],
+        [
+          164.71484375,
+          561.37451171875
+        ]
+      ]
+    },
+    {
+      "title": "2.2. The Role of Staphylococcus Species",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          165.296875,
+          185.83203125
+        ],
+        [
+          324.6299743652344,
+          185.83203125
+        ],
+        [
+          324.6299743652344,
+          197.3385009765625
+        ],
+        [
+          165.296875,
+          197.3385009765625
+        ]
+      ]
+    },
+    {
+      "title": "2.2.1. Staphylococcus Capitis Strain E12 as C. acnes Inhibitor",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          164.71484375,
+          350.28515625
+        ],
+        [
+          429.83306884765625,
+          350.28515625
+        ],
+        [
+          429.83306884765625,
+          360.9980773925781
+        ],
+        [
+          164.71484375,
+          360.9980773925781
+        ]
+      ]
+    },
+    {
+      "title": "2.2.2. Staphylococcal-Produced Bacteriocins and Their Selective Inhibition of Pathogens",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          165.296875,
+          501.58203125
+        ],
+        [
+          551.765625,
+          501.58203125
+        ],
+        [
+          551.765625,
+          511.93310546875
+        ],
+        [
+          165.296875,
+          511.93310546875
+        ]
+      ]
+    },
+    {
+      "title": "2.2.3. The Potential of Staphylococcus in Acne Treatment",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          165.87890625,
+          689.4697265625
+        ],
+        [
+          416.15234375,
+          689.4697265625
+        ],
+        [
+          416.15234375,
+          700.5260772705078
+        ],
+        [
+          165.87890625,
+          700.5260772705078
+        ]
+      ]
+    },
+    {
+      "title": "2.3. The Malassezia Genus in Skin and Malassezia-Associated Skin Diseases",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          165.296875,
+          273.814453125
+        ],
+        [
+          474.0690612792969,
+          273.814453125
+        ],
+        [
+          474.0690612792969,
+          285.2095947265625
+        ],
+        [
+          165.296875,
+          285.2095947265625
+        ]
+      ]
+    },
+    {
+      "title": "3. Antimicrobial Resistance in Acne: Mechanisms, Complications and\nRecommendations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          164.1328125,
+          311.638671875
+        ],
+        [
+          483.5433349609375,
+          311.638671875
+        ],
+        [
+          483.5433349609375,
+          333.4068298339844
+        ],
+        [
+          164.1328125,
+          333.4068298339844
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Clinical Implications of Antibiotic Resistance in Acne",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          164.1328125,
+          587.2769165039062
+        ],
+        [
+          401.6015625,
+          587.2769165039062
+        ],
+        [
+          401.6015625,
+          597.2395172119141
+        ],
+        [
+          164.1328125,
+          597.2395172119141
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Prescribing Patterns and Guidelines for Acne Treatment",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          166.3939971923828,
+          124.162109375
+        ],
+        [
+          410.9140625,
+          124.162109375
+        ],
+        [
+          410.9140625,
+          134.573486328125
+        ],
+        [
+          166.3939971923828,
+          134.573486328125
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Recommendations and Future Directions",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          165.296875,
+          387.287109375
+        ],
+        [
+          349.6660461425781,
+          387.287109375
+        ],
+        [
+          349.6660461425781,
+          398.4844970703125
+        ],
+        [
+          165.296875,
+          398.4844970703125
+        ]
+      ]
+    },
+    {
+      "title": "4. Impact of Approved Non-Antibiotic Acne Treatments on the Skin Microbiome",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          165.296875,
+          475.6806640625
+        ],
+        [
+          533.140625,
+          475.6806640625
+        ],
+        [
+          533.140625,
+          486.7328186035156
+        ],
+        [
+          165.296875,
+          486.7328186035156
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Topical Treatments",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          165.87890625,
+          589.9669189453125
+        ],
+        [
+          260.16796875,
+          589.9669189453125
+        ],
+        [
+          260.16796875,
+          599.9295196533203
+        ],
+        [
+          165.87890625,
+          599.9295196533203
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Systemic Treatments",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          164.1328125,
+          248.7353515625
+        ],
+        [
+          267.7335510253906,
+          248.7353515625
+        ],
+        [
+          267.7335510253906,
+          260.103515625
+        ],
+        [
+          164.1328125,
+          260.103515625
+        ]
+      ]
+    },
+    {
+      "title": "5. Emerging Non-Antibiotic Medications for Acne",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          165.296875,
+          501.57720947265625
+        ],
+        [
+          393.88995361328125,
+          501.57720947265625
+        ],
+        [
+          393.88995361328125,
+          511.5398254394531
+        ],
+        [
+          165.296875,
+          511.5398254394531
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Trifarotene",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          165.87890625,
+          514.9479370117188
+        ],
+        [
+          227.97283935546875,
+          514.9479370117188
+        ],
+        [
+          227.97283935546875,
+          524.9105224609375
+        ],
+        [
+          165.87890625,
+          524.9105224609375
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Clascoterone",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          165.87890625,
+          87.5712890625
+        ],
+        [
+          235.34515380859375,
+          87.5712890625
+        ],
+        [
+          235.34515380859375,
+          99.6044921875
+        ],
+        [
+          165.87890625,
+          99.6044921875
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Oral Spironolactone",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          165.587890625,
+          300.94921875
+        ],
+        [
+          265.51190185546875,
+          300.94921875
+        ],
+        [
+          265.51190185546875,
+          313.30352783203125
+        ],
+        [
+          165.587890625,
+          313.30352783203125
+        ]
+      ]
+    },
+    {
+      "title": "5.4. NAC-GED Gel",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          164.71484375,
+          603.9541015625
+        ],
+        [
+          247.36328125,
+          603.9541015625
+        ],
+        [
+          247.36328125,
+          614.8735046386719
+        ],
+        [
+          164.71484375,
+          614.8735046386719
+        ]
+      ]
+    },
+    {
+      "title": "6. Bioactive Approaches to Optimize Microbial Balance",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          165.296875,
+          187.0654296875
+        ],
+        [
+          417.9595642089844,
+          187.0654296875
+        ],
+        [
+          417.9595642089844,
+          197.7548828125
+        ],
+        [
+          165.296875,
+          197.7548828125
+        ]
+      ]
+    },
+    {
+      "title": "6.1. Probiotics",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          164.71484375,
+          200.2216796875
+        ],
+        [
+          224.45603942871094,
+          200.2216796875
+        ],
+        [
+          224.45603942871094,
+          210.7874755859375
+        ],
+        [
+          164.71484375,
+          210.7874755859375
+        ]
+      ]
+    },
+    {
+      "title": "6.2. Prebiotics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          165.296875,
+          123.7509765625
+        ],
+        [
+          223.90809631347656,
+          123.7509765625
+        ],
+        [
+          223.90809631347656,
+          134.573486328125
+        ],
+        [
+          165.296875,
+          134.573486328125
+        ]
+      ]
+    },
+    {
+      "title": "6.3. Synbiotics",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          165.587890625,
+          400.0322265625
+        ],
+        [
+          226.30908203125,
+          400.0322265625
+        ],
+        [
+          226.30908203125,
+          411.03753662109375
+        ],
+        [
+          165.587890625,
+          411.03753662109375
+        ]
+      ]
+    },
+    {
+      "title": "7. Phage-Therapy",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          164.71484375,
+          652.5111846923828
+        ],
+        [
+          246.1446075439453,
+          652.5111846923828
+        ],
+        [
+          246.1446075439453,
+          662.4737854003906
+        ],
+        [
+          164.71484375,
+          662.4737854003906
+        ]
+      ]
+    },
+    {
+      "title": "8. Conclusions: Discussion and Future Directions",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          165.296875,
+          400.443359375
+        ],
+        [
+          391.40924072265625,
+          400.443359375
+        ],
+        [
+          391.40924072265625,
+          410.8168029785156
+        ],
+        [
+          165.296875,
+          410.8168029785156
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          34.33984375,
+          377.8310546875
+        ],
+        [
+          85.51902770996094,
+          377.8310546875
+        ],
+        [
+          85.51902770996094,
+          388.2217712402344
+        ],
+        [
+          34.33984375,
+          388.2217712402344
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          145
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "TableCell",
+          20
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          169
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          154
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          142
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          140
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          175
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          134
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          138
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          326
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "Reference",
+          15
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          487
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Reference",
+          25
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          453
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Reference",
+          25
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          381
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          22
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          386
+        ],
+        [
+          "Line",
+          59
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          92
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "ListItem",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/ijms-25-11422"
+}

@@ -1,0 +1,995 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REVIEW ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.287153652392945,
+          68.818359375
+        ],
+        [
+          144.87153652392948,
+          68.818359375
+        ],
+        [
+          144.87153652392948,
+          78.0
+        ],
+        [
+          44.287153652392945,
+          78.0
+        ]
+      ]
+    },
+    {
+      "title": "Transepidermal water loss (TEWL): Environment and pollution\u2014A systematic review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.287153652392945,
+          109.3447265625
+        ],
+        [
+          502.92191435768257,
+          108.0
+        ],
+        [
+          502.92191435768257,
+          150.6357421875
+        ],
+        [
+          44.287153652392945,
+          150.6357421875
+        ]
+      ]
+    },
+    {
+      "title": "Correspondence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.287153652392945,
+          307.5
+        ],
+        [
+          102.08564231738035,
+          308.25
+        ],
+        [
+          102.08564231738035,
+          315.75
+        ],
+        [
+          44.287153652392945,
+          315.41748046875
+        ]
+      ]
+    },
+    {
+      "title": "Funding information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.287153652392945,
+          358.5
+        ],
+        [
+          114.84634760705289,
+          358.5
+        ],
+        [
+          114.84634760705289,
+          366.0
+        ],
+        [
+          44.287153652392945,
+          366.0
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          208.658203125,
+          219.4541015625
+        ],
+        [
+          253.71284634760704,
+          219.4541015625
+        ],
+        [
+          253.71284634760704,
+          228.0
+        ],
+        [
+          208.658203125,
+          228.0
+        ]
+      ]
+    },
+    {
+      "title": "1 | INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.65234375,
+          518.431640625
+        ],
+        [
+          168.1410579345088,
+          518.431640625
+        ],
+        [
+          168.1410579345088,
+          529.5
+        ],
+        [
+          43.65234375,
+          529.5
+        ]
+      ]
+    },
+    {
+      "title": "2 | METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.287153652392945,
+          658.5
+        ],
+        [
+          135.8639798488665,
+          658.5
+        ],
+        [
+          135.8639798488665,
+          668.25
+        ],
+        [
+          44.287153652392945,
+          668.25
+        ]
+      ]
+    },
+    {
+      "title": "What is already known about this topic?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          321.28125,
+          61.5
+        ],
+        [
+          519.4357682619648,
+          61.5
+        ],
+        [
+          519.4357682619648,
+          71.49462890625
+        ],
+        [
+          321.28125,
+          71.49462890625
+        ]
+      ]
+    },
+    {
+      "title": "What does this study add?",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          322.77078085642313,
+          156.37060546875
+        ],
+        [
+          453.693359375,
+          156.37060546875
+        ],
+        [
+          453.693359375,
+          166.31103515625
+        ],
+        [
+          322.77078085642313,
+          166.31103515625
+        ]
+      ]
+    },
+    {
+      "title": "3 | RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.56640625,
+          573.86865234375
+        ],
+        [
+          393.3299748110831,
+          573.86865234375
+        ],
+        [
+          393.3299748110831,
+          584.25
+        ],
+        [
+          305.56640625,
+          584.25
+        ]
+      ]
+    },
+    {
+      "title": "3.1 | Study characteristics",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.984375,
+          599.25
+        ],
+        [
+          469.14357682619647,
+          599.25
+        ],
+        [
+          469.14357682619647,
+          610.189453125
+        ],
+        [
+          304.984375,
+          610.189453125
+        ]
+      ]
+    },
+    {
+      "title": "3.2 | Climate conditions and seasonal variation",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.65234375,
+          512.69677734375
+        ],
+        [
+          273.97984886649874,
+          512.69677734375
+        ],
+        [
+          273.97984886649874,
+          535.5
+        ],
+        [
+          43.65234375,
+          535.5
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 | Seasonal variation in TEWL",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.287153652392945,
+          551.25
+        ],
+        [
+          245.45591939546597,
+          551.25
+        ],
+        [
+          245.45591939546597,
+          560.86962890625
+        ],
+        [
+          44.287153652392945,
+          560.86962890625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 | Indoor humidity",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.275390625,
+          258.75
+        ],
+        [
+          439.8690176322418,
+          258.75
+        ],
+        [
+          439.8690176322418,
+          269.53857421875
+        ],
+        [
+          305.275390625,
+          269.53857421875
+        ]
+      ]
+    },
+    {
+      "title": "3.2.3 | Daily variation in TEWL",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          44.287153652392945,
+          47.79052734375
+        ],
+        [
+          222.93702770780857,
+          47.79052734375
+        ],
+        [
+          222.93702770780857,
+          59.26025390625
+        ],
+        [
+          44.287153652392945,
+          59.26025390625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.4 | Climate conditions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          44.525390625,
+          262.2744140625
+        ],
+        [
+          194.4130982367758,
+          262.2744140625
+        ],
+        [
+          194.4130982367758,
+          273.75
+        ],
+        [
+          44.525390625,
+          273.75
+        ]
+      ]
+    },
+    {
+      "title": "3.2.5 | Altitude",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          44.287153652392945,
+          573.86865234375
+        ],
+        [
+          135.8639798488665,
+          573.86865234375
+        ],
+        [
+          135.8639798488665,
+          584.25
+        ],
+        [
+          44.287153652392945,
+          584.25
+        ]
+      ]
+    },
+    {
+      "title": "3.2.6 | Geographical location",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.5062972292191,
+          47.79052734375
+        ],
+        [
+          474.35546875,
+          47.79052734375
+        ],
+        [
+          474.35546875,
+          59.26025390625
+        ],
+        [
+          305.5062972292191,
+          59.26025390625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 | Pollution",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          305.5062972292191,
+          346.76806640625
+        ],
+        [
+          398.5843828715365,
+          346.76806640625
+        ],
+        [
+          398.5843828715365,
+          357.75
+        ],
+        [
+          305.5062972292191,
+          357.75
+        ]
+      ]
+    },
+    {
+      "title": "4 | DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.525390625,
+          562.5
+        ],
+        [
+          150.8765743073048,
+          562.5
+        ],
+        [
+          150.8765743073048,
+          573.10400390625
+        ],
+        [
+          44.525390625,
+          573.10400390625
+        ]
+      ]
+    },
+    {
+      "title": "5 | CONCLUSION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          45.637699127197266,
+          215.24853515625
+        ],
+        [
+          155.8770751953125,
+          215.24853515625
+        ],
+        [
+          155.8770751953125,
+          229.30731201171875
+        ],
+        [
+          45.637699127197266,
+          229.30731201171875
+        ]
+      ]
+    },
+    {
+      "title": "CONFLICT OF INTEREST",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          44.81640625,
+          540.22412109375
+        ],
+        [
+          182.60850524902344,
+          540.22412109375
+        ],
+        [
+          182.60850524902344,
+          551.5527038574219
+        ],
+        [
+          44.81640625,
+          551.5527038574219
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          45.107421875,
+          576.92724609375
+        ],
+        [
+          192.48744201660156,
+          576.92724609375
+        ],
+        [
+          192.48744201660156,
+          587.3822021484375
+        ],
+        [
+          45.107421875,
+          587.3822021484375
+        ]
+      ]
+    },
+    {
+      "title": "DATA AVAILABILITY STATEMENT",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.87799072265625,
+          49.31982421875
+        ],
+        [
+          497.0546875,
+          49.31982421875
+        ],
+        [
+          497.0546875,
+          61.3887939453125
+        ],
+        [
+          306.87799072265625,
+          61.3887939453125
+        ]
+      ]
+    },
+    {
+      "title": "ORCID",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.87799072265625,
+          97.875
+        ],
+        [
+          343.107421875,
+          97.875
+        ],
+        [
+          343.107421875,
+          109.2381591796875
+        ],
+        [
+          306.87799072265625,
+          109.2381591796875
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          306.1484375,
+          148.341796875
+        ],
+        [
+          383.9297180175781,
+          148.341796875
+        ],
+        [
+          383.9297180175781,
+          158.95574951171875
+        ],
+        [
+          306.1484375,
+          158.95574951171875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          100
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          123
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          73
+        ],
+        [
+          "Span",
+          18
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          921
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          101
+        ],
+        [
+          "Span",
+          89
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "TableCell",
+          8
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          121
+        ],
+        [
+          "Span",
+          71
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1605
+        ],
+        [
+          "Line",
+          116
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1152
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/SKI2-2-e104"
+}

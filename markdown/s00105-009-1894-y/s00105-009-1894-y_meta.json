@@ -1,0 +1,1376 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Leitthema",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.298828125,
+          39.3348388671875
+        ],
+        [
+          271.27459716796875,
+          39.3348388671875
+        ],
+        [
+          271.27459716796875,
+          51.3348388671875
+        ],
+        [
+          220.298828125,
+          51.3348388671875
+        ]
+      ]
+    },
+    {
+      "title": "C.C. Zouboulis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.0078125,
+          67.92034912109375
+        ],
+        [
+          276.78240966796875,
+          67.92034912109375
+        ],
+        [
+          276.78240966796875,
+          77.92034912109375
+        ],
+        [
+          220.0078125,
+          77.92034912109375
+        ]
+      ]
+    },
+    {
+      "title": "Die Talgdr\u00fcse",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          221.10240173339844,
+          122.4488525390625
+        ],
+        [
+          386.702392578125,
+          122.4488525390625
+        ],
+        [
+          386.702392578125,
+          152.4488525390625
+        ],
+        [
+          221.10240173339844,
+          152.4488525390625
+        ]
+      ]
+    },
+    {
+      "title": "Talgdr\u00fcsenentwicklung \nund Zelldifferenzierung",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          220.298828125,
+          473.5185546875
+        ],
+        [
+          328.9794006347656,
+          473.5185546875
+        ],
+        [
+          328.9794006347656,
+          498.12353515625
+        ],
+        [
+          220.298828125,
+          498.12353515625
+        ]
+      ]
+    },
+    {
+      "title": "Tab. 1 Endokrine Funktionen der Talgdr\u00fcse",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          225.60440063476562,
+          554.626953125
+        ],
+        [
+          385.3046875,
+          554.626953125
+        ],
+        [
+          385.3046875,
+          565.7270355224609
+        ],
+        [
+          225.60440063476562,
+          565.7270355224609
+        ]
+      ]
+    },
+    {
+      "title": "Sebum and Talgdr\u00fcsenlipide",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          219.134765625,
+          367.1234436035156
+        ],
+        [
+          348.927734375,
+          367.1234436035156
+        ],
+        [
+          348.927734375,
+          378.1234436035156
+        ],
+        [
+          219.134765625,
+          378.1234436035156
+        ]
+      ]
+    },
+    {
+      "title": "Hier steht eine Anzeige.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          72.06045340050377,
+          242.1734597156398
+        ],
+        [
+          562.2216624685138,
+          243.3251953125
+        ],
+        [
+          562.2216624685138,
+          291.6578199052133
+        ],
+        [
+          71.30982367758186,
+          291.2177734375
+        ]
+      ]
+    },
+    {
+      "title": "Zusammenfassung \u00b7 Abstract",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          228.447265625,
+          39.00927734375
+        ],
+        [
+          372.208984375,
+          39.00927734375
+        ],
+        [
+          372.208984375,
+          51.3271484375
+        ],
+        [
+          228.447265625,
+          51.3271484375
+        ]
+      ]
+    },
+    {
+      "title": "Hormone und Hormonrezeptoren",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          50.63671875,
+          223.1234130859375
+        ],
+        [
+          201.12954711914062,
+          223.1234130859375
+        ],
+        [
+          201.12954711914062,
+          234.1234130859375
+        ],
+        [
+          50.63671875,
+          234.1234130859375
+        ]
+      ]
+    },
+    {
+      "title": "Peptidhormone und\nNeurotransmitterrezeptoren",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          49.181640625,
+          342.2001953125
+        ],
+        [
+          173.72857666015625,
+          342.2001953125
+        ],
+        [
+          173.72857666015625,
+          366.140380859375
+        ],
+        [
+          49.181640625,
+          366.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "C.C. Zouboulis\nDie Talgdr\u00fcse",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          227.865234375,
+          98.1025390625
+        ],
+        [
+          290.60980224609375,
+          98.1025390625
+        ],
+        [
+          290.60980224609375,
+          120.15185546875
+        ],
+        [
+          227.865234375,
+          120.15185546875
+        ]
+      ]
+    },
+    {
+      "title": "Zusammenfassung",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          228.73828125,
+          130.5458984375
+        ],
+        [
+          295.55230712890625,
+          130.5458984375
+        ],
+        [
+          295.55230712890625,
+          140.00555419921875
+        ],
+        [
+          228.73828125,
+          140.00555419921875
+        ]
+      ]
+    },
+    {
+      "title": "Schl\u00fcsselw\u00f6rter",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          391.416015625,
+          303.96337890625
+        ],
+        [
+          446.708984375,
+          303.96337890625
+        ],
+        [
+          446.708984375,
+          313.405517578125
+        ],
+        [
+          391.416015625,
+          313.405517578125
+        ]
+      ]
+    },
+    {
+      "title": "The sebaceous gland",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          229.029296875,
+          364.1518249511719
+        ],
+        [
+          322.83978271484375,
+          364.1518249511719
+        ],
+        [
+          322.83978271484375,
+          375.1518249511719
+        ],
+        [
+          229.029296875,
+          375.1518249511719
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          228.15625,
+          385.4580078125
+        ],
+        [
+          259.1808166503906,
+          385.4580078125
+        ],
+        [
+          259.1808166503906,
+          395.0055236816406
+        ],
+        [
+          228.15625,
+          395.0055236816406
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          391.464599609375,
+          567.37255859375
+        ],
+        [
+          426.62890625,
+          567.37255859375
+        ],
+        [
+          426.62890625,
+          578.6055145263672
+        ],
+        [
+          391.464599609375,
+          578.6055145263672
+        ]
+      ]
+    },
+    {
+      "title": "Nuklearrezeptoren",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          390.251953125,
+          643.140380859375
+        ],
+        [
+          472.5040588378906,
+          643.140380859375
+        ],
+        [
+          472.5040588378906,
+          654.140380859375
+        ],
+        [
+          390.251953125,
+          654.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Andere Rezeptoren in\nhumanen Sebozyten",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          390.833984375,
+          197.36376953125
+        ],
+        [
+          484.60406494140625,
+          197.36376953125
+        ],
+        [
+          484.60406494140625,
+          222.14031982421875
+        ],
+        [
+          390.833984375,
+          222.14031982421875
+        ]
+      ]
+    },
+    {
+      "title": "Hormonelle Kontrolle",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          389.669921875,
+          678.60693359375
+        ],
+        [
+          487.91510009765625,
+          678.60693359375
+        ],
+        [
+          487.91510009765625,
+          690.1234512329102
+        ],
+        [
+          389.669921875,
+          690.1234512329102
+        ]
+      ]
+    },
+    {
+      "title": "Androgene",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.0546875,
+          151.14031982421875
+        ],
+        [
+          99.62159729003906,
+          151.14031982421875
+        ],
+        [
+          99.62159729003906,
+          162.14031982421875
+        ],
+        [
+          50.0546875,
+          162.14031982421875
+        ]
+      ]
+    },
+    {
+      "title": "\u00d6strogene",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          49.181640625,
+          415.140380859375
+        ],
+        [
+          96.40959167480469,
+          415.140380859375
+        ],
+        [
+          96.40959167480469,
+          426.140380859375
+        ],
+        [
+          49.181640625,
+          426.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Progesteron",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          50.927734375,
+          690.96630859375
+        ],
+        [
+          104.01060485839844,
+          690.96630859375
+        ],
+        [
+          104.01060485839844,
+          702.140380859375
+        ],
+        [
+          50.927734375,
+          702.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Glukokortikoide",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          220.0078125,
+          271.140380859375
+        ],
+        [
+          291.00732421875,
+          271.140380859375
+        ],
+        [
+          291.00732421875,
+          282.140380859375
+        ],
+        [
+          220.0078125,
+          282.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Schilddr\u00fcsenhormone",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          221.10231018066406,
+          595.140380859375
+        ],
+        [
+          317.28631591796875,
+          595.140380859375
+        ],
+        [
+          317.28631591796875,
+          606.140380859375
+        ],
+        [
+          221.10231018066406,
+          606.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Insulin",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          391.18109130859375,
+          66.81787109375
+        ],
+        [
+          420.36407470703125,
+          66.81787109375
+        ],
+        [
+          420.36407470703125,
+          78.14031982421875
+        ],
+        [
+          391.18109130859375,
+          78.14031982421875
+        ]
+      ]
+    },
+    {
+      "title": "Wachstumshormon,\ninsulin\u00e4hnlicheWachstumsfaktoren",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          389.37890625,
+          271.140380859375
+        ],
+        [
+          544.3120727539062,
+          271.140380859375
+        ],
+        [
+          544.3120727539062,
+          294.140380859375
+        ],
+        [
+          389.37890625,
+          294.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Prolaktin",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          391.18109130859375,
+          666.24755859375
+        ],
+        [
+          432.158203125,
+          666.24755859375
+        ],
+        [
+          432.158203125,
+          678.140380859375
+        ],
+        [
+          391.18109130859375,
+          678.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Hier steht eine Anzeige.",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          72.06045340050377,
+          242.1734597156398
+        ],
+        [
+          562.2216624685138,
+          243.3251953125
+        ],
+        [
+          562.2216624685138,
+          291.6578199052133
+        ],
+        [
+          71.30982367758186,
+          291.2177734375
+        ]
+      ]
+    },
+    {
+      "title": "Gonadotrope Hormone",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          49.763671875,
+          127.06982421875
+        ],
+        [
+          151.84959411621094,
+          127.06982421875
+        ],
+        [
+          151.84959411621094,
+          138.14031982421875
+        ],
+        [
+          49.763671875,
+          138.14031982421875
+        ]
+      ]
+    },
+    {
+      "title": "CRH und\nProopiomelanocortinpeptide",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          50.0546875,
+          257.2294921875
+        ],
+        [
+          177.10556030273438,
+          257.2294921875
+        ],
+        [
+          177.10556030273438,
+          282.140380859375
+        ],
+        [
+          50.0546875,
+          282.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Ver\u00e4nderungen bei Erkrankungen",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          218.84375,
+          103.1234130859375
+        ],
+        [
+          373.1552429199219,
+          103.1234130859375
+        ],
+        [
+          373.1552429199219,
+          114.32421875
+        ],
+        [
+          218.84375,
+          114.32421875
+        ]
+      ]
+    },
+    {
+      "title": "Atopische Dermatitis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          220.298828125,
+          127.14031982421875
+        ],
+        [
+          311.39031982421875,
+          127.14031982421875
+        ],
+        [
+          311.39031982421875,
+          138.14031982421875
+        ],
+        [
+          220.298828125,
+          138.14031982421875
+        ]
+      ]
+    },
+    {
+      "title": "Seborrhoische Dermatitis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          220.298828125,
+          535.140380859375
+        ],
+        [
+          330.54132080078125,
+          535.140380859375
+        ],
+        [
+          330.54132080078125,
+          546.140380859375
+        ],
+        [
+          220.298828125,
+          546.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Psoriasis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          220.0078125,
+          641.52880859375
+        ],
+        [
+          258.2933044433594,
+          641.52880859375
+        ],
+        [
+          258.2933044433594,
+          654.140380859375
+        ],
+        [
+          220.0078125,
+          654.140380859375
+        ]
+      ]
+    },
+    {
+      "title": "Acne vulgaris",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          389.087890625,
+          163.14031982421875
+        ],
+        [
+          449.037109375,
+          163.14031982421875
+        ],
+        [
+          449.037109375,
+          174.14031982421875
+        ],
+        [
+          389.087890625,
+          174.14031982421875
+        ]
+      ]
+    },
+    {
+      "title": "Korrespondenzadresse",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          391.125,
+          570.076171875
+        ],
+        [
+          493.91009521484375,
+          570.076171875
+        ],
+        [
+          493.91009521484375,
+          582.1234436035156
+        ],
+        [
+          391.125,
+          582.1234436035156
+        ]
+      ]
+    },
+    {
+      "title": "Prof. Dr. C.C. Zouboulis",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          388.796875,
+          582.82177734375
+        ],
+        [
+          469.2961120605469,
+          582.82177734375
+        ],
+        [
+          469.2961120605469,
+          593.5771179199219
+        ],
+        [
+          388.796875,
+          593.5771179199219
+        ]
+      ]
+    },
+    {
+      "title": "Literatur (Auswahl)",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          391.18109130859375,
+          690.96630859375
+        ],
+        [
+          477.556640625,
+          690.96630859375
+        ],
+        [
+          477.556640625,
+          702.1234512329102
+        ],
+        [
+          391.18109130859375,
+          702.1234512329102
+        ]
+      ]
+    },
+    {
+      "title": "Das vollst\u00e4ndige Literaturverzeichnis ...",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          229.611328125,
+          606.4181976318359
+        ],
+        [
+          370.19976806640625,
+          606.4181976318359
+        ],
+        [
+          370.19976806640625,
+          616.03759765625
+        ],
+        [
+          229.611328125,
+          616.03759765625
+        ]
+      ]
+    },
+    {
+      "title": "Fachnachrichten",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          398.8780822753906,
+          36.69189453125
+        ],
+        [
+          479.884765625,
+          36.69189453125
+        ],
+        [
+          479.884765625,
+          50.46331787109375
+        ],
+        [
+          398.8780822753906,
+          50.46331787109375
+        ]
+      ]
+    },
+    {
+      "title": "Professor Stefan Vieths neuer \nVizepr\u00e4sident des PEI",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          398.982421875,
+          67.12353515625
+        ],
+        [
+          532.655517578125,
+          67.12353515625
+        ],
+        [
+          532.655517578125,
+          90.12353515625
+        ],
+        [
+          398.982421875,
+          90.12353515625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          437
+        ],
+        [
+          "Line",
+          128
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          362
+        ],
+        [
+          "Line",
+          162
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          4
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          530
+        ],
+        [
+          "Line",
+          147
+        ],
+        [
+          "TableCell",
+          24
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          969
+        ],
+        [
+          "Line",
+          139
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          343
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          165
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          261
+        ],
+        [
+          "Line",
+          153
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          4
+        ],
+        [
+          "Span",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          327
+        ],
+        [
+          "Line",
+          154
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          10
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1918
+        ],
+        [
+          "Line",
+          174
+        ],
+        [
+          "ListItem",
+          32
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/s00105-009-1894-y"
+}

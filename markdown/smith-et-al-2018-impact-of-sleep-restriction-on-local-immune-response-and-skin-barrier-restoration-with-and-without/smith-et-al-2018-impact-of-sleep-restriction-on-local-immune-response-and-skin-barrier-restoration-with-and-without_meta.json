@@ -1,0 +1,846 @@
+{
+  "table_of_contents": [
+    {
+      "title": "RESEARCH ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.0,
+          69.20068359375
+        ],
+        [
+          164.25,
+          69.20068359375
+        ],
+        [
+          164.25,
+          79.5
+        ],
+        [
+          42.0,
+          79.5
+        ]
+      ]
+    },
+    {
+      "title": "Impact of sleep restriction on local immune response and skin barrier restoration with and without \"multinutrient\" nutrition intervention",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.220703125,
+          102.75
+        ],
+        [
+          501.75,
+          102.75
+        ],
+        [
+          501.75,
+          136.8720703125
+        ],
+        [
+          41.220703125,
+          136.8720703125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.75,
+          305.25
+        ],
+        [
+          372.0,
+          305.25
+        ],
+        [
+          372.0,
+          313.5
+        ],
+        [
+          306.75,
+          313.5
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.75,
+          264.75
+        ],
+        [
+          422.25,
+          264.75
+        ],
+        [
+          422.25,
+          273.0
+        ],
+        [
+          306.75,
+          273.0
+        ]
+      ]
+    },
+    {
+      "title": "Participants",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.5010986328125,
+          127.04071044921875
+        ],
+        [
+          88.330078125,
+          127.04071044921875
+        ],
+        [
+          88.330078125,
+          136.04071044921875
+        ],
+        [
+          43.5010986328125,
+          136.04071044921875
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.7998046875,
+          188.81402587890625
+        ],
+        [
+          343.95599365234375,
+          188.81402587890625
+        ],
+        [
+          343.95599365234375,
+          196.81402587890625
+        ],
+        [
+          306.7998046875,
+          196.81402587890625
+        ]
+      ]
+    },
+    {
+      "title": "Baseline Measurements",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          307.5,
+          205.267578125
+        ],
+        [
+          403.66845703125,
+          205.267578125
+        ],
+        [
+          403.66845703125,
+          215.267578125
+        ],
+        [
+          307.5,
+          215.267578125
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          305.32763671875,
+          656.25
+        ],
+        [
+          357.0,
+          656.25
+        ],
+        [
+          357.0,
+          664.86181640625
+        ],
+        [
+          305.32763671875,
+          664.86181640625
+        ]
+      ]
+    },
+    {
+      "title": "Conclusion",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          307.388671875,
+          690.09521484375
+        ],
+        [
+          353.05792236328125,
+          690.09521484375
+        ],
+        [
+          353.05792236328125,
+          700.159423828125
+        ],
+        [
+          307.388671875,
+          700.159423828125
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.69287109375,
+          256.921875
+        ],
+        [
+          132.39599609375,
+          256.921875
+        ],
+        [
+          132.39599609375,
+          265.39361572265625
+        ],
+        [
+          42.69287109375,
+          265.39361572265625
+        ]
+      ]
+    },
+    {
+      "title": "GRANTS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          43.5,
+          327.26953125
+        ],
+        [
+          76.83599853515625,
+          327.26953125
+        ],
+        [
+          76.83599853515625,
+          335.4728088378906
+        ],
+        [
+          43.5,
+          335.4728088378906
+        ]
+      ]
+    },
+    {
+      "title": "DISCLAIMERS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.10400390625,
+          405.64599609375
+        ],
+        [
+          99.947998046875,
+          405.64599609375
+        ],
+        [
+          99.947998046875,
+          414.552001953125
+        ],
+        [
+          42.10400390625,
+          414.552001953125
+        ]
+      ]
+    },
+    {
+      "title": "DISCLOSURES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.3984375,
+          485.16943359375
+        ],
+        [
+          99.95600128173828,
+          485.16943359375
+        ],
+        [
+          99.95600128173828,
+          493.6311950683594
+        ],
+        [
+          42.3984375,
+          493.6311950683594
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.69287109375,
+          518.81396484375
+        ],
+        [
+          150.61119079589844,
+          518.81396484375
+        ],
+        [
+          150.61119079589844,
+          527.7223815917969
+        ],
+        [
+          42.69287109375,
+          527.7223815917969
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          42.69287109375,
+          607.51318359375
+        ],
+        [
+          97.28399658203125,
+          607.51318359375
+        ],
+        [
+          97.28399658203125,
+          615.92431640625
+        ],
+        [
+          42.69287109375,
+          615.92431640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          109
+        ],
+        [
+          "Span",
+          95
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          129
+        ],
+        [
+          "Span",
+          83
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          75
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          380
+        ],
+        [
+          "TableCell",
+          118
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1046
+        ],
+        [
+          "TableCell",
+          165
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          142
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          134
+        ],
+        [
+          "Span",
+          58
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          278
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          467
+        ],
+        [
+          "Line",
+          135
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          573
+        ],
+        [
+          "Line",
+          139
+        ],
+        [
+          "ListItem",
+          36
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without"
+}

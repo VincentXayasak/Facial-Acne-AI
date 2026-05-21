@@ -1,0 +1,807 @@
+{
+  "table_of_contents": [
+    {
+      "title": "WOUND CARE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          72.69873046875,
+          95.185546875
+        ],
+        [
+          160.7143096923828,
+          95.185546875
+        ],
+        [
+          160.7143096923828,
+          108.4937744140625
+        ],
+        [
+          72.69873046875,
+          108.4937744140625
+        ]
+      ]
+    },
+    {
+      "title": "The Effect of Washing and Drying\nPractices on Skin Barrier Function",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          157.25390625,
+          119.3994140625
+        ],
+        [
+          513.3432006835938,
+          119.3994140625
+        ],
+        [
+          513.3432006835938,
+          171.09136962890625
+        ],
+        [
+          157.25390625,
+          171.09136962890625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          68.642578125,
+          682.2666168212891
+        ],
+        [
+          149.4442596435547,
+          682.2666168212891
+        ],
+        [
+          149.4442596435547,
+          696.2666168212891
+        ],
+        [
+          68.642578125,
+          696.2666168212891
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          329.484375,
+          166.50042724609375
+        ],
+        [
+          390.2444763183594,
+          166.50042724609375
+        ],
+        [
+          390.2444763183594,
+          180.50042724609375
+        ],
+        [
+          329.484375,
+          180.50042724609375
+        ]
+      ]
+    },
+    {
+      "title": "Design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          328.8603515625,
+          186.61376953125
+        ],
+        [
+          360.8370056152344,
+          186.61376953125
+        ],
+        [
+          360.8370056152344,
+          197.69195556640625
+        ],
+        [
+          328.8603515625,
+          197.69195556640625
+        ]
+      ]
+    },
+    {
+      "title": "Subjects",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          327.92431640625,
+          726.83349609375
+        ],
+        [
+          367.2646789550781,
+          726.83349609375
+        ],
+        [
+          367.2646789550781,
+          737.6919250488281
+        ],
+        [
+          327.92431640625,
+          737.6919250488281
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.642578125,
+          69.3017578125
+        ],
+        [
+          113.572265625,
+          69.3017578125
+        ],
+        [
+          113.572265625,
+          77.6513671875
+        ],
+        [
+          68.642578125,
+          77.6513671875
+        ]
+      ]
+    },
+    {
+      "title": "Study Protocol",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          68.33056640625,
+          247.1484375
+        ],
+        [
+          135.10107421875,
+          247.1484375
+        ],
+        [
+          135.10107421875,
+          257.69195556640625
+        ],
+        [
+          68.33056640625,
+          257.69195556640625
+        ]
+      ]
+    },
+    {
+      "title": "TABLE 1.",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          71.45068359375,
+          573.20068359375
+        ],
+        [
+          110.93040466308594,
+          573.20068359375
+        ],
+        [
+          110.93040466308594,
+          583.25
+        ],
+        [
+          71.45068359375,
+          583.25
+        ]
+      ]
+    },
+    {
+      "title": "Washing and Drying Techniques Used in Studya",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          67.39453125,
+          589.46875
+        ],
+        [
+          269.578125,
+          589.46875
+        ],
+        [
+          269.578125,
+          599.08447265625
+        ],
+        [
+          67.39453125,
+          599.08447265625
+        ]
+      ]
+    },
+    {
+      "title": "Washing Technique",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          152.61170959472656,
+          609.9006195068359
+        ],
+        [
+          226.20849609375,
+          609.9006195068359
+        ],
+        [
+          226.20849609375,
+          619.12353515625
+        ],
+        [
+          152.61170959472656,
+          619.12353515625
+        ]
+      ]
+    },
+    {
+      "title": "Outcome Measures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          327.0,
+          127.33154296875
+        ],
+        [
+          415.599609375,
+          127.33154296875
+        ],
+        [
+          415.599609375,
+          137.69195556640625
+        ],
+        [
+          327.0,
+          137.69195556640625
+        ]
+      ]
+    },
+    {
+      "title": "Data Analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          326.05224609375,
+          306.01318359375
+        ],
+        [
+          388.13153076171875,
+          306.01318359375
+        ],
+        [
+          388.13153076171875,
+          317.69195556640625
+        ],
+        [
+          326.05224609375,
+          317.69195556640625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 Results",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          322.6201171875,
+          442.50042724609375
+        ],
+        [
+          379.15997314453125,
+          442.50042724609375
+        ],
+        [
+          379.15997314453125,
+          456.50042724609375
+        ],
+        [
+          322.6201171875,
+          456.50042724609375
+        ]
+      ]
+    },
+    {
+      "title": "TEWL",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          325.1162109375,
+          462.98583984375
+        ],
+        [
+          351.9536437988281,
+          462.98583984375
+        ],
+        [
+          351.9536437988281,
+          473.6919250488281
+        ],
+        [
+          325.1162109375,
+          473.6919250488281
+        ]
+      ]
+    },
+    {
+      "title": "Skin pH",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.138671875,
+          499.72412109375
+        ],
+        [
+          107.33203125,
+          499.72412109375
+        ],
+        [
+          107.33203125,
+          509.5918273925781
+        ],
+        [
+          71.138671875,
+          509.5918273925781
+        ]
+      ]
+    },
+    {
+      "title": "Skin Hydration",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.82666015625,
+          596.0918273925781
+        ],
+        [
+          138.99209594726562,
+          596.0918273925781
+        ],
+        [
+          138.99209594726562,
+          605.76416015625
+        ],
+        [
+          70.82666015625,
+          605.76416015625
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 Discussion",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          72.0,
+          658.4004058837891
+        ],
+        [
+          141.1765594482422,
+          658.4004058837891
+        ],
+        [
+          141.1765594482422,
+          672.4004058837891
+        ],
+        [
+          72.0,
+          672.4004058837891
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 Conclusion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          330.0,
+          366.8031921386719
+        ],
+        [
+          401.87109375,
+          366.8031921386719
+        ],
+        [
+          401.87109375,
+          380.8031921386719
+        ],
+        [
+          330.0,
+          380.8031921386719
+        ]
+      ]
+    },
+    {
+      "title": "\u25a0 References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          330.0,
+          682.5532073974609
+        ],
+        [
+          402.80712890625,
+          682.5532073974609
+        ],
+        [
+          402.80712890625,
+          696.5532073974609
+        ],
+        [
+          330.0,
+          696.5532073974609
+        ]
+      ]
+    },
+    {
+      "title": "",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          68.642578125,
+          69.71923828125
+        ],
+        [
+          113.572265625,
+          69.71923828125
+        ],
+        [
+          113.572265625,
+          78.90380859375
+        ],
+        [
+          68.642578125,
+          78.90380859375
+        ]
+      ]
+    },
+    {
+      "title": "Call for Authors: Wound Care",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          240.9462890625,
+          633.31787109375
+        ],
+        [
+          395.0612487792969,
+          633.31787109375
+        ],
+        [
+          395.0612487792969,
+          647.6964111328125
+        ],
+        [
+          240.9462890625,
+          647.6964111328125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          240
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          233
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          139
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          281
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "ListItem",
+          37
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/the_effect_of_washing_and_drying_practices_on_skin.17"
+}

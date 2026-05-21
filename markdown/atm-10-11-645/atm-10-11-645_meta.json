@@ -1,0 +1,639 @@
+{
+  "table_of_contents": [
+    {
+      "title": "A narrative review of research progress on the role of NLRP3\ninflammasome in acne vulgaris",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.234375,
+          86.07421875
+        ],
+        [
+          507.53125,
+          86.07421875
+        ],
+        [
+          507.53125,
+          125.10504150390625
+        ],
+        [
+          44.234375,
+          125.10504150390625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.525390625,
+          589.951171875
+        ],
+        [
+          106.06500244140625,
+          589.951171875
+        ],
+        [
+          106.06500244140625,
+          599.7712707519531
+        ],
+        [
+          44.525390625,
+          599.7712707519531
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          43.943359375,
+          465.029296875
+        ],
+        [
+          87.739501953125,
+          465.029296875
+        ],
+        [
+          87.739501953125,
+          475.1688537597656
+        ],
+        [
+          43.943359375,
+          475.1688537597656
+        ]
+      ]
+    },
+    {
+      "title": "Summary",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          45.107421875,
+          570.5752716064453
+        ],
+        [
+          92.17980194091797,
+          570.5752716064453
+        ],
+        [
+          92.17980194091797,
+          580.0752716064453
+        ],
+        [
+          45.107421875,
+          580.0752716064453
+        ]
+      ]
+    },
+    {
+      "title": "Cutibacterium acnes in acne vulgaris",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.234375,
+          589.951171875
+        ],
+        [
+          197.02178955078125,
+          589.951171875
+        ],
+        [
+          197.02178955078125,
+          600.1208648681641
+        ],
+        [
+          44.234375,
+          600.1208648681641
+        ]
+      ]
+    },
+    {
+      "title": "NLRP3 inflammasome",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.943359375,
+          130.25390625
+        ],
+        [
+          140.54429626464844,
+          130.25390625
+        ],
+        [
+          140.54429626464844,
+          141.24383544921875
+        ],
+        [
+          43.943359375,
+          141.24383544921875
+        ]
+      ]
+    },
+    {
+      "title": "Roles of the NLRP3 inflammasome in acne vulgaris",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          307.89453125,
+          157.294921875
+        ],
+        [
+          521.3583984375,
+          157.294921875
+        ],
+        [
+          521.3583984375,
+          167.24383544921875
+        ],
+        [
+          307.89453125,
+          167.24383544921875
+        ]
+      ]
+    },
+    {
+      "title": "Progress of research in immunological pathogenesis in acne \nvulgaris",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.234375,
+          533.96484375
+        ],
+        [
+          289.0350646972656,
+          533.96484375
+        ],
+        [
+          289.0350646972656,
+          557.2437591552734
+        ],
+        [
+          44.234375,
+          557.2437591552734
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions and perspectives",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.73046875,
+          455.888671875
+        ],
+        [
+          457.58111572265625,
+          455.888671875
+        ],
+        [
+          457.58111572265625,
+          465.9247741699219
+        ],
+        [
+          306.73046875,
+          465.9247741699219
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          44.525390625,
+          299.736328125
+        ],
+        [
+          137.068359375,
+          299.736328125
+        ],
+        [
+          137.068359375,
+          310.9588623046875
+        ],
+        [
+          44.525390625,
+          310.9588623046875
+        ]
+      ]
+    },
+    {
+      "title": "Footnote",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.107421875,
+          391.904296875
+        ],
+        [
+          88.97449493408203,
+          391.904296875
+        ],
+        [
+          88.97449493408203,
+          401.9588623046875
+        ],
+        [
+          45.107421875,
+          401.9588623046875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          308.767578125,
+          287.16796875
+        ],
+        [
+          366.388671875,
+          287.16796875
+        ],
+        [
+          366.388671875,
+          297.9588623046875
+        ],
+        [
+          308.767578125,
+          297.9588623046875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          152
+        ],
+        [
+          "Line",
+          55
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          215
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TableCell",
+          14
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          305
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          283
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/atm-10-11-645"
+}

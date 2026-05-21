@@ -1,0 +1,1306 @@
+{
+  "table_of_contents": [
+    {
+      "title": "HHS Public Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          130.88671875,
+          20.7891845703125
+        ],
+        [
+          333.0047912597656,
+          20.7891845703125
+        ],
+        [
+          333.0047912597656,
+          42.7891845703125
+        ],
+        [
+          130.88671875,
+          42.7891845703125
+        ]
+      ]
+    },
+    {
+      "title": "Genetic and Functional Analyses of Cutibacterium Acnes \nIsolates Reveal the Association of a Linear Plasmid with Skin \nInflammation",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          90.00199890136719,
+          129.1640625
+        ],
+        [
+          500.6079406738281,
+          129.1640625
+        ],
+        [
+          500.6079406738281,
+          183.82037353515625
+        ],
+        [
+          90.00199890136719,
+          183.82037353515625
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.349609375,
+          372.796875
+        ],
+        [
+          138.67520141601562,
+          372.796875
+        ],
+        [
+          138.67520141601562,
+          385.1230773925781
+        ],
+        [
+          89.349609375,
+          385.1230773925781
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIAL",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.9999771118164,
+          670.0826950073242
+        ],
+        [
+          199.6239776611328,
+          670.0826950073242
+        ],
+        [
+          199.6239776611328,
+          678.69140625
+        ],
+        [
+          89.9999771118164,
+          678.69140625
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.947265625,
+          182.91796875
+        ],
+        [
+          181.74606323242188,
+          182.91796875
+        ],
+        [
+          181.74606323242188,
+          195.203125
+        ],
+        [
+          89.947265625,
+          195.203125
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          89.349609375,
+          131.484375
+        ],
+        [
+          144.926025390625,
+          131.484375
+        ],
+        [
+          144.926025390625,
+          144.703125
+        ],
+        [
+          89.349609375,
+          144.703125
+        ]
+      ]
+    },
+    {
+      "title": "Epithelial inflammatory responses to health- and disease-associated C. acnes strains are \ncell-type dependent",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          88.453125,
+          153.140625
+        ],
+        [
+          515.8060913085938,
+          153.140625
+        ],
+        [
+          515.8060913085938,
+          178.5899658203125
+        ],
+        [
+          88.453125,
+          178.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "C. acnes sequence type is associated with acne lesions but does not predict the capacity \nto induce cytokine release by sebocytes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          88.453125,
+          421.13671875
+        ],
+        [
+          516.615966796875,
+          421.13671875
+        ],
+        [
+          516.615966796875,
+          446.5899658203125
+        ],
+        [
+          88.453125,
+          446.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "A linear plasmid in C. acnes is associated with an increased capacity to induce IL8",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          88.453125,
+          298.16015625
+        ],
+        [
+          482.90625,
+          298.16015625
+        ],
+        [
+          482.90625,
+          308.5859680175781
+        ],
+        [
+          88.453125,
+          308.5859680175781
+        ]
+      ]
+    },
+    {
+      "title": "Plasmid-positive strains promote greater tissue inflammation in mouse skin",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.6484375,
+          186.01171875
+        ],
+        [
+          450.6328125,
+          186.01171875
+        ],
+        [
+          450.6328125,
+          196.58599853515625
+        ],
+        [
+          89.6484375,
+          196.58599853515625
+        ]
+      ]
+    },
+    {
+      "title": "Single-cell RNA sequencing of C. acnes\u2013infected mice reveals unique inflammatory \nfibroblast subsets associated with the linear plasmid",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          88.453125,
+          424.23046875
+        ],
+        [
+          489.4199523925781,
+          424.23046875
+        ],
+        [
+          489.4199523925781,
+          450.5859680175781
+        ],
+        [
+          88.453125,
+          450.5859680175781
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.6484375,
+          146.1796875
+        ],
+        [
+          164.67605590820312,
+          146.1796875
+        ],
+        [
+          164.67605590820312,
+          158.703125
+        ],
+        [
+          89.6484375,
+          158.703125
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          88.453125,
+          366.609375
+        ],
+        [
+          251.58590698242188,
+          366.609375
+        ],
+        [
+          251.58590698242188,
+          378.703125
+        ],
+        [
+          88.453125,
+          378.703125
+        ]
+      ]
+    },
+    {
+      "title": "Human subjects and skin swab collection",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          89.6484375,
+          387.87890625
+        ],
+        [
+          287.6858825683594,
+          387.87890625
+        ],
+        [
+          287.6858825683594,
+          398.5899658203125
+        ],
+        [
+          89.6484375,
+          398.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial strains and bacterial culture",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.453125,
+          60.71484375
+        ],
+        [
+          268.39996337890625,
+          60.71484375
+        ],
+        [
+          268.39996337890625,
+          72.5859375
+        ],
+        [
+          88.453125,
+          72.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Functional screen of C. acnes clinical isolates",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.453125,
+          302.4140625
+        ],
+        [
+          308.2198486328125,
+          302.4140625
+        ],
+        [
+          308.2198486328125,
+          312.5859680175781
+        ],
+        [
+          88.453125,
+          312.5859680175781
+        ]
+      ]
+    },
+    {
+      "title": "SLST",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          88.751953125,
+          555.71484375
+        ],
+        [
+          115.55979919433594,
+          555.71484375
+        ],
+        [
+          115.55979919433594,
+          566.5859832763672
+        ],
+        [
+          88.751953125,
+          566.5859832763672
+        ]
+      ]
+    },
+    {
+      "title": "Animals and animal care",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.349609375,
+          102.5859375
+        ],
+        [
+          207.26998901367188,
+          102.5859375
+        ],
+        [
+          207.26998901367188,
+          112.5859375
+        ],
+        [
+          89.349609375,
+          112.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Mouse model of C. acnes skin infection",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.05078125,
+          202.56072998046875
+        ],
+        [
+          277.1679992675781,
+          202.56072998046875
+        ],
+        [
+          277.1679992675781,
+          212.58599853515625
+        ],
+        [
+          89.05078125,
+          212.58599853515625
+        ]
+      ]
+    },
+    {
+      "title": "RNA isolation, cDNA synthesis, and RT-qPCR analysis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.6484375,
+          288.5859680175781
+        ],
+        [
+          347.9480285644531,
+          288.5859680175781
+        ],
+        [
+          347.9480285644531,
+          298.93359375
+        ],
+        [
+          89.6484375,
+          298.93359375
+        ]
+      ]
+    },
+    {
+      "title": "Single-cell RNA-sequencing analysis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.6484375,
+          402.5859680175781
+        ],
+        [
+          265.45794677734375,
+          402.5859680175781
+        ],
+        [
+          265.45794677734375,
+          412.62890625
+        ],
+        [
+          89.6484375,
+          412.62890625
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          89.349609375,
+          516.5859680175781
+        ],
+        [
+          179.33792114257812,
+          516.5859680175781
+        ],
+        [
+          179.33792114257812,
+          527.09765625
+        ],
+        [
+          89.349609375,
+          527.09765625
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Material",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          88.751953125,
+          590.7031555175781
+        ],
+        [
+          225.49795532226562,
+          590.7031555175781
+        ],
+        [
+          225.49795532226562,
+          602.7031555175781
+        ],
+        [
+          88.751953125,
+          602.7031555175781
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          88.453125,
+          641.7071838378906
+        ],
+        [
+          219.572998046875,
+          641.7071838378906
+        ],
+        [
+          219.572998046875,
+          653.7071838378906
+        ],
+        [
+          88.453125,
+          653.7071838378906
+        ]
+      ]
+    },
+    {
+      "title": "Data and materials availability",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.05078125,
+          64.1953125
+        ],
+        [
+          260.9879455566406,
+          64.1953125
+        ],
+        [
+          260.9879455566406,
+          76.703125
+        ],
+        [
+          89.05078125,
+          76.703125
+        ]
+      ]
+    },
+    {
+      "title": "Abbreviations",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          88.453125,
+          168.99609375
+        ],
+        [
+          169.83197021484375,
+          168.99609375
+        ],
+        [
+          169.83197021484375,
+          182.7071533203125
+        ],
+        [
+          88.453125,
+          182.7071533203125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          89.349609375,
+          329.09765625
+        ],
+        [
+          172.00198364257812,
+          329.09765625
+        ],
+        [
+          172.00198364257812,
+          342.7111511230469
+        ],
+        [
+          89.349609375,
+          342.7111511230469
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          151
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "Footnote",
+          4
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          126
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          111
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          129
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          121
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          117
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          48
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          115
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          85
+        ],
+        [
+          "Line",
+          41
+        ],
+        [
+          "ListItem",
+          12
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          43
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          89
+        ],
+        [
+          "Line",
+          23
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          79
+        ],
+        [
+          "Line",
+          25
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          32
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          49
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          35
+        ],
+        [
+          "Line",
+          12
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/nihms-1993267"
+}

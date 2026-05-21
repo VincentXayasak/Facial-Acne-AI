@@ -1,0 +1,697 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Blackwell Publishing Ltd ORIGINAL ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.19384765625,
+          69.494140625
+        ],
+        [
+          142.91600036621094,
+          69.494140625
+        ],
+        [
+          142.91600036621094,
+          80.45086669921875
+        ],
+        [
+          46.19384765625,
+          80.45086669921875
+        ]
+      ]
+    },
+    {
+      "title": "Expression of sex-determining genes in human sebaceous glands \nand their possible role in the pathogenesis of acne",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          45.322265625,
+          89.7314453125
+        ],
+        [
+          519.9398803710938,
+          89.7314453125
+        ],
+        [
+          519.9398803710938,
+          123.4044189453125
+        ],
+        [
+          45.322265625,
+          123.4044189453125
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.19384765625,
+          227.1923828125
+        ],
+        [
+          81.29756927490234,
+          227.1923828125
+        ],
+        [
+          81.29756927490234,
+          235.38232421875
+        ],
+        [
+          46.19384765625,
+          235.38232421875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          207.14599609375,
+          227.490234375
+        ],
+        [
+          255.795166015625,
+          227.490234375
+        ],
+        [
+          255.795166015625,
+          238.98626708984375
+        ],
+        [
+          207.14599609375,
+          238.98626708984375
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          46.77490234375,
+          567.0263671875
+        ],
+        [
+          115.50733184814453,
+          567.0263671875
+        ],
+        [
+          115.50733184814453,
+          579.4922790527344
+        ],
+        [
+          46.77490234375,
+          579.4922790527344
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          319.06298828125,
+          435.29296875
+        ],
+        [
+          368.388671875,
+          435.29296875
+        ],
+        [
+          368.388671875,
+          447.7342834472656
+        ],
+        [
+          319.06298828125,
+          447.7342834472656
+        ]
+      ]
+    },
+    {
+      "title": "Cell culture and tissue collection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          317.255859375,
+          460.1123046875
+        ],
+        [
+          473.3635559082031,
+          460.1123046875
+        ],
+        [
+          473.3635559082031,
+          470.1498718261719
+        ],
+        [
+          317.255859375,
+          470.1498718261719
+        ]
+      ]
+    },
+    {
+      "title": "Reverse transcription polymerase chain reaction \n(RT-PCR) study",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.9033203125,
+          111.1142578125
+        ],
+        [
+          275.77825927734375,
+          111.1142578125
+        ],
+        [
+          275.77825927734375,
+          134.15020751953125
+        ],
+        [
+          45.9033203125,
+          134.15020751953125
+        ]
+      ]
+    },
+    {
+      "title": "Immunocytochemistry",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          46.484375,
+          386.41796875
+        ],
+        [
+          153.3984375,
+          386.41796875
+        ],
+        [
+          153.3984375,
+          398.1498718261719
+        ],
+        [
+          46.484375,
+          398.1498718261719
+        ]
+      ]
+    },
+    {
+      "title": "Western blotting",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          291.689453125,
+          254.6845703125
+        ],
+        [
+          373.2565002441406,
+          254.6845703125
+        ],
+        [
+          373.2565002441406,
+          266.14990234375
+        ],
+        [
+          291.689453125,
+          266.14990234375
+        ]
+      ]
+    },
+    {
+      "title": "Construction of complementary RNA (cRNA) \nprobes and in situ hybridization",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.888671875,
+          171.4443359375
+        ],
+        [
+          283.32855224609375,
+          171.4443359375
+        ],
+        [
+          283.32855224609375,
+          194.22442626953125
+        ],
+        [
+          70.888671875,
+          194.22442626953125
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.76025390625,
+          484.3998718261719
+        ],
+        [
+          160.8441925048828,
+          484.3998718261719
+        ],
+        [
+          160.8441925048828,
+          494.1498718261719
+        ],
+        [
+          71.76025390625,
+          494.1498718261719
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          72.34130859375,
+          604.23828125
+        ],
+        [
+          113.2760009765625,
+          604.23828125
+        ],
+        [
+          113.2760009765625,
+          615.7342834472656
+        ],
+        [
+          72.34130859375,
+          615.7342834472656
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          46.77490234375,
+          351.2890625
+        ],
+        [
+          106.62353515625,
+          351.2890625
+        ],
+        [
+          106.62353515625,
+          364.7342834472656
+        ],
+        [
+          46.77490234375,
+          364.7342834472656
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgements",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.888671875,
+          664.0126953125
+        ],
+        [
+          183.06590270996094,
+          664.0126953125
+        ],
+        [
+          183.06590270996094,
+          675.7342834472656
+        ],
+        [
+          70.888671875,
+          675.7342834472656
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          317.54638671875,
+          194.23822021484375
+        ],
+        [
+          380.317138671875,
+          194.23822021484375
+        ],
+        [
+          380.317138671875,
+          205.7342529296875
+        ],
+        [
+          317.54638671875,
+          205.7342529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          219
+        ],
+        [
+          "Line",
+          69
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          369
+        ],
+        [
+          "Line",
+          108
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          249
+        ],
+        [
+          "TableCell",
+          83
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          217
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          360
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "ListItem",
+          14
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          259
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Acad Dermatol Venereol - 2006 - Chen - Expression of sex\u2010determining genes in human sebaceous glands and their possible"
+}

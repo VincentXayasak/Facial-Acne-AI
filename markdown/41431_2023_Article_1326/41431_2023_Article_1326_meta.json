@@ -1,0 +1,862 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ARTICLE OPEN",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.287153652392945,
+          82.4739336492891
+        ],
+        [
+          149.873046875,
+          82.4739336492891
+        ],
+        [
+          149.873046875,
+          93.08154296875
+        ],
+        [
+          44.287153652392945,
+          93.08154296875
+        ]
+      ]
+    },
+    {
+      "title": "Genome-wide meta-analysis identifies novel loci conferring risk of acne vulgaris",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.53652392947103,
+          99.71848341232227
+        ],
+        [
+          561.078125,
+          99.71848341232227
+        ],
+        [
+          561.078125,
+          141.74658203125
+        ],
+        [
+          43.53652392947103,
+          141.74658203125
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.53652392947103,
+          386.61669921875
+        ],
+        [
+          108.84130982367758,
+          386.61669921875
+        ],
+        [
+          108.84130982367758,
+          395.87488151658766
+        ],
+        [
+          43.53652392947103,
+          395.87488151658766
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS Study cohorts",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          147.703317535545
+        ],
+        [
+          147.87405541561714,
+          147.703317535545
+        ],
+        [
+          147.87405541561714,
+          165.306640625
+        ],
+        [
+          34.52896725440806,
+          165.306640625
+        ]
+      ]
+    },
+    {
+      "title": "Genome-wide association analysis and meta-analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          242.92322274881516
+        ],
+        [
+          250.71032745591938,
+          242.92322274881516
+        ],
+        [
+          250.71032745591938,
+          251.17061611374407
+        ],
+        [
+          34.52896725440806,
+          251.17061611374407
+        ]
+      ]
+    },
+    {
+      "title": "Functional annotation of acne risk loci",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          390.62654028436015
+        ],
+        [
+          195.16372795969772,
+          391.25146484375
+        ],
+        [
+          195.16372795969772,
+          400.3734597156398
+        ],
+        [
+          34.52896725440806,
+          399.74853515625
+        ]
+      ]
+    },
+    {
+      "title": "Heritability estimation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          603.5592417061611
+        ],
+        [
+          129.10831234256926,
+          603.5592417061611
+        ],
+        [
+          129.10831234256926,
+          612.94775390625
+        ],
+        [
+          34.52896725440806,
+          612.94775390625
+        ]
+      ]
+    },
+    {
+      "title": "Polygenic risk score calculation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          678.60693359375
+        ],
+        [
+          164.38790931989922,
+          678.60693359375
+        ],
+        [
+          164.38790931989922,
+          687.5327014218009
+        ],
+        [
+          34.52896725440806,
+          687.5327014218009
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.00251889168766,
+          185.1914691943128
+        ],
+        [
+          338.53400503778334,
+          185.1914691943128
+        ],
+        [
+          338.53400503778334,
+          193.4388625592417
+        ],
+        [
+          301.00251889168766,
+          193.4388625592417
+        ]
+      ]
+    },
+    {
+      "title": "Meta-analysis results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.00251889168766,
+          196.43791469194312
+        ],
+        [
+          388.8261964735516,
+          196.43791469194312
+        ],
+        [
+          388.8261964735516,
+          204.7021484375
+        ],
+        [
+          301.00251889168766,
+          204.7021484375
+        ]
+      ]
+    },
+    {
+      "title": "Functional annotation and gene prioritization results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.00251889168766,
+          434.50927734375
+        ],
+        [
+          520.1863979848866,
+          434.50927734375
+        ],
+        [
+          520.1863979848866,
+          443.8597156398104
+        ],
+        [
+          301.00251889168766,
+          443.8597156398104
+        ]
+      ]
+    },
+    {
+      "title": "Polygenic prediction of acne risk",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          309.640625,
+          245.92227488151659
+        ],
+        [
+          446.624685138539,
+          245.92227488151659
+        ],
+        [
+          446.624685138539,
+          254.52587890625
+        ],
+        [
+          309.640625,
+          254.52587890625
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          310.7607052896725,
+          385.3781990521327
+        ],
+        [
+          362.0234375,
+          385.3781990521327
+        ],
+        [
+          362.0234375,
+          393.1826171875
+        ],
+        [
+          310.7607052896725,
+          393.1826171875
+        ]
+      ]
+    },
+    {
+      "title": "DATA AVAILABILITY",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.107421875,
+          276.15478515625
+        ],
+        [
+          126.15589904785156,
+          276.15478515625
+        ],
+        [
+          126.15589904785156,
+          286.5958251953125
+        ],
+        [
+          45.107421875,
+          286.5958251953125
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.35430145263672,
+          351.85595703125
+        ],
+        [
+          95.75387573242188,
+          351.85595703125
+        ],
+        [
+          95.75387573242188,
+          361.3204650878906
+        ],
+        [
+          45.35430145263672,
+          361.3204650878906
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          35.212890625,
+          320.95751953125
+        ],
+        [
+          127.26217651367188,
+          320.95751953125
+        ],
+        [
+          127.26217651367188,
+          331.4433288574219
+        ],
+        [
+          35.212890625,
+          331.4433288574219
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          34.33984375,
+          397.43115234375
+        ],
+        [
+          139.7531280517578,
+          397.43115234375
+        ],
+        [
+          139.7531280517578,
+          407.12841796875
+        ],
+        [
+          34.33984375,
+          407.12841796875
+        ]
+      ]
+    },
+    {
+      "title": "FUNDING",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          301.8896789550781,
+          58.32080078125
+        ],
+        [
+          340.48828125,
+          58.32080078125
+        ],
+        [
+          340.48828125,
+          67.42449951171875
+        ],
+        [
+          301.8896789550781,
+          67.42449951171875
+        ]
+      ]
+    },
+    {
+      "title": "COMPETING INTERESTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          301.783203125,
+          118.21258544921875
+        ],
+        [
+          396.654296875,
+          118.21258544921875
+        ],
+        [
+          396.654296875,
+          127.17889404296875
+        ],
+        [
+          301.783203125,
+          127.17889404296875
+        ]
+      ]
+    },
+    {
+      "title": "ETHICS APPROVAL",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          301.8896789550781,
+          150.24365234375
+        ],
+        [
+          377.15625,
+          150.24365234375
+        ],
+        [
+          377.15625,
+          160.06072998046875
+        ],
+        [
+          301.8896789550781,
+          160.06072998046875
+        ]
+      ]
+    },
+    {
+      "title": "ADDITIONAL INFORMATION",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          301.8896789550781,
+          196.958984375
+        ],
+        [
+          413.8859558105469,
+          196.958984375
+        ],
+        [
+          413.8859558105469,
+          205.92529296875
+        ],
+        [
+          301.8896789550781,
+          205.92529296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          96
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          155
+        ],
+        [
+          "Span",
+          90
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          242
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          135
+        ],
+        [
+          "Span",
+          100
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          144
+        ],
+        [
+          "Span",
+          125
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          376
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "ListItem",
+          46
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          192
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "Text",
+          13
+        ],
+        [
+          "ListItem",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/41431_2023_Article_1326"
+}

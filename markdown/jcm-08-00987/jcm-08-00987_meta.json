@@ -1,0 +1,1511 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Potential Role of the Microbiome in Acne: A Comprehensive Review",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          74.31234256926952,
+          113.21638468388245
+        ],
+        [
+          422.60453400503775,
+          113.21638468388245
+        ],
+        [
+          422.60453400503775,
+          152.5302734375
+        ],
+        [
+          74.31234256926952,
+          152.5302734375
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          75.06297229219143,
+          600.25390625
+        ],
+        [
+          144.87153652392948,
+          600.25390625
+        ],
+        [
+          144.87153652392948,
+          611.8183437221727
+        ],
+        [
+          75.06297229219143,
+          611.8183437221727
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          74.791015625,
+          275.8701171875
+        ],
+        [
+          127.89219665527344,
+          275.8701171875
+        ],
+        [
+          127.89219665527344,
+          286.0047607421875
+        ],
+        [
+          74.791015625,
+          286.0047607421875
+        ]
+      ]
+    },
+    {
+      "title": "3. Skin Microbiota (Overview)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.373046875,
+          398.798828125
+        ],
+        [
+          215.8818817138672,
+          398.798828125
+        ],
+        [
+          215.8818817138672,
+          409.76177978515625
+        ],
+        [
+          75.373046875,
+          409.76177978515625
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Skin Microbiome Sampling",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          75.955078125,
+          536.9886474609375
+        ],
+        [
+          204.75363159179688,
+          536.9886474609375
+        ],
+        [
+          204.75363159179688,
+          547.2177734375
+        ],
+        [
+          75.955078125,
+          547.2177734375
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Skin Microbiome Analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          74.31234256926952,
+          673.0244140625
+        ],
+        [
+          202.67002518891687,
+          673.0244140625
+        ],
+        [
+          202.67002518891687,
+          683.7969723953695
+        ],
+        [
+          74.31234256926952,
+          683.7969723953695
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Human Skin Microbiota (Healthy Skin)",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          75.06297229219143,
+          89.973285841496
+        ],
+        [
+          255.21410579345087,
+          89.973285841496
+        ],
+        [
+          255.21410579345087,
+          99.72039180765806
+        ],
+        [
+          75.06297229219143,
+          99.72039180765806
+        ]
+      ]
+    },
+    {
+      "title": "4. Skin Microbiota and Acne",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          76.53500366210938,
+          90.0380859375
+        ],
+        [
+          207.494140625,
+          90.0380859375
+        ],
+        [
+          207.494140625,
+          100.67877197265625
+        ],
+        [
+          76.53500366210938,
+          100.67877197265625
+        ]
+      ]
+    },
+    {
+      "title": "4.1. Classification of C. acnes",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          75.373046875,
+          307.52734375
+        ],
+        [
+          194.68142700195312,
+          307.52734375
+        ],
+        [
+          194.68142700195312,
+          318.9261474609375
+        ],
+        [
+          75.373046875,
+          318.9261474609375
+        ]
+      ]
+    },
+    {
+      "title": "4.2. Cutibacterium acnes in Acne",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          75.06297229219143,
+          395.509765625
+        ],
+        [
+          212.44140625,
+          395.509765625
+        ],
+        [
+          212.44140625,
+          404.8797862867319
+        ],
+        [
+          75.06297229219143,
+          404.8797862867319
+        ]
+      ]
+    },
+    {
+      "title": "4.3. Other Acne-Associated Microbiota",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          75.08203125,
+          341.6513671875
+        ],
+        [
+          234.55859375,
+          341.6513671875
+        ],
+        [
+          234.55859375,
+          353.4761962890625
+        ],
+        [
+          75.08203125,
+          353.4761962890625
+        ]
+      ]
+    },
+    {
+      "title": "5. Acne Treatment and Skin Microbes",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          73.91796875,
+          258.67319679430096
+        ],
+        [
+          248.45843828715363,
+          258.67319679430096
+        ],
+        [
+          248.45843828715363,
+          267.6705253784506
+        ],
+        [
+          73.91796875,
+          267.6705253784506
+        ]
+      ]
+    },
+    {
+      "title": "5.1. Antibiotics and the Acne Skin Microbiota",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          74.31234256926952,
+          636.8447265625
+        ],
+        [
+          262.72040302267,
+          636.8447265625
+        ],
+        [
+          262.72040302267,
+          647.0578806767586
+        ],
+        [
+          74.31234256926952,
+          647.0578806767586
+        ]
+      ]
+    },
+    {
+      "title": "5.2. Antibiotic Resistance in the Microbiota of Skin with Acne",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          76.24609375,
+          220.3671875
+        ],
+        [
+          326.67596435546875,
+          220.3671875
+        ],
+        [
+          326.67596435546875,
+          231.8922119140625
+        ],
+        [
+          76.24609375,
+          231.8922119140625
+        ]
+      ]
+    },
+    {
+      "title": "5.3. Skin Microbiota As a Biomarker for Acne Drug Development",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          75.6640625,
+          656.401611328125
+        ],
+        [
+          341.0718994140625,
+          656.401611328125
+        ],
+        [
+          341.0718994140625,
+          666.3642120361328
+        ],
+        [
+          75.6640625,
+          666.3642120361328
+        ]
+      ]
+    },
+    {
+      "title": "6. Gut Microbiota and the Skin",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.6640625,
+          90.0380859375
+        ],
+        [
+          218.6415252685547,
+          90.0380859375
+        ],
+        [
+          218.6415252685547,
+          100.67877197265625
+        ],
+        [
+          75.6640625,
+          100.67877197265625
+        ]
+      ]
+    },
+    {
+      "title": "6.1. Gut Microbiota and Acne",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          75.955078125,
+          508.5712890625
+        ],
+        [
+          197.98904418945312,
+          508.5712890625
+        ],
+        [
+          197.98904418945312,
+          521.5661926269531
+        ],
+        [
+          75.955078125,
+          521.5661926269531
+        ]
+      ]
+    },
+    {
+      "title": "6.2. Gut Microbiota in Acne",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          75.06297229219143,
+          485.5478515625
+        ],
+        [
+          192.16120906801007,
+          485.5478515625
+        ],
+        [
+          192.16120906801007,
+          494.85307212822795
+        ],
+        [
+          75.06297229219143,
+          494.85307212822795
+        ]
+      ]
+    },
+    {
+      "title": "7. Probiotics and the Skin",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          75.6640625,
+          127.0400390625
+        ],
+        [
+          194.0139617919922,
+          127.0400390625
+        ],
+        [
+          194.0139617919922,
+          137.4017333984375
+        ],
+        [
+          75.6640625,
+          137.4017333984375
+        ]
+      ]
+    },
+    {
+      "title": "Probiotics and Acne",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          75.08203125,
+          358.0966796875
+        ],
+        [
+          157.15237426757812,
+          358.0966796875
+        ],
+        [
+          157.15237426757812,
+          369.1571960449219
+        ],
+        [
+          75.08203125,
+          369.1571960449219
+        ]
+      ]
+    },
+    {
+      "title": "8. Conclusions",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.06297229219143,
+          319.40516473731077
+        ],
+        [
+          144.87153652392948,
+          319.40516473731077
+        ],
+        [
+          144.87153652392948,
+          327.6728515625
+        ],
+        [
+          75.06297229219143,
+          327.6728515625
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          75.06297229219143,
+          636.8447265625
+        ],
+        [
+          126.85642317380352,
+          636.8447265625
+        ],
+        [
+          126.85642317380352,
+          646.3081032947462
+        ],
+        [
+          75.06297229219143,
+          646.3081032947462
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          62
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          166
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          52
+        ],
+        [
+          "Line",
+          35
+        ],
+        [
+          "Span",
+          14
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          47
+        ],
+        [
+          "Span",
+          4
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          40
+        ],
+        [
+          "Span",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          269
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          60
+        ],
+        [
+          "Span",
+          46
+        ],
+        [
+          "Line",
+          42
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          58
+        ],
+        [
+          "Span",
+          9
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          284
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          52
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          206
+        ],
+        [
+          "Line",
+          47
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          51
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          246
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "Reference",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          394
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          24
+        ],
+        [
+          "Reference",
+          23
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          330
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Reference",
+          18
+        ],
+        [
+          "ListItem",
+          17
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          355
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Reference",
+          17
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          347
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Reference",
+          17
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          344
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Reference",
+          19
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          339
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Reference",
+          14
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          358
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "Reference",
+          20
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          360
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "Reference",
+          17
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          368
+        ],
+        [
+          "Line",
+          54
+        ],
+        [
+          "ListItem",
+          18
+        ],
+        [
+          "Reference",
+          18
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          27
+        ],
+        [
+          "Reference",
+          9
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/jcm-08-00987"
+}

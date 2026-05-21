@@ -1,0 +1,935 @@
+{
+  "generated_at": "2026-05-21T00:43:43.293741+00:00",
+  "input_dir": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs",
+  "output_dir": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown",
+  "output_format": "markdown",
+  "elapsed_seconds": 13250.11,
+  "summary": {
+    "total": 92,
+    "ok": 29,
+    "skipped": 63,
+    "error": 0
+  },
+  "documents": [
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/000067819.pdf",
+      "base_name": "000067819",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Acne in Infancy and Acne Genetics",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/000067819/000067819.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/000067819/000067819_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/000087011.pdf",
+      "base_name": "000087011",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Review of the Innate Immune Response in \nAcne vulgaris: Activation of Toll-Like Receptor 2 in \nAcne Triggers Infl ammatory Cytokine Responses",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/000087011/000087011.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/000087011/000087011_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/00128071-200405040-00005.pdf",
+      "base_name": "00128071-200405040-00005",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Benzoyl Peroxide-Based Combination Therapies\nfor Acne Vulgaris",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/00128071-200405040-00005/00128071-200405040-00005.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/00128071-200405040-00005/00128071-200405040-00005_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/0140AD_ad-37-131.pdf",
+      "base_name": "0140AD_ad-37-131",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Original Article",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/0140AD_ad-37-131/0140AD_ad-37-131.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/0140AD_ad-37-131/0140AD_ad-37-131_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S0002916523274572-main.pdf",
+      "base_name": "1-s2.0-S0002916523274572-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "A low-glycemic-load diet improves symptoms in acne vulgaris\npatients: a randomized controlled trial13",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0002916523274572-main/1-s2.0-S0002916523274572-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0002916523274572-main/1-s2.0-S0002916523274572-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S0022202X15365489-main.pdf",
+      "base_name": "1-s2.0-S0022202X15365489-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Propionibacterium acnes Activates the NLRP3 Inflammasome in Human Sebocytes",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0022202X15365489-main/1-s2.0-S0022202X15365489-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0022202X15365489-main/1-s2.0-S0022202X15365489-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S0022202X15413296-main.pdf",
+      "base_name": "1-s2.0-S0022202X15413296-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Stress-Induced Changes in Skin Barrier Function in Healthy Women",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0022202X15413296-main/1-s2.0-S0022202X15413296-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0022202X15413296-main/1-s2.0-S0022202X15413296-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S0022202X25004877-main.pdf",
+      "base_name": "1-s2.0-S0022202X25004877-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Multi-Omics Analysis Identifies Genetic \nMechanisms and Therapeutic Targets for Acne \nVulgaris",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0022202X25004877-main/1-s2.0-S0022202X25004877-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0022202X25004877-main/1-s2.0-S0022202X25004877-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S009167492030573X-main.pdf",
+      "base_name": "1-s2.0-S009167492030573X-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Environmental factors in epithelial barrier\ndysfunction",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S009167492030573X-main/1-s2.0-S009167492030573X-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S009167492030573X-main/1-s2.0-S009167492030573X-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S0261561418301663-main.pdf",
+      "base_name": "1-s2.0-S0261561418301663-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Clinical Nutrition",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0261561418301663-main/1-s2.0-S0261561418301663-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0261561418301663-main/1-s2.0-S0261561418301663-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S0738081X04000379-main.pdf",
+      "base_name": "1-s2.0-S0738081X04000379-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Acne and Sebaceous Gland Function",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0738081X04000379-main/1-s2.0-S0738081X04000379-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S0738081X04000379-main/1-s2.0-S0738081X04000379-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S1323893018300881-main.pdf",
+      "base_name": "1-s2.0-S1323893018300881-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Allergology International",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S1323893018300881-main/1-s2.0-S1323893018300881-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S1323893018300881-main/1-s2.0-S1323893018300881-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S1323893018300947-main.pdf",
+      "base_name": "1-s2.0-S1323893018300947-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S1323893018300947-main/1-s2.0-S1323893018300947-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S1323893018300947-main/1-s2.0-S1323893018300947-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S1567576922005276-main.pdf",
+      "base_name": "1-s2.0-S1567576922005276-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "International Immunopharmacology",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S1567576922005276-main/1-s2.0-S1567576922005276-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S1567576922005276-main/1-s2.0-S1567576922005276-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1-s2.0-S2212267218301643-main.pdf",
+      "base_name": "1-s2.0-S2212267218301643-main",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Original Research",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S2212267218301643-main/1-s2.0-S2212267218301643-main.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1-s2.0-S2212267218301643-main/1-s2.0-S2212267218301643-main_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/10815_2022_Article_2625.pdf",
+      "base_name": "10815_2022_Article_2625",
+      "status": "skipped",
+      "pages": 0,
+      "title": "REVIEW",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/10815_2022_Article_2625/10815_2022_Article_2625.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/10815_2022_Article_2625/10815_2022_Article_2625_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/12895_2015_Article_36.pdf",
+      "base_name": "12895_2015_Article_36",
+      "status": "skipped",
+      "pages": 0,
+      "title": "RESEARCH ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/12895_2015_Article_36/12895_2015_Article_36.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/12895_2015_Article_36/12895_2015_Article_36_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/13671_2021_Article_351.pdf",
+      "base_name": "13671_2021_Article_351",
+      "status": "skipped",
+      "pages": 0,
+      "title": "CONTACT DERMATITIS (BRANDON ADLER AND VINCENT DELEO, SECTION EDITORS)",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/13671_2021_Article_351/13671_2021_Article_351.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/13671_2021_Article_351/13671_2021_Article_351_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/1414-431X-bjmbr-53-12-e9949.pdf",
+      "base_name": "1414-431X-bjmbr-53-12-e9949",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Baicalin suppresses Propionibacterium acnes-\ninduced skin inflammation by downregulating the\nNF-kB/MAPK signaling pathway and inhibiting\nactivation of NLRP3 inflammasome",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1414-431X-bjmbr-53-12-e9949/1414-431X-bjmbr-53-12-e9949.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/1414-431X-bjmbr-53-12-e9949/1414-431X-bjmbr-53-12-e9949_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/41431_2023_Article_1326.pdf",
+      "base_name": "41431_2023_Article_1326",
+      "status": "skipped",
+      "pages": 0,
+      "title": "ARTICLE OPEN",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/41431_2023_Article_1326/41431_2023_Article_1326.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/41431_2023_Article_1326/41431_2023_Article_1326_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/41467_2022_Article_28252.pdf",
+      "base_name": "41467_2022_Article_28252",
+      "status": "skipped",
+      "pages": 0,
+      "title": "ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/41467_2022_Article_28252/41467_2022_Article_28252.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/41467_2022_Article_28252/41467_2022_Article_28252_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/41598_2020_Article_69530.pdf",
+      "base_name": "41598_2020_Article_69530",
+      "status": "skipped",
+      "pages": 0,
+      "title": "OPEN",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/41598_2020_Article_69530/41598_2020_Article_69530.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/41598_2020_Article_69530/41598_2020_Article_69530_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/6a0b8d102f8cc.pdf",
+      "base_name": "6a0b8d102f8cc",
+      "status": "skipped",
+      "pages": 0,
+      "title": "ORIGINAL ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/6a0b8d102f8cc/6a0b8d102f8cc.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/6a0b8d102f8cc/6a0b8d102f8cc_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/AHG-89-333.pdf",
+      "base_name": "AHG-89-333",
+      "status": "skipped",
+      "pages": 0,
+      "title": "The Genetics of Acne",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/AHG-89-333/AHG-89-333.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/AHG-89-333/AHG-89-333_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Acad Dermatol Venereol - 2006 - Chen - Expression of sex‐determining genes in human sebaceous glands and their possible.pdf",
+      "base_name": "Acad Dermatol Venereol - 2006 - Chen - Expression of sex‐determining genes in human sebaceous glands and their possible",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Blackwell Publishing Ltd ORIGINAL ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2006 - Chen - Expression of sex‐determining genes in human sebaceous glands and their possible/Acad Dermatol Venereol - 2006 - Chen - Expression of sex‐determining genes in human sebaceous glands and their possible.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2006 - Chen - Expression of sex‐determining genes in human sebaceous glands and their possible/Acad Dermatol Venereol - 2006 - Chen - Expression of sex‐determining genes in human sebaceous glands and their possible_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function.pdf",
+      "base_name": "Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function",
+      "status": "skipped",
+      "pages": 0,
+      "title": "REVIEW ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function/Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function/Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from.pdf",
+      "base_name": "Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from",
+      "status": "skipped",
+      "pages": 0,
+      "title": "References",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from/Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from/Acad Dermatol Venereol - 2019 - Brandwein - The role of sweat in the composition of skin microbiome  lessons learned from_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Acad Dermatol Venereol - 2024 - Kakpovbia - Efficacy of topical treatments for mild‐to‐moderate acne  A systematic review.pdf",
+      "base_name": "Acad Dermatol Venereol - 2024 - Kakpovbia - Efficacy of topical treatments for mild‐to‐moderate acne  A systematic review",
+      "status": "skipped",
+      "pages": 0,
+      "title": "SYSTEMATIC REVIEW",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2024 - Kakpovbia - Efficacy of topical treatments for mild‐to‐moderate acne  A systematic review/Acad Dermatol Venereol - 2024 - Kakpovbia - Efficacy of topical treatments for mild‐to‐moderate acne  A systematic review.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Acad Dermatol Venereol - 2024 - Kakpovbia - Efficacy of topical treatments for mild‐to‐moderate acne  A systematic review/Acad Dermatol Venereol - 2024 - Kakpovbia - Efficacy of topical treatments for mild‐to‐moderate acne  A systematic review_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands.pdf",
+      "base_name": "Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Neuroendocrinology and neurobiology of sebaceous glands",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands/Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands/Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/COD-9999-0.pdf",
+      "base_name": "COD-9999-0",
+      "status": "skipped",
+      "pages": 0,
+      "title": "REVIEW",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/COD-9999-0/COD-9999-0.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/COD-9999-0/COD-9999-0_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Clin Experimental Derm - 2014 - Oyetakin‐White - Does poor sleep quality affect skin ageing.pdf",
+      "base_name": "Clin Experimental Derm - 2014 - Oyetakin‐White - Does poor sleep quality affect skin ageing",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Does poor sleep quality affect skin ageing?",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Clin Experimental Derm - 2014 - Oyetakin‐White - Does poor sleep quality affect skin ageing/Clin Experimental Derm - 2014 - Oyetakin‐White - Does poor sleep quality affect skin ageing.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Clin Experimental Derm - 2014 - Oyetakin‐White - Does poor sleep quality affect skin ageing/Clin Experimental Derm - 2014 - Oyetakin‐White - Does poor sleep quality affect skin ageing_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Combination of azelaic acid 5  and clindamycin 2  for the treatment of acne vulgaris.pdf",
+      "base_name": "Combination of azelaic acid 5  and clindamycin 2  for the treatment of acne vulgaris",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Cutaneous and Ocular Toxicology",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Combination of azelaic acid 5  and clindamycin 2  for the treatment of acne vulgaris/Combination of azelaic acid 5  and clindamycin 2  for the treatment of acne vulgaris.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Combination of azelaic acid 5  and clindamycin 2  for the treatment of acne vulgaris/Combination of azelaic acid 5  and clindamycin 2  for the treatment of acne vulgaris_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Combination of azelaic acid 5  and erythromycin 2  in the treatment of acne vulgaris.pdf",
+      "base_name": "Combination of azelaic acid 5  and erythromycin 2  in the treatment of acne vulgaris",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Journal of Dermatological Treatment",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Combination of azelaic acid 5  and erythromycin 2  in the treatment of acne vulgaris/Combination of azelaic acid 5  and erythromycin 2  in the treatment of acne vulgaris.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Combination of azelaic acid 5  and erythromycin 2  in the treatment of acne vulgaris/Combination of azelaic acid 5  and erythromycin 2  in the treatment of acne vulgaris_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/DRP2025-9910076.pdf",
+      "base_name": "DRP2025-9910076",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Review Article",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/DRP2025-9910076/DRP2025-9910076.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/DRP2025-9910076/DRP2025-9910076_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much.pdf",
+      "base_name": "Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much",
+      "status": "skipped",
+      "pages": 0,
+      "title": "VIEWPOINT",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much/Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much/Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/Intern J of Cosmetic Sci - 2021 - Hawkins - Role of pH in skin cleansing.pdf",
+      "base_name": "Intern J of Cosmetic Sci - 2021 - Hawkins - Role of pH in skin cleansing",
+      "status": "skipped",
+      "pages": 0,
+      "title": "ORIGINAL ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Intern J of Cosmetic Sci - 2021 - Hawkins - Role of pH in skin cleansing/Intern J of Cosmetic Sci - 2021 - Hawkins - Role of pH in skin cleansing.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/Intern J of Cosmetic Sci - 2021 - Hawkins - Role of pH in skin cleansing/Intern J of Cosmetic Sci - 2021 - Hawkins - Role of pH in skin cleansing_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/J Deutsche Derma Gesell - 2021 - Hu - Sex hormones and acne  State of the art.pdf",
+      "base_name": "J Deutsche Derma Gesell - 2021 - Hu - Sex hormones and acne  State of the art",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Review",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/J Deutsche Derma Gesell - 2021 - Hu - Sex hormones and acne  State of the art/J Deutsche Derma Gesell - 2021 - Hu - Sex hormones and acne  State of the art.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/J Deutsche Derma Gesell - 2021 - Hu - Sex hormones and acne  State of the art/J Deutsche Derma Gesell - 2021 - Hu - Sex hormones and acne  State of the art_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/J of Cosmetic Dermatology - 2024 - Atefi - Evaluating the Effectiveness of Probiotic Supplementation in Combination With.pdf",
+      "base_name": "J of Cosmetic Dermatology - 2024 - Atefi - Evaluating the Effectiveness of Probiotic Supplementation in Combination With",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Evaluating the Effectiveness of Probiotic Supplementation \nin Combination With Doxycycline for the Treatment of \nModerate Acne: A Randomized Double-Blind Controlled \nClinical Trial",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/J of Cosmetic Dermatology - 2024 - Atefi - Evaluating the Effectiveness of Probiotic Supplementation in Combination With/J of Cosmetic Dermatology - 2024 - Atefi - Evaluating the Effectiveness of Probiotic Supplementation in Combination With.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/J of Cosmetic Dermatology - 2024 - Atefi - Evaluating the Effectiveness of Probiotic Supplementation in Combination With/J of Cosmetic Dermatology - 2024 - Atefi - Evaluating the Effectiveness of Probiotic Supplementation in Combination With_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/JDV-39-793.pdf",
+      "base_name": "JDV-39-793",
+      "status": "skipped",
+      "pages": 0,
+      "title": "SYSTEMATIC REVIEW",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/JDV-39-793/JDV-39-793.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/JDV-39-793/JDV-39-793_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/PD0320_ResidentsRsrcCtr.pdf",
+      "base_name": "PD0320_ResidentsRsrcCtr",
+      "status": "skipped",
+      "pages": 0,
+      "title": "The Effect of Cleansers\non the Skin Microbiome",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/PD0320_ResidentsRsrcCtr/PD0320_ResidentsRsrcCtr.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/PD0320_ResidentsRsrcCtr/PD0320_ResidentsRsrcCtr_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/PIIS0022202X16320851.pdf",
+      "base_name": "PIIS0022202X16320851",
+      "status": "skipped",
+      "pages": 0,
+      "title": "The Cutaneous Microbiome and Aspects of\nSkin Antimicrobial Defense System Resist\nAcute Treatment with Topical Skin Cleansers",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/PIIS0022202X16320851/PIIS0022202X16320851.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/PIIS0022202X16320851/PIIS0022202X16320851_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/PIIS019096221731962X.pdf",
+      "base_name": "PIIS019096221731962X",
+      "status": "skipped",
+      "pages": 0,
+      "title": "5395",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/PIIS019096221731962X/PIIS019096221731962X.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/PIIS019096221731962X/PIIS019096221731962X_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/S1578219016302232.pdf",
+      "base_name": "S1578219016302232",
+      "status": "skipped",
+      "pages": 0,
+      "title": "",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/S1578219016302232/S1578219016302232.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/S1578219016302232/S1578219016302232_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/SKI2-2-e104.pdf",
+      "base_name": "SKI2-2-e104",
+      "status": "skipped",
+      "pages": 0,
+      "title": "REVIEW ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/SKI2-2-e104/SKI2-2-e104.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/SKI2-2-e104/SKI2-2-e104_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/SRT-27-1135.pdf",
+      "base_name": "SRT-27-1135",
+      "status": "skipped",
+      "pages": 0,
+      "title": "ORIGINAL ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/SRT-27-1135/SRT-27-1135.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/SRT-27-1135/SRT-27-1135_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/ad-36-1.pdf",
+      "base_name": "ad-36-1",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Review Article",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ad-36-1/ad-36-1.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ad-36-1/ad-36-1_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/atm-10-11-645.pdf",
+      "base_name": "atm-10-11-645",
+      "status": "skipped",
+      "pages": 0,
+      "title": "A narrative review of research progress on the role of NLRP3\ninflammasome in acne vulgaris",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/atm-10-11-645/atm-10-11-645.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/atm-10-11-645/atm-10-11-645_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/biomedicines-09-01735.pdf",
+      "base_name": "biomedicines-09-01735",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Acne Syndromes and Mosaicism",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/biomedicines-09-01735/biomedicines-09-01735.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/biomedicines-09-01735/biomedicines-09-01735_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/bjd1263.pdf",
+      "base_name": "bjd1263",
+      "status": "skipped",
+      "pages": 0,
+      "title": "CASE REPORT",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/bjd1263/bjd1263.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/bjd1263/bjd1263_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/cimb-48-00034.pdf",
+      "base_name": "cimb-48-00034",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Transcriptomic Profiling of Cutibacterium acnes IA1—Infected\nKeratinocytes Reveal Hub Genes and CLR Pathway in\nAcne Pathogenesis",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/cimb-48-00034/cimb-48-00034.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/cimb-48-00034/cimb-48-00034_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/dob0009.pdf",
+      "base_name": "dob0009",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Psychological Stress Perturbs Epidermal\nPermeability Barrier Homeostasis",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/dob0009/dob0009.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/dob0009/dob0009_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/fbioe-01-00009.pdf",
+      "base_name": "fbioe-01-00009",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Modeling the effects of moisture-related skin-support\nfriction on the risk for superficial pressure ulcers during\npatient repositioning in bed",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/fbioe-01-00009/fbioe-01-00009.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/fbioe-01-00009/fbioe-01-00009_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/fimmu-14-1324930.pdf",
+      "base_name": "fimmu-14-1324930",
+      "status": "skipped",
+      "pages": 0,
+      "title": "OPEN ACCESS",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/fimmu-14-1324930/fimmu-14-1324930.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/fimmu-14-1324930/fimmu-14-1324930_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/fimmu-15-1275269.pdf",
+      "base_name": "fimmu-15-1275269",
+      "status": "skipped",
+      "pages": 0,
+      "title": "OPEN ACCESS",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/fimmu-15-1275269/fimmu-15-1275269.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/fimmu-15-1275269/fimmu-15-1275269_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/hsieh-tsai-2023-friction-induced-skin-disorders-a-review.pdf",
+      "base_name": "hsieh-tsai-2023-friction-induced-skin-disorders-a-review",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Friction-Induced Skin Disorders—A Review",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/hsieh-tsai-2023-friction-induced-skin-disorders-a-review/hsieh-tsai-2023-friction-induced-skin-disorders-a-review.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/hsieh-tsai-2023-friction-induced-skin-disorders-a-review/hsieh-tsai-2023-friction-induced-skin-disorders-a-review_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/ijerph-19-00659.pdf",
+      "base_name": "ijerph-19-00659",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Impact of Exposome Factors on Epidermal Barrier Function in Patients with Obstructive Sleep Apnea Syndrome",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ijerph-19-00659/ijerph-19-00659.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ijerph-19-00659/ijerph-19-00659_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/ijms-25-11422.pdf",
+      "base_name": "ijms-25-11422",
+      "status": "skipped",
+      "pages": 0,
+      "title": "The Role of the Skin Microbiome in Acne: Challenges and\nFuture Therapeutic Opportunities",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ijms-25-11422/ijms-25-11422.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ijms-25-11422/ijms-25-11422_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/jcad_12_9_42.pdf",
+      "base_name": "jcad_12_9_42",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Circadian Rhythm and\nthe Skin: A Review of the\nLiterature",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jcad_12_9_42/jcad_12_9_42.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jcad_12_9_42/jcad_12_9_42_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/jcm-08-00987.pdf",
+      "base_name": "jcm-08-00987",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Potential Role of the Microbiome in Acne: A Comprehensive Review",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jcm-08-00987/jcm-08-00987.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jcm-08-00987/jcm-08-00987_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/jcm-12-00615.pdf",
+      "base_name": "jcm-12-00615",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Sleep Deprivation Increases Facial Skin Yellowness",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jcm-12-00615/jcm-12-00615.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jcm-12-00615/jcm-12-00615_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/jmb-32-11-1390.pdf",
+      "base_name": "jmb-32-11-1390",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Sulforaphene Attenuates Cutibacterium \nacnes-Induced Inflammation",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jmb-32-11-1390/jmb-32-11-1390.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/jmb-32-11-1390/jmb-32-11-1390_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris.pdf",
+      "base_name": "kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris",
+      "status": "skipped",
+      "pages": 0,
+      "title": "Tretinoin 0.1% and Benzoyl Peroxide 3% \nCream for the Treatment of Facial Acne \nVulgaris",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris/kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris/kontzias-et-al-2023-tretinoin-0-1-and-benzoyl-peroxide-3-cream-for-the-treatment-of-facial-acne-vulgaris_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/ktmp-06-03-1632145.pdf",
+      "base_name": "ktmp-06-03-1632145",
+      "status": "skipped",
+      "pages": 0,
+      "title": "COMPREHENSIVE REVIEW",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ktmp-06-03-1632145/ktmp-06-03-1632145.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ktmp-06-03-1632145/ktmp-06-03-1632145_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/life-14-00519.pdf",
+      "base_name": "life-14-00519",
+      "status": "ok",
+      "pages": 12,
+      "title": "Deficit of Omega-3 Fatty Acids in Acne Patients—A Cross-Sectional Pilot Study in a German Cohort",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/life-14-00519/life-14-00519.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/life-14-00519/life-14-00519_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/ljaf282.pdf",
+      "base_name": "ljaf282",
+      "status": "ok",
+      "pages": 11,
+      "title": "Mild skin cleansers strengthen microbiome networks \nwithout affecting the skin microbiome",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ljaf282/ljaf282.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/ljaf282/ljaf282_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/llad371.pdf",
+      "base_name": "llad371",
+      "status": "ok",
+      "pages": 8,
+      "title": "Efficacy and safety of calcipotriol as a potential topical \ntreatment of acne vulgaris: a randomized, controlled, \ntriple blinded, split-face clinical trial",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/llad371/llad371.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/llad371/llad371_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/materials-15-02184.pdf",
+      "base_name": "materials-15-02184",
+      "status": "ok",
+      "pages": 18,
+      "title": "A Brief Review on Factors Affecting the Tribological Interaction between Human Skin and Different Textile Materials",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/materials-15-02184/materials-15-02184.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/materials-15-02184/materials-15-02184_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/microorganisms-09-01192.pdf",
+      "base_name": "microorganisms-09-01192",
+      "status": "ok",
+      "pages": 21,
+      "title": "The Future of Functional Clothing for an Improved Skin and Textile Microbiome Relationship",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/microorganisms-09-01192/microorganisms-09-01192.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/microorganisms-09-01192/microorganisms-09-01192_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/molecules-30-04684-v2.pdf",
+      "base_name": "molecules-30-04684-v2",
+      "status": "ok",
+      "pages": 23,
+      "title": "Rebalancing the Skin: The Microbiome, Acne Pathogenesis,\nand the Future of Natural and Synthetic Therapies",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/molecules-30-04684-v2/molecules-30-04684-v2.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/molecules-30-04684-v2/molecules-30-04684-v2_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/nihms-1993267.pdf",
+      "base_name": "nihms-1993267",
+      "status": "ok",
+      "pages": 17,
+      "title": "HHS Public Access",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nihms-1993267/nihms-1993267.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nihms-1993267/nihms-1993267_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/nihms352844.pdf",
+      "base_name": "nihms352844",
+      "status": "ok",
+      "pages": 25,
+      "title": "HHS Public Access",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nihms352844/nihms352844.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nihms352844/nihms352844_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/nihms680814.pdf",
+      "base_name": "nihms680814",
+      "status": "ok",
+      "pages": 17,
+      "title": "HHS Public Access",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nihms680814/nihms680814.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nihms680814/nihms680814_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/nutrients-10-01049.pdf",
+      "base_name": "nutrients-10-01049",
+      "status": "ok",
+      "pages": 13,
+      "title": "Dairy Intake and Acne Vulgaris: A Systematic Review\nand Meta-Analysis of 78,529 Children, Adolescents,\nand Young Adults",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nutrients-10-01049/nutrients-10-01049.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nutrients-10-01049/nutrients-10-01049_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/nutrients-15-03123.pdf",
+      "base_name": "nutrients-15-03123",
+      "status": "ok",
+      "pages": 20,
+      "title": "The Role of Probiotics in Skin Health and Related Gut–Skin\nAxis: A Review",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nutrients-15-03123/nutrients-15-03123.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/nutrients-15-03123/nutrients-15-03123_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/pharmaceuticals-18-00071.pdf",
+      "base_name": "pharmaceuticals-18-00071",
+      "status": "ok",
+      "pages": 15,
+      "title": "Gedunin Mitigates Cutibacterium acnes-Induced Skin\nInflammation by Inhibiting the NF-κB Pathway",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/pharmaceuticals-18-00071/pharmaceuticals-18-00071.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/pharmaceuticals-18-00071/pharmaceuticals-18-00071_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/pharmaceutics-13-00567.pdf",
+      "base_name": "pharmaceutics-13-00567",
+      "status": "ok",
+      "pages": 11,
+      "title": "Efficacy and Safety of Azelaic Acid Nanocrystal-Loaded In Situ Hydrogel in the Treatment of Acne Vulgaris",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/pharmaceutics-13-00567/pharmaceutics-13-00567.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/pharmaceutics-13-00567/pharmaceutics-13-00567_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/plikus-et-al-2015-the-circadian-clock-in-skin.pdf",
+      "base_name": "plikus-et-al-2015-the-circadian-clock-in-skin",
+      "status": "ok",
+      "pages": 20,
+      "title": "The Body Clocks Review Series",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/plikus-et-al-2015-the-circadian-clock-in-skin/plikus-et-al-2015-the-circadian-clock-in-skin.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/plikus-et-al-2015-the-circadian-clock-in-skin/plikus-et-al-2015-the-circadian-clock-in-skin_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s-2007-961807.pdf",
+      "base_name": "s-2007-961807",
+      "status": "ok",
+      "pages": 11,
+      "title": "Sexual Hormones in Human Skin",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s-2007-961807/s-2007-961807.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s-2007-961807/s-2007-961807_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s00105-005-1039-x.pdf",
+      "base_name": "s00105-005-1039-x",
+      "status": "ok",
+      "pages": 8,
+      "title": "Systemische Aknetherapie",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00105-005-1039-x/s00105-005-1039-x.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00105-005-1039-x/s00105-005-1039-x_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s00105-009-1894-y.pdf",
+      "base_name": "s00105-009-1894-y",
+      "status": "ok",
+      "pages": 11,
+      "title": "Leitthema",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00105-009-1894-y/s00105-009-1894-y.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00105-009-1894-y/s00105-009-1894-y_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s00403-015-1600-0.pdf",
+      "base_name": "s00403-015-1600-0",
+      "status": "ok",
+      "pages": 11,
+      "title": "ORIGINAL PAPER",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00403-015-1600-0/s00403-015-1600-0.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00403-015-1600-0/s00403-015-1600-0_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s00403-024-02874-9.pdf",
+      "base_name": "s00403-024-02874-9",
+      "status": "ok",
+      "pages": 7,
+      "title": "ORIGINAL PAPER",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00403-024-02874-9/s00403-024-02874-9.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s00403-024-02874-9/s00403-024-02874-9_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s13555-024-01286-x.pdf",
+      "base_name": "s13555-024-01286-x",
+      "status": "ok",
+      "pages": 16,
+      "title": "ORIGINAL RESEARCH",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s13555-024-01286-x/s13555-024-01286-x.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s13555-024-01286-x/s13555-024-01286-x_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s40257-020-00531-1.pdf",
+      "base_name": "s40257-020-00531-1",
+      "status": "ok",
+      "pages": 7,
+      "title": "REVIEW ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s40257-020-00531-1/s40257-020-00531-1.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s40257-020-00531-1/s40257-020-00531-1_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s40257-021-00650-3.pdf",
+      "base_name": "s40257-021-00650-3",
+      "status": "ok",
+      "pages": 12,
+      "title": "ORIGINAL RESEARCH ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s40257-021-00650-3/s40257-021-00650-3.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s40257-021-00650-3/s40257-021-00650-3_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s41423-024-01137-x.pdf",
+      "base_name": "s41423-024-01137-x",
+      "status": "ok",
+      "pages": 13,
+      "title": "ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41423-024-01137-x/s41423-024-01137-x.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41423-024-01137-x/s41423-024-01137-x_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s41598-022-25436-3.pdf",
+      "base_name": "s41598-022-25436-3",
+      "status": "ok",
+      "pages": 16,
+      "title": "",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41598-022-25436-3/s41598-022-25436-3.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41598-022-25436-3/s41598-022-25436-3_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s41598-023-43354-w.pdf",
+      "base_name": "s41598-023-43354-w",
+      "status": "ok",
+      "pages": 17,
+      "title": "",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41598-023-43354-w/s41598-023-43354-w.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41598-023-43354-w/s41598-023-43354-w_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/s41702-019-0042-2.pdf",
+      "base_name": "s41702-019-0042-2",
+      "status": "ok",
+      "pages": 6,
+      "title": "Toll-like receptor 2 plays a critical role in pathogenesis of acne vulgaris",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41702-019-0042-2/s41702-019-0042-2.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/s41702-019-0042-2/s41702-019-0042-2_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without.pdf",
+      "base_name": "smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without",
+      "status": "ok",
+      "pages": 11,
+      "title": "RESEARCH ARTICLE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without/smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without/smith-et-al-2018-impact-of-sleep-restriction-on-local-immune-response-and-skin-barrier-restoration-with-and-without_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/swaney-et-al-2023-sweat-and-sebum-preferences-of-the-human-skin-microbiota.pdf",
+      "base_name": "swaney-et-al-2023-sweat-and-sebum-preferences-of-the-human-skin-microbiota",
+      "status": "ok",
+      "pages": 17,
+      "title": "Sweat and Sebum Preferences of the Human Skin Microbiota",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/swaney-et-al-2023-sweat-and-sebum-preferences-of-the-human-skin-microbiota/swaney-et-al-2023-sweat-and-sebum-preferences-of-the-human-skin-microbiota.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/swaney-et-al-2023-sweat-and-sebum-preferences-of-the-human-skin-microbiota/swaney-et-al-2023-sweat-and-sebum-preferences-of-the-human-skin-microbiota_meta.json",
+      "error": null
+    },
+    {
+      "pdf": "/Users/vincentxayasak/Documents/Facial_Acne_AI/pdfs/the_effect_of_washing_and_drying_practices_on_skin.17.pdf",
+      "base_name": "the_effect_of_washing_and_drying_practices_on_skin.17",
+      "status": "ok",
+      "pages": 7,
+      "title": "WOUND CARE",
+      "markdown_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/the_effect_of_washing_and_drying_practices_on_skin.17/the_effect_of_washing_and_drying_practices_on_skin.17.md",
+      "metadata_path": "/Users/vincentxayasak/Documents/Facial_Acne_AI/markdown/the_effect_of_washing_and_drying_practices_on_skin.17/the_effect_of_washing_and_drying_practices_on_skin.17_meta.json",
+      "error": null
+    }
+  ]
+}

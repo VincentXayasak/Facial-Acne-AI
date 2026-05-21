@@ -1,0 +1,513 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ORIGINAL ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          238.5,
+          47.25
+        ],
+        [
+          358.7783203125,
+          47.25
+        ],
+        [
+          358.7783203125,
+          57.73095703125
+        ],
+        [
+          238.5,
+          57.73095703125
+        ]
+      ]
+    },
+    {
+      "title": "Ceramide-Containing Adjunctive Skin Care for Skin\nBarrier Restoration During Acne Vulgaris Treatment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          78.0,
+          89.25
+        ],
+        [
+          515.25,
+          89.25
+        ],
+        [
+          515.25,
+          130.7548828125
+        ],
+        [
+          78.0,
+          130.7548828125
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          39.0,
+          221.25
+        ],
+        [
+          105.0,
+          221.25
+        ],
+        [
+          105.0,
+          231.0
+        ],
+        [
+          39.0,
+          231.0
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          36.0,
+          467.25
+        ],
+        [
+          135.75,
+          468.75
+        ],
+        [
+          135.75,
+          478.5
+        ],
+        [
+          36.0,
+          478.28759765625
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.0,
+          588.75
+        ],
+        [
+          465.75,
+          588.75
+        ],
+        [
+          465.75,
+          597.75
+        ],
+        [
+          306.0,
+          597.75
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.0,
+          155.60595703125
+        ],
+        [
+          361.5,
+          155.60595703125
+        ],
+        [
+          361.5,
+          165.0
+        ],
+        [
+          306.0,
+          165.0
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          35.25,
+          635.04052734375
+        ],
+        [
+          114.75,
+          635.04052734375
+        ],
+        [
+          114.75,
+          645.75
+        ],
+        [
+          35.25,
+          645.75
+        ]
+      ]
+    },
+    {
+      "title": "CONCLUSION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.25,
+          240.0
+        ],
+        [
+          391.5,
+          240.0
+        ],
+        [
+          391.5,
+          250.5
+        ],
+        [
+          305.25,
+          250.5
+        ]
+      ]
+    },
+    {
+      "title": "DISCLOSURES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.0,
+          324.2109375
+        ],
+        [
+          393.0,
+          324.2109375
+        ],
+        [
+          393.0,
+          333.75
+        ],
+        [
+          306.0,
+          333.75
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          305.25,
+          408.0
+        ],
+        [
+          390.0,
+          408.70458984375
+        ],
+        [
+          390.0,
+          418.5
+        ],
+        [
+          305.25,
+          417.11572265625
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CORRESPONDENCE",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          312.75,
+          664.5
+        ],
+        [
+          458.25,
+          664.5
+        ],
+        [
+          458.25,
+          674.03759765625
+        ],
+        [
+          312.75,
+          674.03759765625
+        ]
+      ]
+    },
+    {
+      "title": "Zoe Diana Draelos MD",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          310.921875,
+          683.97802734375
+        ],
+        [
+          420.0,
+          683.97802734375
+        ],
+        [
+          420.0,
+          694.5
+        ],
+        [
+          310.921875,
+          694.5
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          95
+        ],
+        [
+          "Span",
+          30
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          89
+        ],
+        [
+          "Span",
+          35
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          75
+        ],
+        [
+          "Span",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          105
+        ],
+        [
+          "Span",
+          38
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          152
+        ],
+        [
+          "Span",
+          93
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "ListItem",
+          11
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/6a0b8d102f8cc"
+}

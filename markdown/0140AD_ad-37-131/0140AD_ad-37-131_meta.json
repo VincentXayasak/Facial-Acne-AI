@@ -1,0 +1,1097 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Original Article",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.48828125,
+          84.776611328125
+        ],
+        [
+          125.77629089355469,
+          84.776611328125
+        ],
+        [
+          125.77629089355469,
+          98.776611328125
+        ],
+        [
+          42.48828125,
+          98.776611328125
+        ]
+      ]
+    },
+    {
+      "title": "Independent and Combined Effects \nof Particulate Matter and Sleep \nDeprivation on Human Skin Barrier",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          190.90625,
+          84.1298828125
+        ],
+        [
+          524.3750610351562,
+          84.1298828125
+        ],
+        [
+          524.3750610351562,
+          159.04278564453125
+        ],
+        [
+          190.90625,
+          159.04278564453125
+        ]
+      ]
+    },
+    {
+      "title": "Correspondence Author:",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.51969909667969,
+          385.369140625
+        ],
+        [
+          122.2265625,
+          385.369140625
+        ],
+        [
+          122.2265625,
+          394.9121398925781
+        ],
+        [
+          42.51969909667969,
+          394.9121398925781
+        ]
+      ]
+    },
+    {
+      "title": "Sang Ho Oh",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.197265625,
+          395.8369140625
+        ],
+        [
+          78.8156967163086,
+          395.8369140625
+        ],
+        [
+          78.8156967163086,
+          405.92926025390625
+        ],
+        [
+          42.197265625,
+          405.92926025390625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          191.779296875,
+          333.0525207519531
+        ],
+        [
+          260.71160888671875,
+          333.0525207519531
+        ],
+        [
+          260.71160888671875,
+          348.4525146484375
+        ],
+        [
+          191.779296875,
+          348.4525146484375
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.51969909667969,
+          86.05255126953125
+        ],
+        [
+          143.543701171875,
+          86.05255126953125
+        ],
+        [
+          143.543701171875,
+          101.45257568359375
+        ],
+        [
+          42.51969909667969,
+          101.45257568359375
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.32421875,
+          632.0525207519531
+        ],
+        [
+          216.63209533691406,
+          632.0525207519531
+        ],
+        [
+          216.63209533691406,
+          647.4525146484375
+        ],
+        [
+          41.32421875,
+          647.4525146484375
+        ]
+      ]
+    },
+    {
+      "title": "Study participants and ethical considerations",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.32421875,
+          661.5628356933594
+        ],
+        [
+          256.24639892578125,
+          661.5628356933594
+        ],
+        [
+          256.24639892578125,
+          672.5628433227539
+        ],
+        [
+          41.32421875,
+          672.5628433227539
+        ]
+      ]
+    },
+    {
+      "title": "Experimental protocol",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.947265625,
+          205.8662109375
+        ],
+        [
+          409.7292785644531,
+          205.8662109375
+        ],
+        [
+          409.7292785644531,
+          217.5628662109375
+        ],
+        [
+          302.947265625,
+          217.5628662109375
+        ]
+      ]
+    },
+    {
+      "title": "Evaluation of skin barrier parameters",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.8203125,
+          635.5628204345703
+        ],
+        [
+          479.4231262207031,
+          635.5628204345703
+        ],
+        [
+          479.4231262207031,
+          646.5628204345703
+        ],
+        [
+          303.8203125,
+          646.5628204345703
+        ]
+      ]
+    },
+    {
+      "title": "Tape-stripping and RNA extraction",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.90625,
+          154.5628662109375
+        ],
+        [
+          205.2734832763672,
+          154.5628662109375
+        ],
+        [
+          205.2734832763672,
+          165.5628662109375
+        ],
+        [
+          41.90625,
+          165.5628662109375
+        ]
+      ]
+    },
+    {
+      "title": "RNA sequencing",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.90625,
+          258.5628662109375
+        ],
+        [
+          118.734375,
+          258.5628662109375
+        ],
+        [
+          118.734375,
+          269.5628662109375
+        ],
+        [
+          41.90625,
+          269.5628662109375
+        ]
+      ]
+    },
+    {
+      "title": "Quantitative real-time reverse transcription-PCR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.07421875,
+          128.5628662109375
+        ],
+        [
+          533.1481323242188,
+          128.5628662109375
+        ],
+        [
+          533.1481323242188,
+          139.5628662109375
+        ],
+        [
+          302.07421875,
+          139.5628662109375
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.40234375,
+          349.5628356933594
+        ],
+        [
+          394.03515625,
+          349.5628356933594
+        ],
+        [
+          394.03515625,
+          360.5628356933594
+        ],
+        [
+          304.40234375,
+          360.5628356933594
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.7243957519531,
+          463.0525207519531
+        ],
+        [
+          360.6571960449219,
+          463.0525207519531
+        ],
+        [
+          360.6571960449219,
+          478.4525146484375
+        ],
+        [
+          304.7243957519531,
+          478.4525146484375
+        ]
+      ]
+    },
+    {
+      "title": "Study participants and baseline characteristics",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.23828125,
+          492.5628356933594
+        ],
+        [
+          526.5031127929688,
+          492.5628356933594
+        ],
+        [
+          526.5031127929688,
+          503.61621093749994
+        ],
+        [
+          303.23828125,
+          503.61621093749994
+        ]
+      ]
+    },
+    {
+      "title": "Effects of PM exposure on skin barrier",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.65625,
+          596.5628204345703
+        ],
+        [
+          480.8652038574219,
+          596.5628204345703
+        ],
+        [
+          480.8652038574219,
+          607.5628204345703
+        ],
+        [
+          302.65625,
+          607.5628204345703
+        ]
+      ]
+    },
+    {
+      "title": "Effects of sleep deprivation on skin barrier",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.90625,
+          401.5628356933594
+        ],
+        [
+          240.9574737548828,
+          401.5628356933594
+        ],
+        [
+          240.9574737548828,
+          412.5628356933594
+        ],
+        [
+          41.90625,
+          412.5628356933594
+        ]
+      ]
+    },
+    {
+      "title": "Combined effects of PM exposure and sleep \ndeprivation on skin barrier",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          41.32421875,
+          531.5628356933594
+        ],
+        [
+          246.54444885253906,
+          531.5628356933594
+        ],
+        [
+          246.54444885253906,
+          555.5628204345703
+        ],
+        [
+          41.32421875,
+          555.5628204345703
+        ]
+      ]
+    },
+    {
+      "title": "Gene expression analysis following PM exposure and \nsleep deprivation",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          303.23828125,
+          401.5628356933594
+        ],
+        [
+          551.0440673828125,
+          401.5628356933594
+        ],
+        [
+          551.0440673828125,
+          425.5628356933594
+        ],
+        [
+          303.23828125,
+          425.5628356933594
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          42.48828125,
+          151.05255126953125
+        ],
+        [
+          123.3388900756836,
+          151.05255126953125
+        ],
+        [
+          123.3388900756836,
+          166.45257568359375
+        ],
+        [
+          42.48828125,
+          166.45257568359375
+        ]
+      ]
+    },
+    {
+      "title": "ORCID iDs",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.48828125,
+          572.6259765625
+        ],
+        [
+          76.24609375,
+          572.6259765625
+        ],
+        [
+          76.24609375,
+          581.3219451904297
+        ],
+        [
+          42.48828125,
+          581.3219451904297
+        ]
+      ]
+    },
+    {
+      "title": "FUNDING SOURCE",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.7243957519531,
+          232.2353515625
+        ],
+        [
+          364.93359375,
+          232.2353515625
+        ],
+        [
+          364.93359375,
+          240.2353515625
+        ],
+        [
+          304.7243957519531,
+          240.2353515625
+        ]
+      ]
+    },
+    {
+      "title": "CONFLICTS OF INTEREST",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          302.07421875,
+          283.79296875
+        ],
+        [
+          383.20440673828125,
+          283.79296875
+        ],
+        [
+          383.20440673828125,
+          292.7392578125
+        ],
+        [
+          302.07421875,
+          292.7392578125
+        ]
+      ]
+    },
+    {
+      "title": "DATA SHARING STATEMENT",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.7243957519531,
+          336.51953125
+        ],
+        [
+          393.162109375,
+          336.51953125
+        ],
+        [
+          393.162109375,
+          345.2431640625
+        ],
+        [
+          304.7243957519531,
+          345.2431640625
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIAL",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.23828125,
+          385.05242919921875
+        ],
+        [
+          485.7206115722656,
+          385.05242919921875
+        ],
+        [
+          485.7206115722656,
+          400.4524230957031
+        ],
+        [
+          303.23828125,
+          400.4524230957031
+        ]
+      ]
+    },
+    {
+      "title": "Supplementary Fig. 1",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.23828125,
+          414.4462890625
+        ],
+        [
+          402.23828125,
+          414.4462890625
+        ],
+        [
+          402.23828125,
+          425.562744140625
+        ],
+        [
+          303.23828125,
+          425.562744140625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.40234375,
+          528.0523986816406
+        ],
+        [
+          389.7939758300781,
+          528.0523986816406
+        ],
+        [
+          389.7939758300781,
+          543.4524078369141
+        ],
+        [
+          304.40234375,
+          543.4524078369141
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          199
+        ],
+        [
+          "Line",
+          78
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "Picture",
+          4
+        ],
+        [
+          "Footnote",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          203
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Reference",
+          8
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          308
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          227
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          140
+        ],
+        [
+          "Span",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          251
+        ],
+        [
+          "Line",
+          98
+        ],
+        [
+          "Reference",
+          18
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          222
+        ],
+        [
+          "Line",
+          99
+        ],
+        [
+          "Text",
+          31
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "Reference",
+          5
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          338
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "Reference",
+          22
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/0140AD_ad-37-131"
+}

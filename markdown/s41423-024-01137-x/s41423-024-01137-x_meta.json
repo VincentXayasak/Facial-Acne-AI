@@ -1,0 +1,1322 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.361328125,
+          81.880859375
+        ],
+        [
+          93.07808564231738,
+          81.880859375
+        ],
+        [
+          93.07808564231738,
+          92.22085308056872
+        ],
+        [
+          43.361328125,
+          92.22085308056872
+        ]
+      ]
+    },
+    {
+      "title": "NLRP3 inflammasome activation and NETosis positively regulate each other and exacerbate proinflammatory responses: implications of NETosis inhibition for acne skin inflammation treatment",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.234375,
+          101.21800947867298
+        ],
+        [
+          523.9395465994962,
+          101.21800947867298
+        ],
+        [
+          523.9395465994962,
+          185.94123222748814
+        ],
+        [
+          44.234375,
+          185.94123222748814
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.287153652392945,
+          462.31787109375
+        ],
+        [
+          108.84130982367758,
+          462.31787109375
+        ],
+        [
+          108.84130982367758,
+          472.3507109004739
+        ],
+        [
+          44.287153652392945,
+          472.3507109004739
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          336.6436018957346
+        ],
+        [
+          71.30982367758186,
+          336.6436018957346
+        ],
+        [
+          71.30982367758186,
+          343.3914691943128
+        ],
+        [
+          34.52896725440806,
+          343.3914691943128
+        ]
+      ]
+    },
+    {
+      "title": "NETosis and NLRP3 inflammasomes are activated in P. acnes-\ninduced skin inflammation model mice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          34.52896725440806,
+          346.3905213270142
+        ],
+        [
+          284.4886649874055,
+          346.3905213270142
+        ],
+        [
+          284.4886649874055,
+          364.21533203125
+        ],
+        [
+          34.52896725440806,
+          364.21533203125
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes exacerbates imiquimod (IMQ)-induced psoriasis-like skin inflammation in mice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.91015625,
+          57.9345703125
+        ],
+        [
+          547.9596977329975,
+          57.9345703125
+        ],
+        [
+          547.9596977329975,
+          75.7260663507109
+        ],
+        [
+          300.91015625,
+          75.7260663507109
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes induces NETosis in vitro",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.00251889168766,
+          266.1658767772512
+        ],
+        [
+          435.3652392947103,
+          266.1658767772512
+        ],
+        [
+          435.3652392947103,
+          275.38232421875
+        ],
+        [
+          301.00251889168766,
+          275.38232421875
+        ]
+      ]
+    },
+    {
+      "title": "NETosis inhibitors attenuate P. acnes-induced skin inflammation in mice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.91015625,
+          396.624644549763
+        ],
+        [
+          507.4256926952141,
+          396.624644549763
+        ],
+        [
+          507.4256926952141,
+          413.8691943127962
+        ],
+        [
+          300.91015625,
+          413.8691943127962
+        ]
+      ]
+    },
+    {
+      "title": "NET inhibitors suppress inflammasome activation in P. acnes-induced skin inflammation model mice",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          300.91015625,
+          665.0398104265403
+        ],
+        [
+          552.4634760705289,
+          665.0398104265403
+        ],
+        [
+          552.4634760705289,
+          684.78662109375
+        ],
+        [
+          300.91015625,
+          684.78662109375
+        ]
+      ]
+    },
+    {
+      "title": "An inflammasome inhibitor suppresses NETosis in P. acnes-induced skin inflammation model mice",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          309.05859375,
+          611.0568720379147
+        ],
+        [
+          553.2141057934508,
+          611.0568720379147
+        ],
+        [
+          553.2141057934508,
+          629.94189453125
+        ],
+        [
+          309.05859375,
+          629.94189453125
+        ]
+      ]
+    },
+    {
+      "title": "NETosis induces NIrp3 inflammasome activation in mouse BMDMs",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.287153652392945,
+          256.41895734597153
+        ],
+        [
+          252.2115869017632,
+          256.41895734597153
+        ],
+        [
+          252.2115869017632,
+          273.83740234375
+        ],
+        [
+          44.287153652392945,
+          273.83740234375
+        ]
+      ]
+    },
+    {
+      "title": "NETosis and inflammasome activation are induced in acne patient skin tissues",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          44.287153652392945,
+          434.11279620853077
+        ],
+        [
+          284.4886649874055,
+          434.11279620853077
+        ],
+        [
+          284.4886649874055,
+          454.59326171875
+        ],
+        [
+          44.287153652392945,
+          454.59326171875
+        ]
+      ]
+    },
+    {
+      "title": "METHODS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.22265625,
+          526.3336492890995
+        ],
+        [
+          353.54659949622163,
+          526.3336492890995
+        ],
+        [
+          353.54659949622163,
+          535.70166015625
+        ],
+        [
+          310.22265625,
+          535.70166015625
+        ]
+      ]
+    },
+    {
+      "title": "Preparation of neutrophils and bone marrow-derived macrophages (BMDMs)",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.7607052896725,
+          535.3154296875
+        ],
+        [
+          529.1939546599496,
+          535.3154296875
+        ],
+        [
+          529.1939546599496,
+          554.0748815165877
+        ],
+        [
+          310.7607052896725,
+          554.0748815165877
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial culture",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          310.7607052896725,
+          656.97802734375
+        ],
+        [
+          379.06801007556675,
+          656.97802734375
+        ],
+        [
+          379.06801007556675,
+          665.47509765625
+        ],
+        [
+          310.7607052896725,
+          665.47509765625
+        ]
+      ]
+    },
+    {
+      "title": "Animal experiments",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          34.52896725440806,
+          684.78662109375
+        ],
+        [
+          117.09823677581863,
+          684.78662109375
+        ],
+        [
+          117.09823677581863,
+          693.5308056872037
+        ],
+        [
+          34.52896725440806,
+          693.5308056872037
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes-induced skin inflammation mouse model",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          43.53652392947103,
+          687.87646484375
+        ],
+        [
+          247.70780856423173,
+          687.87646484375
+        ],
+        [
+          247.70780856423173,
+          697.2796208530806
+        ],
+        [
+          43.53652392947103,
+          697.2796208530806
+        ]
+      ]
+    },
+    {
+      "title": "Imiquimod (IMQ)-induced psoriasis-like skin inflammation mouse model",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.52896725440806,
+          116.2132701421801
+        ],
+        [
+          272.4785894206549,
+          116.2132701421801
+        ],
+        [
+          272.4785894206549,
+          134.95734597156397
+        ],
+        [
+          34.52896725440806,
+          134.95734597156397
+        ]
+      ]
+    },
+    {
+      "title": "NET formation assay",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.52896725440806,
+          211.43317535545023
+        ],
+        [
+          121.60201511335012,
+          211.43317535545023
+        ],
+        [
+          121.60201511335012,
+          220.53759765625
+        ],
+        [
+          34.52896725440806,
+          220.53759765625
+        ]
+      ]
+    },
+    {
+      "title": "Scanning electron microscopy (SEM)",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.52896725440806,
+          297.01123046875
+        ],
+        [
+          184.65491183879092,
+          297.01123046875
+        ],
+        [
+          184.65491183879092,
+          305.903317535545
+        ],
+        [
+          34.52896725440806,
+          305.903317535545
+        ]
+      ]
+    },
+    {
+      "title": "Western blot analysis",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.52896725440806,
+          403.3725118483412
+        ],
+        [
+          124.60453400503778,
+          403.3725118483412
+        ],
+        [
+          124.60453400503778,
+          412.10791015625
+        ],
+        [
+          34.52896725440806,
+          412.10791015625
+        ]
+      ]
+    },
+    {
+      "title": "Immunofluorescence",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          34.52896725440806,
+          684.78662109375
+        ],
+        [
+          120.8513853904282,
+          684.78662109375
+        ],
+        [
+          120.8513853904282,
+          694.2805687203792
+        ],
+        [
+          34.52896725440806,
+          694.2805687203792
+        ]
+      ]
+    },
+    {
+      "title": "RNA isolation and real-time PCR",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          299.455078125,
+          305.1535545023697
+        ],
+        [
+          434.6146095717884,
+          305.1535545023697
+        ],
+        [
+          434.6146095717884,
+          314.15071090047394
+        ],
+        [
+          299.455078125,
+          314.15071090047394
+        ]
+      ]
+    },
+    {
+      "title": "NET and BMDM coculture",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          301.00251889168766,
+          434.50927734375
+        ],
+        [
+          408.3425692695214,
+          434.50927734375
+        ],
+        [
+          408.3425692695214,
+          443.8597156398104
+        ],
+        [
+          301.00251889168766,
+          443.8597156398104
+        ]
+      ]
+    },
+    {
+      "title": "Skin samples from human acne patients",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          301.00251889168766,
+          601.36083984375
+        ],
+        [
+          467.6423173803526,
+          601.36083984375
+        ],
+        [
+          467.6423173803526,
+          610.3071090047393
+        ],
+        [
+          301.00251889168766,
+          610.3071090047393
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          300.037109375,
+          660.06787109375
+        ],
+        [
+          377.5667506297229,
+          660.06787109375
+        ],
+        [
+          377.5667506297229,
+          668.788625592417
+        ],
+        [
+          300.037109375,
+          668.788625592417
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          44.234375,
+          57.9345703125
+        ],
+        [
+          95.75387573242188,
+          57.9345703125
+        ],
+        [
+          95.75387573242188,
+          67.42449951171875
+        ],
+        [
+          44.234375,
+          67.42449951171875
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          310.8046875,
+          276.15478515625
+        ],
+        [
+          402.7329406738281,
+          276.15478515625
+        ],
+        [
+          402.7329406738281,
+          285.5788269042969
+        ],
+        [
+          310.8046875,
+          285.5788269042969
+        ]
+      ]
+    },
+    {
+      "title": "AUTHOR CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          310.8046875,
+          350.31103515625
+        ],
+        [
+          415.5703125,
+          350.31103515625
+        ],
+        [
+          415.5703125,
+          360.29998779296875
+        ],
+        [
+          310.8046875,
+          360.29998779296875
+        ]
+      ]
+    },
+    {
+      "title": "COMPETING INTERESTS",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          310.513671875,
+          397.43115234375
+        ],
+        [
+          406.548828125,
+          397.43115234375
+        ],
+        [
+          406.548828125,
+          408.1488342285156
+        ],
+        [
+          310.513671875,
+          408.1488342285156
+        ]
+      ]
+    },
+    {
+      "title": "ADDITIONAL INFORMATION",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          311.35736083984375,
+          434.50927734375
+        ],
+        [
+          424.30078125,
+          434.50927734375
+        ],
+        [
+          424.30078125,
+          444.99920654296875
+        ],
+        [
+          311.35736083984375,
+          444.99920654296875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          84
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Picture",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          145
+        ],
+        [
+          "Span",
+          131
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          83
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          410
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          83
+        ],
+        [
+          "Span",
+          54
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          63
+        ],
+        [
+          "Span",
+          47
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          74
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          99
+        ],
+        [
+          "Span",
+          65
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          150
+        ],
+        [
+          "Span",
+          70
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          69
+        ],
+        [
+          "Span",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          57
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          156
+        ],
+        [
+          "Span",
+          121
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          308
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "ListItem",
+          34
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/s41423-024-01137-x"
+}

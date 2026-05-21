@@ -1,0 +1,408 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Acne in Infancy and Acne Genetics",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.673828125,
+          151.419677734375
+        ],
+        [
+          405.576171875,
+          151.419677734375
+        ],
+        [
+          405.576171875,
+          171.853515625
+        ],
+        [
+          40.673828125,
+          171.853515625
+        ]
+      ]
+    },
+    {
+      "title": "Key Words",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.4169921875,
+          317.8056640625
+        ],
+        [
+          94.91102600097656,
+          317.8056640625
+        ],
+        [
+          94.91102600097656,
+          328.487060546875
+        ],
+        [
+          42.4169921875,
+          328.487060546875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.54541015625,
+          369.197265625
+        ],
+        [
+          85.8674545288086,
+          369.197265625
+        ],
+        [
+          85.8674545288086,
+          379.5589904785156
+        ],
+        [
+          41.54541015625,
+          379.5589904785156
+        ]
+      ]
+    },
+    {
+      "title": "Neonatal Acne",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.90966796875,
+          636.8447265625
+        ],
+        [
+          128.31915283203125,
+          636.8447265625
+        ],
+        [
+          128.31915283203125,
+          647.6869964599609
+        ],
+        [
+          54.90966796875,
+          647.6869964599609
+        ]
+      ]
+    },
+    {
+      "title": "Infantile Acne",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.0380859375,
+          369.6083984375
+        ],
+        [
+          125.0221176147461,
+          369.6083984375
+        ],
+        [
+          125.0221176147461,
+          379.5589904785156
+        ],
+        [
+          54.0380859375,
+          379.5589904785156
+        ]
+      ]
+    },
+    {
+      "title": "Mid-Childhood Acne",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.76953125,
+          597.3759765625
+        ],
+        [
+          418.5804748535156,
+          597.3759765625
+        ],
+        [
+          418.5804748535156,
+          609.3829956054688
+        ],
+        [
+          313.76953125,
+          609.3829956054688
+        ]
+      ]
+    },
+    {
+      "title": "Prepubertal Acne",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          55.2001953125,
+          228.58984375
+        ],
+        [
+          142.3583984375,
+          228.58984375
+        ],
+        [
+          142.3583984375,
+          239.1109619140625
+        ],
+        [
+          55.2001953125,
+          239.1109619140625
+        ]
+      ]
+    },
+    {
+      "title": "Acne Genetics",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          54.619140625,
+          62.9033203125
+        ],
+        [
+          127.25525665283203,
+          62.9033203125
+        ],
+        [
+          127.25525665283203,
+          73.1270751953125
+        ],
+        [
+          54.619140625,
+          73.1270751953125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          54.619140625,
+          62.9033203125
+        ],
+        [
+          110.76345825195312,
+          62.9033203125
+        ],
+        [
+          110.76345825195312,
+          73.1270751953125
+        ],
+        [
+          54.619140625,
+          73.1270751953125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          149
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageFooter",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          177
+        ],
+        [
+          "Line",
+          95
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          150
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          310
+        ],
+        [
+          "Line",
+          169
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "PageFooter",
+          3
+        ],
+        [
+          "ListGroup",
+          3
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/000067819"
+}

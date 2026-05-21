@@ -1,0 +1,696 @@
+{
+  "table_of_contents": [
+    {
+      "title": "The Genetics of Acne",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          43.0703125,
+          151.78271484375
+        ],
+        [
+          222.5075225830078,
+          151.78271484375
+        ],
+        [
+          222.5075225830078,
+          171.09918212890625
+        ],
+        [
+          43.0703125,
+          171.09918212890625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.419921875,
+          313.12353515625
+        ],
+        [
+          108.71195220947266,
+          313.12353515625
+        ],
+        [
+          108.71195220947266,
+          323.96722412109375
+        ],
+        [
+          54.419921875,
+          323.96722412109375
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.81640625,
+          604.45458984375
+        ],
+        [
+          131.03109741210938,
+          604.45458984375
+        ],
+        [
+          131.03109741210938,
+          614.9102020263672
+        ],
+        [
+          44.81640625,
+          614.9102020263672
+        ]
+      ]
+    },
+    {
+      "title": "2 Single Gene Disorders",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.857421875,
+          306.993408203125
+        ],
+        [
+          434.486328125,
+          306.993408203125
+        ],
+        [
+          434.486328125,
+          316.9560241699219
+        ],
+        [
+          305.857421875,
+          316.9560241699219
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Apert Syndrome (MIM #101200)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          303.23828125,
+          433.1014099121094
+        ],
+        [
+          489.3931579589844,
+          433.1014099121094
+        ],
+        [
+          489.3931579589844,
+          443.06402587890625
+        ],
+        [
+          303.23828125,
+          443.06402587890625
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Nevus Comedonicus (MIM #617025)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          45.2400016784668,
+          180.07470703125
+        ],
+        [
+          245.35968017578125,
+          180.07470703125
+        ],
+        [
+          245.35968017578125,
+          190.92901611328125
+        ],
+        [
+          45.2400016784668,
+          190.92901611328125
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Frank-Ter Haar and Winchester Syndromes\n(FTHS, WS; MIM #249420, #277950)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.234375,
+          433.1014099121094
+        ],
+        [
+          281.033935546875,
+          433.1014099121094
+        ],
+        [
+          281.033935546875,
+          454.5210266113281
+        ],
+        [
+          44.234375,
+          454.5210266113281
+        ]
+      ]
+    },
+    {
+      "title": "2.4 Retinal Dystrophy, Iris Coloboma, and\nComedogenic Acne Syndrome (RDCCAS; MIM\n#615147)",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          303.8203125,
+          433.1014099121094
+        ],
+        [
+          521.3510131835938,
+          433.1014099121094
+        ],
+        [
+          521.3510131835938,
+          466.05322265625
+        ],
+        [
+          303.8203125,
+          466.05322265625
+        ]
+      ]
+    },
+    {
+      "title": "2.5 Family, Twin, and Genetic Association\nStudies",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          42.48828125,
+          77.994140625
+        ],
+        [
+          256.4847106933594,
+          77.994140625
+        ],
+        [
+          256.4847106933594,
+          101.01898193359375
+        ],
+        [
+          42.48828125,
+          101.01898193359375
+        ]
+      ]
+    },
+    {
+      "title": "2.6 Genome-Wide Association Studies",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          44.234375,
+          607.130859375
+        ],
+        [
+          238.2845001220703,
+          607.130859375
+        ],
+        [
+          238.2845001220703,
+          618.4020233154297
+        ],
+        [
+          44.234375,
+          618.4020233154297
+        ]
+      ]
+    },
+    {
+      "title": "3 Epigenetics",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          45.2400016784668,
+          203.01416015625
+        ],
+        [
+          125.13092041015625,
+          203.01416015625
+        ],
+        [
+          125.13092041015625,
+          213.92401123046875
+        ],
+        [
+          45.2400016784668,
+          213.92401123046875
+        ]
+      ]
+    },
+    {
+      "title": "4 Conclusion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.111328125,
+          320.3876953125
+        ],
+        [
+          385.11004638671875,
+          320.3876953125
+        ],
+        [
+          385.11004638671875,
+          331.041015625
+        ],
+        [
+          304.111328125,
+          331.041015625
+        ]
+      ]
+    },
+    {
+      "title": "Author Contributions",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.02398681640625,
+          647.27490234375
+        ],
+        [
+          387.341796875,
+          647.27490234375
+        ],
+        [
+          387.341796875,
+          656.5290145874023
+        ],
+        [
+          306.02398681640625,
+          656.5290145874023
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          304.984375,
+          687.03662109375
+        ],
+        [
+          376.00860595703125,
+          687.03662109375
+        ],
+        [
+          376.00860595703125,
+          695.5984420776367
+        ],
+        [
+          304.984375,
+          695.5984420776367
+        ]
+      ]
+    },
+    {
+      "title": "Conflicts of Interest",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          45.2400016784668,
+          31.3505859375
+        ],
+        [
+          119.47270965576172,
+          31.3505859375
+        ],
+        [
+          119.47270965576172,
+          40.6048583984375
+        ],
+        [
+          45.2400016784668,
+          40.6048583984375
+        ]
+      ]
+    },
+    {
+      "title": "Data Availability Statement",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.81640625,
+          76.46484375
+        ],
+        [
+          147.97857666015625,
+          76.46484375
+        ],
+        [
+          147.97857666015625,
+          85.6678466796875
+        ],
+        [
+          44.81640625,
+          85.6678466796875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          44.525390625,
+          130.37255859375
+        ],
+        [
+          86.33702850341797,
+          130.37255859375
+        ],
+        [
+          86.33702850341797,
+          140.18023681640625
+        ],
+        [
+          44.525390625,
+          140.18023681640625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          130
+        ],
+        [
+          "Line",
+          46
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          315
+        ],
+        [
+          "Line",
+          113
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          287
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          312
+        ],
+        [
+          "Line",
+          112
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          388
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          267
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          414
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          35
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          158
+        ],
+        [
+          "Span",
+          104
+        ],
+        [
+          "Text",
+          35
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          183
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/AHG-89-333"
+}

@@ -1,0 +1,1221 @@
+{
+  "table_of_contents": [
+    {
+      "title": "ORIGINAL ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.48828125,
+          69.20068359375
+        ],
+        [
+          153.92091369628906,
+          69.20068359375
+        ],
+        [
+          153.92091369628906,
+          78.84381103515625
+        ],
+        [
+          42.48828125,
+          78.84381103515625
+        ]
+      ]
+    },
+    {
+      "title": "Analysis of hand environment factors contributing to the hand \nsurface infection barrier imparted by lactic acid",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.234375,
+          109.3447265625
+        ],
+        [
+          543.790771484375,
+          109.3447265625
+        ],
+        [
+          543.790771484375,
+          150.6998291015625
+        ],
+        [
+          44.234375,
+          150.6998291015625
+        ]
+      ]
+    },
+    {
+      "title": "Correspondence",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.78459930419922,
+          305.47705078125
+        ],
+        [
+          98.072265625,
+          305.47705078125
+        ],
+        [
+          98.072265625,
+          313.0731506347656
+        ],
+        [
+          44.78459930419922,
+          313.0731506347656
+        ]
+      ]
+    },
+    {
+      "title": "Funding information",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          44.78459930419922,
+          365.11962890625
+        ],
+        [
+          110.19329833984375,
+          365.11962890625
+        ],
+        [
+          110.19329833984375,
+          373.0841369628906
+        ],
+        [
+          44.78459930419922,
+          373.0841369628906
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.45703125,
+          237.8056640625
+        ],
+        [
+          246.19921875,
+          237.8056640625
+        ],
+        [
+          246.19921875,
+          248.09942626953125
+        ],
+        [
+          205.45703125,
+          248.09942626953125
+        ]
+      ]
+    },
+    {
+      "title": "KEYWORDS",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          206.0390625,
+          592.22021484375
+        ],
+        [
+          258.15679931640625,
+          592.22021484375
+        ],
+        [
+          258.15679931640625,
+          601.3821258544922
+        ],
+        [
+          206.0390625,
+          601.3821258544922
+        ]
+      ]
+    },
+    {
+      "title": "1 | INTRODUCTION",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          44.234375,
+          46.6435546875
+        ],
+        [
+          163.0402069091797,
+          46.6435546875
+        ],
+        [
+          163.0402069091797,
+          58.4765625
+        ],
+        [
+          44.234375,
+          58.4765625
+        ]
+      ]
+    },
+    {
+      "title": "2 | MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.4881896972656,
+          112.4033203125
+        ],
+        [
+          487.7421875,
+          112.4033203125
+        ],
+        [
+          487.7421875,
+          123.4765625
+        ],
+        [
+          307.4881896972656,
+          123.4765625
+        ]
+      ]
+    },
+    {
+      "title": "2.1 | Bacterial strains and culture medium",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.73046875,
+          138.78369140625
+        ],
+        [
+          503.45703125,
+          138.78369140625
+        ],
+        [
+          503.45703125,
+          149.4765625
+        ],
+        [
+          306.73046875,
+          149.4765625
+        ]
+      ]
+    },
+    {
+      "title": "2.2 | Quantitative measurement of the bacterial \ncount using the bioluminescence ATP assay",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.3125,
+          308.1533203125
+        ],
+        [
+          533.4061889648438,
+          308.1533203125
+        ],
+        [
+          533.4061889648438,
+          331.4765625
+        ],
+        [
+          307.3125,
+          331.4765625
+        ]
+      ]
+    },
+    {
+      "title": "2.3 | Study design",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.021484375,
+          555.4084014892578
+        ],
+        [
+          396.9912109375,
+          555.4084014892578
+        ],
+        [
+          396.9912109375,
+          565.4765472412109
+        ],
+        [
+          307.021484375,
+          565.4765472412109
+        ]
+      ]
+    },
+    {
+      "title": "2.3.1 | Volunteer recruitment",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          307.021484375,
+          644.21630859375
+        ],
+        [
+          447.291015625,
+          644.21630859375
+        ],
+        [
+          447.291015625,
+          656.4084014892578
+        ],
+        [
+          307.021484375,
+          656.4084014892578
+        ]
+      ]
+    },
+    {
+      "title": "2.3.2 | Ethical approval",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.65234375,
+          215.24853515625
+        ],
+        [
+          155.4840087890625,
+          215.24853515625
+        ],
+        [
+          155.4840087890625,
+          227.408447265625
+        ],
+        [
+          43.65234375,
+          227.408447265625
+        ]
+      ]
+    },
+    {
+      "title": "2.3.3 | Sample collection",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          43.361328125,
+          345.62109375
+        ],
+        [
+          162.73501586914062,
+          345.62109375
+        ],
+        [
+          162.73501586914062,
+          357.40838623046875
+        ],
+        [
+          43.361328125,
+          357.40838623046875
+        ]
+      ]
+    },
+    {
+      "title": "2.3.4 | In vivo quantitative evaluation of the surface \ninfection barrier on the hands",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          44.75899887084961,
+          515.75537109375
+        ],
+        [
+          284.9209289550781,
+          515.75537109375
+        ],
+        [
+          284.9209289550781,
+          539.4084014892578
+        ],
+        [
+          44.75899887084961,
+          539.4084014892578
+        ]
+      ]
+    },
+    {
+      "title": "2.3.5 | Physiological measurements on hand",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          305.56640625,
+          151.400390625
+        ],
+        [
+          509.27734375,
+          151.400390625
+        ],
+        [
+          509.27734375,
+          162.408447265625
+        ],
+        [
+          305.56640625,
+          162.408447265625
+        ]
+      ]
+    },
+    {
+      "title": "2.3.6 | Statistical analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          304.984375,
+          515.75537109375
+        ],
+        [
+          426.046875,
+          515.75537109375
+        ],
+        [
+          426.046875,
+          526.4083862304688
+        ],
+        [
+          304.984375,
+          526.4083862304688
+        ]
+      ]
+    },
+    {
+      "title": "2.4 | Evaluation of the bactericidal activity through the in vitro experiments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.03778337531486,
+          46.26123046875
+        ],
+        [
+          246.78125,
+          46.26123046875
+        ],
+        [
+          246.78125,
+          69.75
+        ],
+        [
+          45.03778337531486,
+          69.75
+        ]
+      ]
+    },
+    {
+      "title": "2.5 | Molecular Dynamics (MD) simulation conditions",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          45.03778337531486,
+          333.38671875
+        ],
+        [
+          196.66498740554155,
+          333.38671875
+        ],
+        [
+          196.66498740554155,
+          355.5
+        ],
+        [
+          45.03778337531486,
+          355.5
+        ]
+      ]
+    },
+    {
+      "title": "3 | RESULTS",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          306.73046875,
+          138.4013671875
+        ],
+        [
+          383.5717884130982,
+          138.4013671875
+        ],
+        [
+          383.5717884130982,
+          147.75
+        ],
+        [
+          306.73046875,
+          147.75
+        ]
+      ]
+    },
+    {
+      "title": "3.1 | Statistical analysis for the contribution of physiological properties to the hand surface infection barriers",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          307.007556675063,
+          164.25
+        ],
+        [
+          548.7103274559194,
+          164.25
+        ],
+        [
+          548.7103274559194,
+          199.5
+        ],
+        [
+          307.007556675063,
+          199.5
+        ]
+      ]
+    },
+    {
+      "title": "3.1.1 | Single correlation analysis for the estimation of factor contribution",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          307.007556675063,
+          216.01318359375
+        ],
+        [
+          494.6649874055415,
+          216.01318359375
+        ],
+        [
+          494.6649874055415,
+          238.5
+        ],
+        [
+          307.007556675063,
+          238.5
+        ]
+      ]
+    },
+    {
+      "title": "3.1.2 | Multiple regression analysis for the estimation of factor contribution",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          307.007556675063,
+          515.25
+        ],
+        [
+          502.92191435768257,
+          515.75537109375
+        ],
+        [
+          502.92191435768257,
+          537.0
+        ],
+        [
+          307.007556675063,
+          537.0
+        ]
+      ]
+    },
+    {
+      "title": "3.2 | Verification of the effects of pH and \ntemperature on antibacterial activity",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          44.81640625,
+          45.87890625
+        ],
+        [
+          242.89418029785156,
+          45.87890625
+        ],
+        [
+          242.89418029785156,
+          71.4765625
+        ],
+        [
+          44.81640625,
+          71.4765625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.1 | The effect of pH on the antimicrobial \naction of lactic acid",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          44.81640625,
+          86.02294921875
+        ],
+        [
+          253.0281524658203,
+          86.02294921875
+        ],
+        [
+          253.0281524658203,
+          110.408447265625
+        ],
+        [
+          44.81640625,
+          110.408447265625
+        ]
+      ]
+    },
+    {
+      "title": "3.2.2 | The effect of skin temperature on the \nantimicrobial action of lactic acid",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          306.1484375,
+          203.77880859375
+        ],
+        [
+          517.1122436523438,
+          203.77880859375
+        ],
+        [
+          517.1122436523438,
+          227.408447265625
+        ],
+        [
+          306.1484375,
+          227.408447265625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 | Verification of the effect of temperature on the cell membrane penetration of lactic acid by MD simulations",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          43.53652392947103,
+          255.0
+        ],
+        [
+          270.22670025188916,
+          255.0
+        ],
+        [
+          270.22670025188916,
+          290.25
+        ],
+        [
+          43.53652392947103,
+          290.25
+        ]
+      ]
+    },
+    {
+      "title": "4 | DISCUSSION",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          43.943359375,
+          554.25
+        ],
+        [
+          141.86901763224182,
+          554.25
+        ],
+        [
+          141.86901763224182,
+          564.0
+        ],
+        [
+          43.943359375,
+          564.0
+        ]
+      ]
+    },
+    {
+      "title": "5 | CONCLUSION",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          43.65234375,
+          385.76513671875
+        ],
+        [
+          147.20001220703125,
+          385.76513671875
+        ],
+        [
+          147.20001220703125,
+          396.4765625
+        ],
+        [
+          43.65234375,
+          396.4765625
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          43.65234375,
+          555.134765625
+        ],
+        [
+          148.2261962890625,
+          555.134765625
+        ],
+        [
+          148.2261962890625,
+          565.0650024414062
+        ],
+        [
+          43.65234375,
+          565.0650024414062
+        ]
+      ]
+    },
+    {
+      "title": "CONFLICTS OF INTEREST",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.7909851074219,
+          47.79052734375
+        ],
+        [
+          419.353515625,
+          47.79052734375
+        ],
+        [
+          419.353515625,
+          58.06500244140625
+        ],
+        [
+          305.7909851074219,
+          58.06500244140625
+        ]
+      ]
+    },
+    {
+      "title": "AUTHORS' CONTRIBUTIONS",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          303.8203125,
+          100.55126953125
+        ],
+        [
+          432.1997985839844,
+          100.55126953125
+        ],
+        [
+          432.1997985839844,
+          110.06500244140625
+        ],
+        [
+          303.8203125,
+          110.06500244140625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          305.7909851074219,
+          218.689453125
+        ],
+        [
+          364.3515625,
+          218.689453125
+        ],
+        [
+          364.3515625,
+          227.06500244140625
+        ],
+        [
+          305.7909851074219,
+          227.06500244140625
+        ]
+      ]
+    },
+    {
+      "title": "SUPPORTING INFORMATION",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          304.984375,
+          567.75146484375
+        ],
+        [
+          436.3437805175781,
+          567.75146484375
+        ],
+        [
+          436.3437805175781,
+          578.0650024414062
+        ],
+        [
+          304.984375,
+          578.0650024414062
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          56
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "PageFooter",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          242
+        ],
+        [
+          "Line",
+          94
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          275
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          103
+        ],
+        [
+          "Span",
+          101
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Equation",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          232
+        ],
+        [
+          "Line",
+          36
+        ],
+        [
+          "TableCell",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          352
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "TableCell",
+          46
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "TableGroup",
+          2
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          114
+        ],
+        [
+          "Span",
+          37
+        ],
+        [
+          "Figure",
+          3
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          180
+        ],
+        [
+          "Line",
+          75
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          295
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "ListItem",
+          16
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          394
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "ListItem",
+          35
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/SRT-27-1135"
+}

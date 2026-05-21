@@ -1,0 +1,1100 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Propionibacterium acnes Activates the NLRP3 Inflammasome in Human Sebocytes",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          42.0,
+          106.5
+        ],
+        [
+          481.5,
+          106.5
+        ],
+        [
+          481.5,
+          153.31201171875
+        ],
+        [
+          42.0,
+          153.31201171875
+        ]
+      ]
+    },
+    {
+      "title": "INTRODUCTION",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.25,
+          441.0
+        ],
+        [
+          119.25,
+          441.0
+        ],
+        [
+          119.25,
+          450.76025390625
+        ],
+        [
+          41.25,
+          450.76025390625
+        ]
+      ]
+    },
+    {
+      "title": "RESULTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.4755859375,
+          316.82769775390625
+        ],
+        [
+          80.74659729003906,
+          316.82769775390625
+        ],
+        [
+          80.74659729003906,
+          326.29229736328125
+        ],
+        [
+          41.4755859375,
+          326.29229736328125
+        ]
+      ]
+    },
+    {
+      "title": "IL-1b and caspase-1 expression are increased in sebaceous glands\nof acne lesions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          41.765625,
+          327.26953125
+        ],
+        [
+          290.9842529296875,
+          327.26953125
+        ],
+        [
+          290.9842529296875,
+          348.2069396972656
+        ],
+        [
+          41.765625,
+          348.2069396972656
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes induces IL-1b processing and secretion in human\nsebocytes",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          42.345703125,
+          522.2548828125
+        ],
+        [
+          268.38916015625,
+          522.2548828125
+        ],
+        [
+          268.38916015625,
+          543.4573669433594
+        ],
+        [
+          42.345703125,
+          543.4573669433594
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes\u2013induced caspase-1 activation is required for IL-1b\nsecretion",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.80078125,
+          179.5296630859375
+        ],
+        [
+          534.3359375,
+          179.5296630859375
+        ],
+        [
+          534.3359375,
+          199.7911376953125
+        ],
+        [
+          302.80078125,
+          199.7911376953125
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes induces the release of IL-1b from human sebocytes via\nthe NLRP3 inflammasome",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          302.220703125,
+          431.26171875
+        ],
+        [
+          552.9948120117188,
+          431.26171875
+        ],
+        [
+          552.9948120117188,
+          451.84771728515625
+        ],
+        [
+          302.220703125,
+          451.84771728515625
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes-induced caspase-1/IL-1b activation depends on\nmetalloproteinase activity",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          41.185546875,
+          567.75146484375
+        ],
+        [
+          260.455078125,
+          567.75146484375
+        ],
+        [
+          260.455078125,
+          589.3280487060547
+        ],
+        [
+          41.185546875,
+          589.3280487060547
+        ]
+      ]
+    },
+    {
+      "title": "ROS generation is required for P. acnes-induced IL-1b secretion\nfrom sebocytes",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          302.220703125,
+          659.50927734375
+        ],
+        [
+          553.0575561523438,
+          659.50927734375
+        ],
+        [
+          553.0575561523438,
+          680.9375762939453
+        ],
+        [
+          302.220703125,
+          680.9375762939453
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes-induced inflammation is reduced in NALP3-deficient\nmice",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          41.765625,
+          407.17529296875
+        ],
+        [
+          283.078125,
+          407.17529296875
+        ],
+        [
+          283.078125,
+          428.8809509277344
+        ],
+        [
+          41.765625,
+          428.8809509277344
+        ]
+      ]
+    },
+    {
+      "title": "DISCUSSION",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          304.97247314453125,
+          351.18792724609375
+        ],
+        [
+          363.12890625,
+          351.18792724609375
+        ],
+        [
+          363.12890625,
+          360.65252685546875
+        ],
+        [
+          304.97247314453125,
+          360.65252685546875
+        ]
+      ]
+    },
+    {
+      "title": "MATERIALS AND METHODS",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.6708984375,
+          649.1110076904297
+        ],
+        [
+          429.5478515625,
+          649.1110076904297
+        ],
+        [
+          429.5478515625,
+          658.74462890625
+        ],
+        [
+          303.6708984375,
+          658.74462890625
+        ]
+      ]
+    },
+    {
+      "title": "Reagents",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          303.6708984375,
+          660.5221862792969
+        ],
+        [
+          339.1171569824219,
+          660.5221862792969
+        ],
+        [
+          339.1171569824219,
+          670.97900390625
+        ],
+        [
+          303.6708984375,
+          670.97900390625
+        ]
+      ]
+    },
+    {
+      "title": "Immunohistochemistry",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.6357421875,
+          121.19677734375
+        ],
+        [
+          131.0702667236328,
+          121.19677734375
+        ],
+        [
+          131.0702667236328,
+          131.52960205078125
+        ],
+        [
+          42.6357421875,
+          131.52960205078125
+        ]
+      ]
+    },
+    {
+      "title": "Cell culture",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.0556640625,
+          385.76513671875
+        ],
+        [
+          88.39066314697266,
+          385.76513671875
+        ],
+        [
+          88.39066314697266,
+          395.0381774902344
+        ],
+        [
+          42.0556640625,
+          395.0381774902344
+        ]
+      ]
+    },
+    {
+      "title": "Bacterial culture",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.345703125,
+          488.22802734375
+        ],
+        [
+          107.49784851074219,
+          488.22802734375
+        ],
+        [
+          107.49784851074219,
+          498.16253662109375
+        ],
+        [
+          42.345703125,
+          498.16253662109375
+        ]
+      ]
+    },
+    {
+      "title": "Immunofluorescence",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.6357421875,
+          579.98583984375
+        ],
+        [
+          123.9330825805664,
+          579.98583984375
+        ],
+        [
+          123.9330825805664,
+          589.8349914550781
+        ],
+        [
+          42.6357421875,
+          589.8349914550781
+        ]
+      ]
+    },
+    {
+      "title": "Real-time PCR",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          42.6357421875,
+          683.936393737793
+        ],
+        [
+          98.9033203125,
+          683.936393737793
+        ],
+        [
+          98.9033203125,
+          692.9026947021484
+        ],
+        [
+          42.6357421875,
+          692.9026947021484
+        ]
+      ]
+    },
+    {
+      "title": "ELISA",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.541015625,
+          144.90087890625
+        ],
+        [
+          326.97412109375,
+          144.90087890625
+        ],
+        [
+          326.97412109375,
+          155.45391845703125
+        ],
+        [
+          304.541015625,
+          155.45391845703125
+        ]
+      ]
+    },
+    {
+      "title": "Western blot analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.9609375,
+          228.24755859375
+        ],
+        [
+          388.2139587402344,
+          228.24755859375
+        ],
+        [
+          388.2139587402344,
+          237.60198974609375
+        ],
+        [
+          303.9609375,
+          237.60198974609375
+        ]
+      ]
+    },
+    {
+      "title": "Knock down of gene expression",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.6708984375,
+          320.00537109375
+        ],
+        [
+          429.5478515625,
+          320.00537109375
+        ],
+        [
+          429.5478515625,
+          330.2948913574219
+        ],
+        [
+          303.6708984375,
+          330.2948913574219
+        ]
+      ]
+    },
+    {
+      "title": "Animal studies",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.6708984375,
+          436.23193359375
+        ],
+        [
+          361.6916198730469,
+          436.23193359375
+        ],
+        [
+          361.6916198730469,
+          446.85546875
+        ],
+        [
+          303.6708984375,
+          446.85546875
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analysis",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.380859375,
+          600.2576904296875
+        ],
+        [
+          374.73577880859375,
+          600.2576904296875
+        ],
+        [
+          374.73577880859375,
+          609.80712890625
+        ],
+        [
+          303.380859375,
+          609.80712890625
+        ]
+      ]
+    },
+    {
+      "title": "CONFLICT OF INTEREST",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          304.9510803222656,
+          677.86083984375
+        ],
+        [
+          395.3232421875,
+          677.86083984375
+        ],
+        [
+          395.3232421875,
+          689.0678253173828
+        ],
+        [
+          304.9510803222656,
+          689.0678253173828
+        ]
+      ]
+    },
+    {
+      "title": "ACKNOWLEDGMENTS",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          303.9609375,
+          708.44677734375
+        ],
+        [
+          388.255615234375,
+          708.44677734375
+        ],
+        [
+          388.255615234375,
+          719.2285232543945
+        ],
+        [
+          303.9609375,
+          719.2285232543945
+        ]
+      ]
+    },
+    {
+      "title": "SUPPLEMENTARY MATERIAL",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.859798431396484,
+          77.994140625
+        ],
+        [
+          142.0853271484375,
+          77.994140625
+        ],
+        [
+          142.0853271484375,
+          86.17730712890625
+        ],
+        [
+          42.859798431396484,
+          86.17730712890625
+        ]
+      ]
+    },
+    {
+      "title": "REFERENCES",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          42.6357421875,
+          125.02001953125
+        ],
+        [
+          88.64859771728516,
+          125.02001953125
+        ],
+        [
+          88.64859771728516,
+          134.5546875
+        ],
+        [
+          42.6357421875,
+          134.5546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          87
+        ],
+        [
+          "Span",
+          64
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          450
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          301
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          408
+        ],
+        [
+          "Line",
+          120
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          410
+        ],
+        [
+          "Line",
+          117
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          118
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          250
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          12
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          561
+        ],
+        [
+          "Line",
+          130
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          73
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "ListItem",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/1-s2.0-S0022202X15365489-main"
+}

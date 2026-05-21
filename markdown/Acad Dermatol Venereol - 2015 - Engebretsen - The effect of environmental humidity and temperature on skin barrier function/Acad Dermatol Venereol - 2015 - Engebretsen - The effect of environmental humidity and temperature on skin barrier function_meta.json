@@ -1,0 +1,1765 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REVIEW ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.29130172729492,
+          83.3466796875
+        ],
+        [
+          132.703125,
+          83.3466796875
+        ],
+        [
+          132.703125,
+          95.14154052734375
+        ],
+        [
+          53.29130172729492,
+          95.14154052734375
+        ]
+      ]
+    },
+    {
+      "title": "The effect of environmental humidity and temperature on\nskin barrier function and dermatitis",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.3828125,
+          104.37451171875
+        ],
+        [
+          452.00177001953125,
+          104.37451171875
+        ],
+        [
+          452.00177001953125,
+          137.93536376953125
+        ],
+        [
+          52.3828125,
+          137.93536376953125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.80078125,
+          256.1572265625
+        ],
+        [
+          93.28742980957031,
+          256.1572265625
+        ],
+        [
+          93.28742980957031,
+          267.0894775390625
+        ],
+        [
+          51.80078125,
+          267.0894775390625
+        ]
+      ]
+    },
+    {
+      "title": "Conflicts of interest",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.673828125,
+          411.15472412109375
+        ],
+        [
+          146.380859375,
+          411.15472412109375
+        ],
+        [
+          146.380859375,
+          422.54144287109375
+        ],
+        [
+          52.673828125,
+          422.54144287109375
+        ]
+      ]
+    },
+    {
+      "title": "Funding source",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          53.255859375,
+          448.46630859375
+        ],
+        [
+          125.51432037353516,
+          448.46630859375
+        ],
+        [
+          125.51432037353516,
+          458.371337890625
+        ],
+        [
+          53.255859375,
+          458.371337890625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          52.673828125,
+          531.04833984375
+        ],
+        [
+          110.83425903320312,
+          531.04833984375
+        ],
+        [
+          110.83425903320312,
+          543.0705261230469
+        ],
+        [
+          52.673828125,
+          543.0705261230469
+        ]
+      ]
+    },
+    {
+      "title": "Method and result",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          296.8359375,
+          579.98583984375
+        ],
+        [
+          383.3355407714844,
+          579.98583984375
+        ],
+        [
+          383.3355407714844,
+          590.9193267822266
+        ],
+        [
+          296.8359375,
+          590.9193267822266
+        ]
+      ]
+    },
+    {
+      "title": "Definition of humidity and dew point",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          62.27734375,
+          125.30908203125
+        ],
+        [
+          231.06640625,
+          125.30908203125
+        ],
+        [
+          231.06640625,
+          136.69580078125
+        ],
+        [
+          62.27734375,
+          136.69580078125
+        ]
+      ]
+    },
+    {
+      "title": "Low humidity negatively affects skin barrier\nfunctions",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          306.1484375,
+          149.87109375
+        ],
+        [
+          511.22412109375,
+          149.87109375
+        ],
+        [
+          511.22412109375,
+          172.52545166015625
+        ],
+        [
+          306.1484375,
+          172.52545166015625
+        ]
+      ]
+    },
+    {
+      "title": "Animal studies",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          305.275390625,
+          186.95654296875
+        ],
+        [
+          366.51666259765625,
+          186.95654296875
+        ],
+        [
+          366.51666259765625,
+          196.3515625
+        ],
+        [
+          305.275390625,
+          196.3515625
+        ]
+      ]
+    },
+    {
+      "title": "Human studies",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          297.708984375,
+          163.25244140625
+        ],
+        [
+          358.822265625,
+          163.25244140625
+        ],
+        [
+          358.822265625,
+          172.42724609375
+        ],
+        [
+          297.708984375,
+          172.42724609375
+        ]
+      ]
+    },
+    {
+      "title": "Low temperature negatively affects skin barrier\nfunction",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.3828125,
+          222.13037109375
+        ],
+        [
+          274.077392578125,
+          222.13037109375
+        ],
+        [
+          274.077392578125,
+          244.29864501953125
+        ],
+        [
+          52.3828125,
+          244.29864501953125
+        ]
+      ]
+    },
+    {
+      "title": "Animal studies",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.96484375,
+          258.06884765625
+        ],
+        [
+          112.33203125,
+          258.06884765625
+        ],
+        [
+          112.33203125,
+          268.0682373046875
+        ],
+        [
+          52.96484375,
+          268.0682373046875
+        ]
+      ]
+    },
+    {
+      "title": "Human studies",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          52.673828125,
+          497.40380859375
+        ],
+        [
+          113.787109375,
+          497.40380859375
+        ],
+        [
+          113.787109375,
+          507.1988220214844
+        ],
+        [
+          52.673828125,
+          507.1988220214844
+        ]
+      ]
+    },
+    {
+      "title": "Seasonal change significantly affects skin barrier\nfunction",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          296.8359375,
+          243.9228515625
+        ],
+        [
+          527.7777709960938,
+          243.9228515625
+        ],
+        [
+          527.7777709960938,
+          268.16632080078125
+        ],
+        [
+          296.8359375,
+          268.16632080078125
+        ]
+      ]
+    },
+    {
+      "title": "\u2013, not available; AD, atopic dermatitis; NMF, natural moisturizing factors; SC, stratum corneum; SLS, sodium lauryl sulfate; TEWL, transepidermal water loss.",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          255.220703125,
+          233.63287353515625
+        ],
+        [
+          266.279296875,
+          233.63287353515625
+        ],
+        [
+          266.279296875,
+          709.0647659301758
+        ],
+        [
+          255.220703125,
+          709.0647659301758
+        ]
+      ]
+    },
+    {
+      "title": "Effect of seasonal and climatic variations on the\nrisk of dermatitis",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          298.4880676269531,
+          91.37548828125
+        ],
+        [
+          521.3733520507812,
+          91.37548828125
+        ],
+        [
+          521.3733520507812,
+          113.1112060546875
+        ],
+        [
+          298.4880676269531,
+          113.1112060546875
+        ]
+      ]
+    },
+    {
+      "title": "Atopic dermatitis",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          296.25390625,
+          127.6962890625
+        ],
+        [
+          366.6189880371094,
+          127.6962890625
+        ],
+        [
+          366.6189880371094,
+          136.3704833984375
+        ],
+        [
+          296.25390625,
+          136.3704833984375
+        ]
+      ]
+    },
+    {
+      "title": "Irritant and allergic contact dermatitis",
+      "heading_level": null,
+      "page_id": 23,
+      "polygon": [
+        [
+          62.27734375,
+          162.48779296875
+        ],
+        [
+          212.9246826171875,
+          162.48779296875
+        ],
+        [
+          212.9246826171875,
+          172.42724609375
+        ],
+        [
+          62.27734375,
+          172.42724609375
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          53.255859375,
+          91.37548828125
+        ],
+        [
+          107.384765625,
+          91.37548828125
+        ],
+        [
+          107.384765625,
+          101.1492919921875
+        ],
+        [
+          53.255859375,
+          101.1492919921875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          178
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          11
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "Footnote",
+          5
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          82
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          843
+        ],
+        [
+          "Line",
+          105
+        ],
+        [
+          "TableCell",
+          63
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          736
+        ],
+        [
+          "Line",
+          81
+        ],
+        [
+          "TableCell",
+          45
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          809
+        ],
+        [
+          "Line",
+          89
+        ],
+        [
+          "TableCell",
+          54
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          514
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          88
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1033
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "TableCell",
+          99
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1062
+        ],
+        [
+          "Line",
+          144
+        ],
+        [
+          "TableCell",
+          117
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          930
+        ],
+        [
+          "Line",
+          115
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          300
+        ],
+        [
+          "Line",
+          103
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          750
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          624
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          801
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          455
+        ],
+        [
+          "Line",
+          87
+        ],
+        [
+          "TableCell",
+          28
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          911
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "TableCell",
+          88
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          661
+        ],
+        [
+          "TableCell",
+          88
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          755
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          66
+        ],
+        [
+          "Line",
+          7
+        ],
+        [
+          "Span",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          787
+        ],
+        [
+          "Line",
+          92
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          728
+        ],
+        [
+          "Line",
+          83
+        ],
+        [
+          "TableCell",
+          77
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          849
+        ],
+        [
+          "Line",
+          100
+        ],
+        [
+          "TableCell",
+          84
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          620
+        ],
+        [
+          "Line",
+          67
+        ],
+        [
+          "TableCell",
+          55
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          293
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "TableCell",
+          88
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          737
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          756
+        ],
+        [
+          "Line",
+          133
+        ],
+        [
+          "ListItem",
+          44
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          405
+        ],
+        [
+          "Line",
+          71
+        ],
+        [
+          "ListItem",
+          25
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Acad Dermatol Venereol - 2015 - Engebretsen - The effect of environmental humidity and temperature on skin barrier function"
+}

@@ -1,0 +1,920 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Clinical Nutrition",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          246.2065491183879,
+          96.5361328125
+        ],
+        [
+          362.5541561712846,
+          96.5361328125
+        ],
+        [
+          362.5541561712846,
+          108.16699218749999
+        ],
+        [
+          246.2065491183879,
+          108.16699218749999
+        ]
+      ]
+    },
+    {
+      "title": "Meta-analyses",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          41.28463476070529,
+          157.0166015625
+        ],
+        [
+          108.09068010075566,
+          157.0166015625
+        ],
+        [
+          108.09068010075566,
+          167.19735599622285
+        ],
+        [
+          41.28463476070529,
+          168.6968838526912
+        ]
+      ]
+    },
+    {
+      "title": "Dairy intake and acne development: A meta-analysis of observational studies",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.53400503778337,
+          176.013671875
+        ],
+        [
+          490.91183879093194,
+          176.013671875
+        ],
+        [
+          490.91183879093194,
+          205.43531633616618
+        ],
+        [
+          40.53400503778337,
+          205.43531633616618
+        ]
+      ]
+    },
+    {
+      "title": "ARTICLE INFO",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.53400503778337,
+          290.90840415486304
+        ],
+        [
+          138.86649874055416,
+          290.90840415486304
+        ],
+        [
+          138.86649874055416,
+          297.75
+        ],
+        [
+          40.53400503778337,
+          297.75
+        ]
+      ]
+    },
+    {
+      "title": "SUMMARY",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          205.166015625,
+          289.99609375
+        ],
+        [
+          273.97984886649874,
+          289.99609375
+        ],
+        [
+          273.97984886649874,
+          297.6562795089707
+        ],
+        [
+          205.166015625,
+          297.6562795089707
+        ]
+      ]
+    },
+    {
+      "title": "1. Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.53400503778337,
+          531.5826251180358
+        ],
+        [
+          105.088161209068,
+          531.5826251180358
+        ],
+        [
+          105.088161209068,
+          540.8349609375
+        ],
+        [
+          40.53400503778337,
+          540.8349609375
+        ]
+      ]
+    },
+    {
+      "title": "2. Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.775818639798487,
+          289.4088762983947
+        ],
+        [
+          80.31738035264483,
+          289.4088762983947
+        ],
+        [
+          80.31738035264483,
+          297.6562795089707
+        ],
+        [
+          30.775818639798487,
+          297.6562795089707
+        ]
+      ]
+    },
+    {
+      "title": "2.1. Article source and literature search",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          29.974609375,
+          310.4022662889518
+        ],
+        [
+          178.6498740554156,
+          310.4022662889518
+        ],
+        [
+          178.6498740554156,
+          318.6496694995278
+        ],
+        [
+          29.974609375,
+          318.6496694995278
+        ]
+      ]
+    },
+    {
+      "title": "2.2. Study selection",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          30.775818639798487,
+          482.68066406249994
+        ],
+        [
+          105.83879093198992,
+          482.68066406249994
+        ],
+        [
+          105.83879093198992,
+          493.3446647780925
+        ],
+        [
+          30.775818639798487,
+          493.3446647780925
+        ]
+      ]
+    },
+    {
+      "title": "2.3. Data extraction",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          299.455078125,
+          96.5361328125
+        ],
+        [
+          376.81612090680096,
+          96.5361328125
+        ],
+        [
+          376.81612090680096,
+          103.5146484375
+        ],
+        [
+          299.455078125,
+          103.5146484375
+        ]
+      ]
+    },
+    {
+      "title": "2.4. Statistical analysis",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          299.74609375,
+          211.68164062499997
+        ],
+        [
+          388.0755667506297,
+          211.68164062499997
+        ],
+        [
+          388.0755667506297,
+          219.68083097261567
+        ],
+        [
+          299.74609375,
+          219.68083097261567
+        ]
+      ]
+    },
+    {
+      "title": "3. Results",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          301.00251889168766,
+          588.1337890625
+        ],
+        [
+          343.03778337531486,
+          588.1337890625
+        ],
+        [
+          343.03778337531486,
+          596.8120868744098
+        ],
+        [
+          301.00251889168766,
+          596.8120868744098
+        ]
+      ]
+    },
+    {
+      "title": "3.1. Meta-analysis on dairy intake and acne",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          40.53400503778337,
+          224.92917847025495
+        ],
+        [
+          205.67254408060452,
+          224.92917847025495
+        ],
+        [
+          205.67254408060452,
+          234.94335937499997
+        ],
+        [
+          40.53400503778337,
+          234.94335937499997
+        ]
+      ]
+    },
+    {
+      "title": "3.2. Meta-analysis on milk intake and acne",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          310.7607052896725,
+          64.47969782813975
+        ],
+        [
+          472.896725440806,
+          64.47969782813975
+        ],
+        [
+          472.896725440806,
+          73.47686496694995
+        ],
+        [
+          310.7607052896725,
+          73.47686496694995
+        ]
+      ]
+    },
+    {
+      "title": "3.3. Meta-analysis on yogurt/cheese intake and acne",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          300.91015625,
+          149.20302171860246
+        ],
+        [
+          497.6675062972292,
+          149.20302171860246
+        ],
+        [
+          497.6675062972292,
+          157.45042492917847
+        ],
+        [
+          300.91015625,
+          157.45042492917847
+        ]
+      ]
+    },
+    {
+      "title": "4. Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          301.00251889168766,
+          347.890462700661
+        ],
+        [
+          356.5491183879093,
+          347.890462700661
+        ],
+        [
+          356.5491183879093,
+          355.5166015625
+        ],
+        [
+          301.00251889168766,
+          355.5166015625
+        ]
+      ]
+    },
+    {
+      "title": "5. Conclusion",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.52935791015625,
+          535.4072265625
+        ],
+        [
+          367.552734375,
+          535.4072265625
+        ],
+        [
+          367.552734375,
+          545.5029602050781
+        ],
+        [
+          311.52935791015625,
+          545.5029602050781
+        ]
+      ]
+    },
+    {
+      "title": "Statement of authorship",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          311.095703125,
+          652.413818359375
+        ],
+        [
+          410.623046875,
+          652.413818359375
+        ],
+        [
+          410.623046875,
+          661.7958984375
+        ],
+        [
+          311.095703125,
+          661.7958984375
+        ]
+      ]
+    },
+    {
+      "title": "Funding sources",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          32.59375,
+          65.1328125
+        ],
+        [
+          98.10447692871094,
+          65.1328125
+        ],
+        [
+          98.10447692871094,
+          74.67193603515625
+        ],
+        [
+          32.59375,
+          74.67193603515625
+        ]
+      ]
+    },
+    {
+      "title": "Conflicts of interest",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          32.01171875,
+          125.5791015625
+        ],
+        [
+          111.44197082519531,
+          125.5791015625
+        ],
+        [
+          111.44197082519531,
+          135.61688232421875
+        ],
+        [
+          32.01171875,
+          135.61688232421875
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          32.59375,
+          176.4013671875
+        ],
+        [
+          75.48184204101562,
+          176.4013671875
+        ],
+        [
+          75.48184204101562,
+          186.13043212890625
+        ],
+        [
+          32.59375,
+          186.13043212890625
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          103
+        ],
+        [
+          "Span",
+          34
+        ],
+        [
+          "Text",
+          14
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "Picture",
+          3
+        ],
+        [
+          "ListItem",
+          2
+        ],
+        [
+          "PageFooter",
+          2
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Footnote",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          127
+        ],
+        [
+          "Span",
+          74
+        ],
+        [
+          "TableCell",
+          18
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "SectionHeader",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          71
+        ],
+        [
+          "Span",
+          17
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          305
+        ],
+        [
+          "Line",
+          5
+        ],
+        [
+          "Span",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          112
+        ],
+        [
+          "Span",
+          11
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          159
+        ],
+        [
+          "Span",
+          63
+        ],
+        [
+          "TableCell",
+          15
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "Caption",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          385
+        ],
+        [
+          "Line",
+          123
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          558
+        ],
+        [
+          "Line",
+          159
+        ],
+        [
+          "ListItem",
+          51
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          197
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          20
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/1-s2.0-S0261561418301663-main"
+}

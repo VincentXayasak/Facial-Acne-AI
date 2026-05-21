@@ -1,0 +1,2258 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Neuroendocrinology and neurobiology of sebaceous glands",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          40.53400503778337,
+          77.1513671875
+        ],
+        [
+          482.6549118387909,
+          77.1513671875
+        ],
+        [
+          482.6549118387909,
+          129.1025390625
+        ],
+        [
+          40.53400503778337,
+          129.1025390625
+        ]
+      ]
+    },
+    {
+      "title": "ABSTRACT",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          65.478515625,
+          439.25878906249994
+        ],
+        [
+          121.60201511335012,
+          439.25878906249994
+        ],
+        [
+          121.60201511335012,
+          449.1085930122757
+        ],
+        [
+          65.478515625,
+          449.1085930122757
+        ]
+      ]
+    },
+    {
+      "title": "CONTENTS",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          80.611328125,
+          203.1993408203125
+        ],
+        [
+          137.1857452392578,
+          203.1993408203125
+        ],
+        [
+          137.1857452392578,
+          213.19940185546875
+        ],
+        [
+          80.611328125,
+          213.19940185546875
+        ]
+      ]
+    },
+    {
+      "title": "I. RELEVANCE OF THE BRAIN\u2013SEBACEOUS\nGLAND AXIS TO SKIN PHYSIOLOGY AND\nPATHOLOGY",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          54.7109375,
+          599.376953125
+        ],
+        [
+          272.7602233886719,
+          599.376953125
+        ],
+        [
+          272.7602233886719,
+          632.1858673095703
+        ],
+        [
+          54.7109375,
+          632.1858673095703
+        ]
+      ]
+    },
+    {
+      "title": "II. INTRODUCTION TO SEBACEOUS GLAND BIOLOGY",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          298.0,
+          487.33300781249994
+        ],
+        [
+          519.4357682619648,
+          487.33300781249994
+        ],
+        [
+          519.4357682619648,
+          506.0906515580736
+        ],
+        [
+          298.0,
+          506.0906515580736
+        ]
+      ]
+    },
+    {
+      "title": "(1) Microanatomy of the pilosebaceous unit",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          298.7506297229219,
+          522.5854579792257
+        ],
+        [
+          502.92191435768257,
+          522.5854579792257
+        ],
+        [
+          502.92191435768257,
+          531.91796875
+        ],
+        [
+          298.7506297229219,
+          531.91796875
+        ]
+      ]
+    },
+    {
+      "title": "(2) Development of the sebaceous gland",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          55.54659949622166,
+          659.042492917847
+        ],
+        [
+          242.4534005037783,
+          660.5420207743153
+        ],
+        [
+          242.4534005037783,
+          671.1005859375
+        ],
+        [
+          55.54659949622166,
+          671.1005859375
+        ]
+      ]
+    },
+    {
+      "title": "(3) Structure and cellular homeostasis of the sebaceous gland",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.38671875,
+          557.1181640625
+        ],
+        [
+          520.9370277078085,
+          557.1181640625
+        ],
+        [
+          520.9370277078085,
+          578.0679886685552
+        ],
+        [
+          311.38671875,
+          578.0679886685552
+        ]
+      ]
+    },
+    {
+      "title": "(4) Sebaceous gland progenitor cells",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          300.02178955078125,
+          350.4765625
+        ],
+        [
+          467.953125,
+          350.4765625
+        ],
+        [
+          467.953125,
+          360.5365905761719
+        ],
+        [
+          300.02178955078125,
+          360.5365905761719
+        ]
+      ]
+    },
+    {
+      "title": "(5) Sebum composition",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          56.748046875,
+          325.6640625
+        ],
+        [
+          164.96157836914062,
+          325.6640625
+        ],
+        [
+          164.96157836914062,
+          336.31158447265625
+        ],
+        [
+          56.748046875,
+          336.31158447265625
+        ]
+      ]
+    },
+    {
+      "title": "III. NEUROENDOCRINE REGULATION OF\nSEBACEOUS GLAND FUNCTION: OVERVIEW",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          313.71484375,
+          445.834716796875
+        ],
+        [
+          533.72265625,
+          445.834716796875
+        ],
+        [
+          533.72265625,
+          466.83294677734375
+        ],
+        [
+          313.71484375,
+          466.83294677734375
+        ]
+      ]
+    },
+    {
+      "title": "IV. THE HYPOTHALAMIC\u2013PITUITARY\u2013\nADRENAL AXIS AND MELANOCORTIN SYSTEM",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          299.74609375,
+          178.28033447265625
+        ],
+        [
+          534.4631958007812,
+          178.28033447265625
+        ],
+        [
+          534.4631958007812,
+          199.467529296875
+        ],
+        [
+          299.74609375,
+          199.467529296875
+        ]
+      ]
+    },
+    {
+      "title": "(1) Overview of the hypothalamic-pituitary-adrenal\naxis and melanocortin system",
+      "heading_level": null,
+      "page_id": 6,
+      "polygon": [
+        [
+          298.0,
+          212.84472656249997
+        ],
+        [
+          536.7122802734375,
+          212.84472656249997
+        ],
+        [
+          536.7122802734375,
+          235.07086181640625
+        ],
+        [
+          298.0,
+          235.07086181640625
+        ]
+      ]
+    },
+    {
+      "title": "(2) Reduced sebum secretion in Addison's disease\nand following adrenalectomy",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          313.1328125,
+          442.74804687499994
+        ],
+        [
+          544.6588745117188,
+          442.74804687499994
+        ],
+        [
+          544.6588745117188,
+          463.9967956542969
+        ],
+        [
+          313.1328125,
+          463.9967956542969
+        ]
+      ]
+    },
+    {
+      "title": "(3) Melanocortins and corticotropin-releasing hormone act directly on sebocytes",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          40.16015625,
+          557.505859375
+        ],
+        [
+          255.9647355163728,
+          557.505859375
+        ],
+        [
+          255.9647355163728,
+          578.0679886685552
+        ],
+        [
+          40.16015625,
+          578.0679886685552
+        ]
+      ]
+    },
+    {
+      "title": "V. PROLACTIN AND DOPAMINE",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          42.97418975830078,
+          131.041015625
+        ],
+        [
+          203.3488006591797,
+          131.041015625
+        ],
+        [
+          203.3488006591797,
+          142.42291259765625
+        ],
+        [
+          42.97418975830078,
+          142.42291259765625
+        ]
+      ]
+    },
+    {
+      "title": "(1) Prolactin and sebum during pregnancy and\nbreastfeeding",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          39.578125,
+          157.0166015625
+        ],
+        [
+          258.67242431640625,
+          157.0166015625
+        ],
+        [
+          258.67242431640625,
+          178.083251953125
+        ],
+        [
+          39.578125,
+          178.083251953125
+        ]
+      ]
+    },
+    {
+      "title": "(2) Seborrhoea and prolactin in Parkinson's disease\nand phenylketonuria",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          41.32421875,
+          510.59472656249994
+        ],
+        [
+          281.4375305175781,
+          510.59472656249994
+        ],
+        [
+          281.4375305175781,
+          532.990966796875
+        ],
+        [
+          41.32421875,
+          532.990966796875
+        ]
+      ]
+    },
+    {
+      "title": "(3) Mechanisms of prolactin-mediated regulation of\nsebaceous glands",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          57.0390625,
+          268.6728515625
+        ],
+        [
+          296.8359375,
+          268.6728515625
+        ],
+        [
+          296.8359375,
+          291.5304260253906
+        ],
+        [
+          57.0390625,
+          291.5304260253906
+        ]
+      ]
+    },
+    {
+      "title": "VI. GROWTH HORMONE AND INSULIN-LIKE\nGROWTH FACTOR",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          313.71484375,
+          514.4716796875
+        ],
+        [
+          538.37890625,
+          514.4716796875
+        ],
+        [
+          538.37890625,
+          536.3866882324219
+        ],
+        [
+          313.71484375,
+          536.3866882324219
+        ]
+      ]
+    },
+    {
+      "title": "VII. HYPOTHALAMIC\u2013PITUITARY\u2013\nTHRYOID AXIS",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          57.0390625,
+          272.9375
+        ],
+        [
+          232.84877014160156,
+          272.9375
+        ],
+        [
+          232.84877014160156,
+          294.8744812011719
+        ],
+        [
+          57.0390625,
+          294.8744812011719
+        ]
+      ]
+    },
+    {
+      "title": "VIII. SEBACEOUS NEUROBIOLOGY",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          41.28463476070529,
+          257.918791312559
+        ],
+        [
+          219.42578125,
+          257.918791312559
+        ],
+        [
+          219.42578125,
+          266.9159584513692
+        ],
+        [
+          41.28463476070529,
+          266.9159584513692
+        ]
+      ]
+    },
+    {
+      "title": "(1) Clinical evidence for regulation of sebaceous glands by the peripheral nervous system",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          40.53400503778337,
+          282.6298828125
+        ],
+        [
+          265.98828125,
+          282.6298828125
+        ],
+        [
+          265.98828125,
+          303.5654296875
+        ],
+        [
+          40.53400503778337,
+          303.5654296875
+        ]
+      ]
+    },
+    {
+      "title": "(2) Characterising sebaceous gland innervation",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          40.53400503778337,
+          683.7847025495751
+        ],
+        [
+          262.72040302267,
+          683.7847025495751
+        ],
+        [
+          262.72040302267,
+          692.8115234375
+        ],
+        [
+          40.53400503778337,
+          692.8115234375
+        ]
+      ]
+    },
+    {
+      "title": "(3) Effects of cutaneous denervation on murine\nsebaceous glands",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          41.32421875,
+          579.216796875
+        ],
+        [
+          259.31146240234375,
+          579.216796875
+        ],
+        [
+          259.31146240234375,
+          601.1805725097656
+        ],
+        [
+          41.32421875,
+          601.1805725097656
+        ]
+      ]
+    },
+    {
+      "title": "(4) Acetylcholine",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          298.291015625,
+          511.4867858886719
+        ],
+        [
+          377.6835021972656,
+          511.4867858886719
+        ],
+        [
+          377.6835021972656,
+          522.2255859375
+        ],
+        [
+          298.291015625,
+          522.2255859375
+        ]
+      ]
+    },
+    {
+      "title": "(5) Adrenaline",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          55.54659949622166,
+          291.1591796875
+        ],
+        [
+          123.85390428211586,
+          291.1591796875
+        ],
+        [
+          123.85390428211586,
+          301.4050991501416
+        ],
+        [
+          55.54659949622166,
+          301.4050991501416
+        ]
+      ]
+    },
+    {
+      "title": "(6) Substance P",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          313.0125944584383,
+          222.92480468749997
+        ],
+        [
+          387.3249370277078,
+          222.92480468749997
+        ],
+        [
+          387.3249370277078,
+          233.00488281249997
+        ],
+        [
+          313.0125944584383,
+          233.00488281249997
+        ]
+      ]
+    },
+    {
+      "title": "(7) Neurotrophins",
+      "heading_level": null,
+      "page_id": 17,
+      "polygon": [
+        [
+          312.259765625,
+          590.8139754485363
+        ],
+        [
+          397.8337531486146,
+          590.8139754485363
+        ],
+        [
+          397.8337531486146,
+          602.8662109375
+        ],
+        [
+          312.259765625,
+          602.8662109375
+        ]
+      ]
+    },
+    {
+      "title": "(8) Endocannabinoids",
+      "heading_level": null,
+      "page_id": 18,
+      "polygon": [
+        [
+          40.53400503778337,
+          648.5457979225685
+        ],
+        [
+          144.87153652392948,
+          648.5457979225685
+        ],
+        [
+          144.87153652392948,
+          658.6943359375
+        ],
+        [
+          40.53400503778337,
+          658.6943359375
+        ]
+      ]
+    },
+    {
+      "title": "IX. MAJOR OPEN QUESTIONS AND\nTRANSLATIONAL RELEVANCE OF NEURO-\nREGULATION OF THE SEBACEOUS GLAND",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          54.7109375,
+          596.4024963378906
+        ],
+        [
+          269.94561767578125,
+          596.4024963378906
+        ],
+        [
+          269.94561767578125,
+          629.2294921875
+        ],
+        [
+          54.7109375,
+          629.2294921875
+        ]
+      ]
+    },
+    {
+      "title": "X. FINAL PERSPECTIVES",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          311.38671875,
+          158.1796875
+        ],
+        [
+          439.9823913574219,
+          158.1796875
+        ],
+        [
+          439.9823913574219,
+          168.4105224609375
+        ],
+        [
+          311.38671875,
+          168.4105224609375
+        ]
+      ]
+    },
+    {
+      "title": "XI. CONCLUSIONS",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          312.55078125,
+          674.9775390625
+        ],
+        [
+          409.33209228515625,
+          674.9775390625
+        ],
+        [
+          409.33209228515625,
+          685.8952255249023
+        ],
+        [
+          312.55078125,
+          685.8952255249023
+        ]
+      ]
+    },
+    {
+      "title": "XII. ACKNOWLEDGEMENTS",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          298.0,
+          222.53710937499997
+        ],
+        [
+          442.34375,
+          222.53710937499997
+        ],
+        [
+          442.34375,
+          233.440185546875
+        ],
+        [
+          298.0,
+          233.440185546875
+        ]
+      ]
+    },
+    {
+      "title": "XIII. REFERENCES",
+      "heading_level": null,
+      "page_id": 22,
+      "polygon": [
+        [
+          300.019775390625,
+          314.033203125
+        ],
+        [
+          396.9453125,
+          314.033203125
+        ],
+        [
+          396.9453125,
+          326.0211486816406
+        ],
+        [
+          300.019775390625,
+          326.0211486816406
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          68
+        ],
+        [
+          "Span",
+          43
+        ],
+        [
+          "Footnote",
+          12
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          223
+        ],
+        [
+          "TableCell",
+          99
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TableOfContents",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          97
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          123
+        ],
+        [
+          "Span",
+          66
+        ],
+        [
+          "Text",
+          28
+        ],
+        [
+          "TableCell",
+          16
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          245
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          201
+        ],
+        [
+          "Line",
+          66
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          244
+        ],
+        [
+          "Line",
+          79
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "TableCell",
+          108
+        ],
+        [
+          "Line",
+          53
+        ],
+        [
+          "Span",
+          31
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          60
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          231
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          329
+        ],
+        [
+          "Line",
+          111
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          268
+        ],
+        [
+          "Line",
+          80
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          210
+        ],
+        [
+          "Line",
+          77
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          121
+        ],
+        [
+          "Span",
+          86
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          321
+        ],
+        [
+          "Line",
+          107
+        ],
+        [
+          "TableCell",
+          80
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          285
+        ],
+        [
+          "Line",
+          93
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          120
+        ],
+        [
+          "Span",
+          92
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          68
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          315
+        ],
+        [
+          "Line",
+          91
+        ],
+        [
+          "TableCell",
+          72
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          125
+        ],
+        [
+          "Span",
+          94
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          331
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          562
+        ],
+        [
+          "Line",
+          122
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1323
+        ],
+        [
+          "Line",
+          156
+        ],
+        [
+          "ListItem",
+          53
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1303
+        ],
+        [
+          "Line",
+          156
+        ],
+        [
+          "ListItem",
+          48
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1345
+        ],
+        [
+          "Line",
+          155
+        ],
+        [
+          "ListItem",
+          51
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1405
+        ],
+        [
+          "Line",
+          155
+        ],
+        [
+          "ListItem",
+          52
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 27,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          262
+        ],
+        [
+          "Span",
+          167
+        ],
+        [
+          "ListItem",
+          49
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 28,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1371
+        ],
+        [
+          "Line",
+          156
+        ],
+        [
+          "ListItem",
+          52
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 29,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1286
+        ],
+        [
+          "Line",
+          155
+        ],
+        [
+          "ListItem",
+          52
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 30,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1369
+        ],
+        [
+          "Line",
+          156
+        ],
+        [
+          "ListItem",
+          50
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 31,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          1408
+        ],
+        [
+          "Line",
+          157
+        ],
+        [
+          "ListItem",
+          53
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "Text",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 32,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          418
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          3
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/Biological Reviews - 2020 - Clayton - Neuroendocrinology and neurobiology of sebaceous glands"
+}

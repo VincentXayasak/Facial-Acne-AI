@@ -1,0 +1,793 @@
+{
+  "table_of_contents": [
+    {
+      "title": "REVIEW ARTICLE",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          54.7109375,
+          65.27294921875
+        ],
+        [
+          133.17457580566406,
+          65.27294921875
+        ],
+        [
+          133.17457580566406,
+          75.52215576171875
+        ],
+        [
+          54.7109375,
+          75.52215576171875
+        ]
+      ]
+    },
+    {
+      "title": "The Skin Microbiome: A New Actor in Infammatory Acne",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.023597717285156,
+          105.8271484375
+        ],
+        [
+          414.40625,
+          105.8271484375
+        ],
+        [
+          414.40625,
+          122.0145263671875
+        ],
+        [
+          51.023597717285156,
+          122.0145263671875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          51.023597717285156,
+          208.17822265625
+        ],
+        [
+          89.10459899902344,
+          208.17822265625
+        ],
+        [
+          89.10459899902344,
+          218.37689208984375
+        ],
+        [
+          51.023597717285156,
+          218.37689208984375
+        ]
+      ]
+    },
+    {
+      "title": "Key Points",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          56.748046875,
+          388.16162109375
+        ],
+        [
+          103.96559143066406,
+          388.16162109375
+        ],
+        [
+          103.96559143066406,
+          398.8768615722656
+        ],
+        [
+          56.748046875,
+          398.8768615722656
+        ]
+      ]
+    },
+    {
+      "title": "1 Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          306.1418151855469,
+          386.61669921875
+        ],
+        [
+          386.44464111328125,
+          386.61669921875
+        ],
+        [
+          386.44464111328125,
+          399.2803955078125
+        ],
+        [
+          306.1418151855469,
+          399.2803955078125
+        ]
+      ]
+    },
+    {
+      "title": "2 Dysbiosis in Acne Pathophysiology",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          51.023597717285156,
+          218.3111572265625
+        ],
+        [
+          249.00918579101562,
+          218.3111572265625
+        ],
+        [
+          249.00918579101562,
+          231.35205078125
+        ],
+        [
+          51.023597717285156,
+          231.35205078125
+        ]
+      ]
+    },
+    {
+      "title": "2.1 Cutibacterium acnes and the Role of Microbiome \nDysbiosis in Acne",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.0546875,
+          244.1256103515625
+        ],
+        [
+          291.07440185546875,
+          244.1256103515625
+        ],
+        [
+          291.07440185546875,
+          268.0439453125
+        ],
+        [
+          50.0546875,
+          268.0439453125
+        ]
+      ]
+    },
+    {
+      "title": "2.2 Severity of Infammatory Acne is not Related \nto the Proliferation of C. acnes But to the Loss \nof Diversity of C. acnes Phylotypes (IA1, CC18, \nA1)",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          50.63671875,
+          467.72509765625
+        ],
+        [
+          278.2143249511719,
+          467.72509765625
+        ],
+        [
+          278.2143249511719,
+          517.62158203125
+        ],
+        [
+          50.63671875,
+          517.62158203125
+        ]
+      ]
+    },
+    {
+      "title": "2.3 Loss of Diversity of Phylotypes of C. acnes\nActivates Innate Immunity and Cutaneous \nInfammation",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          304.40234375,
+          622.4725646972656
+        ],
+        [
+          519.0665283203125,
+          622.4725646972656
+        ],
+        [
+          519.0665283203125,
+          658.4645690917969
+        ],
+        [
+          304.40234375,
+          658.4645690917969
+        ]
+      ]
+    },
+    {
+      "title": "3 Involvement of Particular Strains \nand Interactions with the Gut Microbiome",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          51.023597717285156,
+          454.93109130859375
+        ],
+        [
+          286.22119140625,
+          454.93109130859375
+        ],
+        [
+          286.22119140625,
+          479.4350891113281
+        ],
+        [
+          51.023597717285156,
+          479.4350891113281
+        ]
+      ]
+    },
+    {
+      "title": "3.1 C. acnesIA1 has a More Virulent Profle in Acne \nthan in Normal Skin",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          50.63671875,
+          493.21630859375
+        ],
+        [
+          281.67010498046875,
+          493.21630859375
+        ],
+        [
+          281.67010498046875,
+          516.7415771484375
+        ],
+        [
+          50.63671875,
+          516.7415771484375
+        ]
+      ]
+    },
+    {
+      "title": "3.2 Other Bacteria and Fungi Involved in Acne",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.1417236328125,
+          56.5396728515625
+        ],
+        [
+          517.42578125,
+          56.5396728515625
+        ],
+        [
+          517.42578125,
+          67.5396728515625
+        ],
+        [
+          306.1417236328125,
+          67.5396728515625
+        ]
+      ]
+    },
+    {
+      "title": "3.3 Interactions Between Bacteria and the Host \nCellular Mechanisms",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.1418151855469,
+          394.0396728515625
+        ],
+        [
+          525.478515625,
+          394.0396728515625
+        ],
+        [
+          525.478515625,
+          417.5356750488281
+        ],
+        [
+          306.1418151855469,
+          417.5356750488281
+        ]
+      ]
+    },
+    {
+      "title": "3.4 The Gut Microbiome Interacts with the Skin \nMicrobiome in Acne",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          306.1418151855469,
+          644.0396728515625
+        ],
+        [
+          524.6315307617188,
+          644.0396728515625
+        ],
+        [
+          524.6315307617188,
+          667.5356674194336
+        ],
+        [
+          306.1418151855469,
+          667.5356674194336
+        ]
+      ]
+    },
+    {
+      "title": "4 New Insights in Acne Treatments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.0546875,
+          354.17333984375
+        ],
+        [
+          236.50640869140625,
+          354.17333984375
+        ],
+        [
+          236.50640869140625,
+          366.93109130859375
+        ],
+        [
+          50.0546875,
+          366.93109130859375
+        ]
+      ]
+    },
+    {
+      "title": "4.1 Systemic and Topical Antibiotics Induce \nCutaneous Dysbiosis",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          50.0546875,
+          380.43701171875
+        ],
+        [
+          251.6162872314453,
+          380.43701171875
+        ],
+        [
+          251.6162872314453,
+          404.38330078125
+        ],
+        [
+          50.0546875,
+          404.38330078125
+        ]
+      ]
+    },
+    {
+      "title": "4.2 Future of Treatments",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          305.56640625,
+          305.1220703125
+        ],
+        [
+          421.233642578125,
+          305.1220703125
+        ],
+        [
+          421.233642578125,
+          316.7455749511719
+        ],
+        [
+          305.56640625,
+          316.7455749511719
+        ]
+      ]
+    },
+    {
+      "title": "5 Conclusion",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          303.8203125,
+          207.40576171875
+        ],
+        [
+          377.8297424316406,
+          207.40576171875
+        ],
+        [
+          377.8297424316406,
+          219.68011474609375
+        ],
+        [
+          303.8203125,
+          219.68011474609375
+        ]
+      ]
+    },
+    {
+      "title": "Declarations",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          306.1417236328125,
+          453.04833984375
+        ],
+        [
+          364.3515625,
+          453.04833984375
+        ],
+        [
+          364.3515625,
+          464.4592590332031
+        ],
+        [
+          306.1417236328125,
+          464.4592590332031
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          50.63671875,
+          173.8037109375
+        ],
+        [
+          109.8716049194336,
+          173.8037109375
+        ],
+        [
+          109.8716049194336,
+          186.1868896484375
+        ],
+        [
+          50.63671875,
+          186.1868896484375
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          179
+        ],
+        [
+          "Line",
+          64
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "ListItem",
+          5
+        ],
+        [
+          "PageHeader",
+          1
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          225
+        ],
+        [
+          "Line",
+          76
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          272
+        ],
+        [
+          "Line",
+          96
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          5
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          220
+        ],
+        [
+          "Line",
+          84
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "PictureGroup",
+          1
+        ],
+        [
+          "Reference",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          238
+        ],
+        [
+          "Line",
+          97
+        ],
+        [
+          "Text",
+          18
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          325
+        ],
+        [
+          "Line",
+          127
+        ],
+        [
+          "ListItem",
+          33
+        ],
+        [
+          "Reference",
+          32
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          270
+        ],
+        [
+          "Line",
+          109
+        ],
+        [
+          "ListItem",
+          30
+        ],
+        [
+          "Reference",
+          29
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/s40257-020-00531-1"
+}

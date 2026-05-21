@@ -1,0 +1,1041 @@
+{
+  "table_of_contents": [
+    {
+      "title": "Baicalin suppresses Propionibacterium acnes-\ninduced skin inflammation by downregulating the\nNF-kB/MAPK signaling pathway and inhibiting\nactivation of NLRP3 inflammasome",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          106.556640625,
+          104.66845703125
+        ],
+        [
+          540.7371826171875,
+          104.66845703125
+        ],
+        [
+          540.7371826171875,
+          193.67236328125
+        ],
+        [
+          106.556640625,
+          193.67236328125
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          71.2373046875,
+          266.056640625
+        ],
+        [
+          115.5361328125,
+          266.056640625
+        ],
+        [
+          115.5361328125,
+          277.015625
+        ],
+        [
+          71.2373046875,
+          277.015625
+        ]
+      ]
+    },
+    {
+      "title": "Introduction",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          70.638671875,
+          465.40771484375
+        ],
+        [
+          134.44915771484375,
+          465.40771484375
+        ],
+        [
+          134.44915771484375,
+          477.2549743652344
+        ],
+        [
+          70.638671875,
+          477.2549743652344
+        ]
+      ]
+    },
+    {
+      "title": "Material and Methods",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.62790697674416,
+          110.21516587677725
+        ],
+        [
+          426.9241126070991,
+          110.21516587677725
+        ],
+        [
+          426.9241126070991,
+          119.21232227488152
+        ],
+        [
+          313.62790697674416,
+          119.21232227488152
+        ]
+      ]
+    },
+    {
+      "title": "Reagents",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.486328125,
+          132.7080568720379
+        ],
+        [
+          354.89473684210526,
+          132.7080568720379
+        ],
+        [
+          354.89473684210526,
+          143.29150390625
+        ],
+        [
+          312.486328125,
+          143.29150390625
+        ]
+      ]
+    },
+    {
+      "title": "P. acnes culture",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.12729498164015,
+          341.04150390625
+        ],
+        [
+          382.65605875152994,
+          341.04150390625
+        ],
+        [
+          382.65605875152994,
+          349.3895734597156
+        ],
+        [
+          312.12729498164015,
+          349.3895734597156
+        ]
+      ]
+    },
+    {
+      "title": "Cell culture",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          313.0849609375,
+          449.95849609375
+        ],
+        [
+          363.8984088127295,
+          449.95849609375
+        ],
+        [
+          363.8984088127295,
+          458.8549763033175
+        ],
+        [
+          313.0849609375,
+          458.8549763033175
+        ]
+      ]
+    },
+    {
+      "title": "Cell viability assay",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          311.8876953125,
+          517.3364928909953
+        ],
+        [
+          394.6609547123623,
+          517.3364928909953
+        ],
+        [
+          394.6609547123623,
+          526.43212890625
+        ],
+        [
+          311.8876953125,
+          526.43212890625
+        ]
+      ]
+    },
+    {
+      "title": "In vitro acne model",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.12729498164015,
+          626.0521327014218
+        ],
+        [
+          398.4124847001224,
+          626.0521327014218
+        ],
+        [
+          398.4124847001224,
+          634.57666015625
+        ],
+        [
+          312.12729498164015,
+          634.57666015625
+        ]
+      ]
+    },
+    {
+      "title": "Animals",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          312.87760097919215,
+          690.96630859375
+        ],
+        [
+          348.8922888616891,
+          690.96630859375
+        ],
+        [
+          348.8922888616891,
+          699.46337890625
+        ],
+        [
+          312.87760097919215,
+          699.46337890625
+        ]
+      ]
+    },
+    {
+      "title": "Grouping and modeling",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.52876376988984,
+          221.18009478672985
+        ],
+        [
+          173.32068543451652,
+          221.18009478672985
+        ],
+        [
+          173.32068543451652,
+          229.80712890625
+        ],
+        [
+          70.52876376988984,
+          229.80712890625
+        ]
+      ]
+    },
+    {
+      "title": "ELISA",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          70.52876376988984,
+          570.46240234375
+        ],
+        [
+          99.04039167686658,
+          570.46240234375
+        ],
+        [
+          99.04039167686658,
+          579.5668246445497
+        ],
+        [
+          70.52876376988984,
+          579.5668246445497
+        ]
+      ]
+    },
+    {
+      "title": "Western blot analysis",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          312.486328125,
+          110.9649289099526
+        ],
+        [
+          408.1664626682986,
+          110.9649289099526
+        ],
+        [
+          408.1664626682986,
+          120.11767578125
+        ],
+        [
+          312.486328125,
+          120.11767578125
+        ]
+      ]
+    },
+    {
+      "title": "qRT- PCR",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          311.8876953125,
+          483.94677734375
+        ],
+        [
+          356.39534883720927,
+          482.8473933649289
+        ],
+        [
+          357.14565483476133,
+          492.44384765625
+        ],
+        [
+          311.8876953125,
+          493.3440758293839
+        ]
+      ]
+    },
+    {
+      "title": "Histopathological and immunohistochemical\nexamination of ear tissues",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          70.638671875,
+          166.46533203125
+        ],
+        [
+          261.0839538574219,
+          166.46533203125
+        ],
+        [
+          261.0839538574219,
+          186.98797607421875
+        ],
+        [
+          70.638671875,
+          186.98797607421875
+        ]
+      ]
+    },
+    {
+      "title": "Statistical analyses",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          71.49073028564453,
+          397.1955261230469
+        ],
+        [
+          153.75296020507812,
+          397.1955261230469
+        ],
+        [
+          153.75296020507812,
+          406.16180419921875
+        ],
+        [
+          71.49073028564453,
+          406.16180419921875
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.0849609375,
+          142.9052734375
+        ],
+        [
+          352.6920166015625,
+          142.9052734375
+        ],
+        [
+          352.6920166015625,
+          154.5589599609375
+        ],
+        [
+          313.0849609375,
+          154.5589599609375
+        ]
+      ]
+    },
+    {
+      "title": "BA suppressed the production of pro-inflammatory\ncytokines induced by P. acnes in THP-1 cells",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          311.8876953125,
+          166.0791015625
+        ],
+        [
+          531.9605712890625,
+          166.0791015625
+        ],
+        [
+          531.9605712890625,
+          186.9881591796875
+        ],
+        [
+          311.8876953125,
+          186.9881591796875
+        ]
+      ]
+    },
+    {
+      "title": "Effect of BA on MAPK and NF-kB signaling pathways\nin THP-1 cells",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.486328125,
+          308.59814453125
+        ],
+        [
+          540.7349853515625,
+          308.59814453125
+        ],
+        [
+          540.7349853515625,
+          329.45458984375
+        ],
+        [
+          312.486328125,
+          329.45458984375
+        ]
+      ]
+    },
+    {
+      "title": "BA inhibited the activation of the NLRP3\ninflammasome in vitro",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          313.0849609375,
+          516.39013671875
+        ],
+        [
+          486.6884765625,
+          516.39013671875
+        ],
+        [
+          486.6884765625,
+          537.6835479736328
+        ],
+        [
+          313.0849609375,
+          537.6835479736328
+        ]
+      ]
+    },
+    {
+      "title": "BA ameliorated the P. acnes-induced inflammation\nin vivo",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          312.486328125,
+          679.765625
+        ],
+        [
+          530.388671875,
+          679.765625
+        ],
+        [
+          530.388671875,
+          701.6981353759766
+        ],
+        [
+          312.486328125,
+          701.6981353759766
+        ]
+      ]
+    },
+    {
+      "title": "Effects of BA on the MAPK and NF-\\kappaB signaling pathways",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          69.77845777233782,
+          482.8473933649289
+        ],
+        [
+          278.36352509179926,
+          482.8473933649289
+        ],
+        [
+          278.36352509179926,
+          504.4169921875
+        ],
+        [
+          69.77845777233782,
+          504.4169921875
+        ]
+      ]
+    },
+    {
+      "title": "BA suppressed the activation of the NLRP3 inflammasome in vivo",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          70.52876376988984,
+          626.0521327014218
+        ],
+        [
+          258.85556915544674,
+          626.0521327014218
+        ],
+        [
+          258.85556915544674,
+          646.16357421875
+        ],
+        [
+          70.52876376988984,
+          646.16357421875
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          313.62790697674416,
+          493.21630859375
+        ],
+        [
+          372.1517747858017,
+          493.21630859375
+        ],
+        [
+          372.1517747858017,
+          501.71337890625
+        ],
+        [
+          313.62790697674416,
+          501.71337890625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 7,
+      "polygon": [
+        [
+          312.12729498164015,
+          650.7943127962085
+        ],
+        [
+          410.4173806609547,
+          650.7943127962085
+        ],
+        [
+          410.4173806609547,
+          659.7914691943128
+        ],
+        [
+          312.12729498164015,
+          659.7914691943128
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 8,
+      "polygon": [
+        [
+          71.2373046875,
+          110.07568359375
+        ],
+        [
+          130.021728515625,
+          110.07568359375
+        ],
+        [
+          130.021728515625,
+          121.67706298828125
+        ],
+        [
+          71.2373046875,
+          121.67706298828125
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          236
+        ],
+        [
+          "Line",
+          63
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          122
+        ],
+        [
+          "Span",
+          103
+        ],
+        [
+          "Text",
+          9
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          116
+        ],
+        [
+          "Line",
+          114
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          337
+        ],
+        [
+          "Line",
+          104
+        ],
+        [
+          "TableCell",
+          40
+        ],
+        [
+          "Text",
+          8
+        ],
+        [
+          "SectionHeader",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Table",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "TableGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          82
+        ],
+        [
+          "Span",
+          40
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          93
+        ],
+        [
+          "Span",
+          88
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Line",
+          107
+        ],
+        [
+          "Span",
+          49
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          2
+        ],
+        [
+          "Caption",
+          2
+        ],
+        [
+          "FigureGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "surya",
+      "block_counts": [
+        [
+          "Span",
+          90
+        ],
+        [
+          "Line",
+          74
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ],
+        [
+          "FigureGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          478
+        ],
+        [
+          "Line",
+          119
+        ],
+        [
+          "ListItem",
+          29
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          132
+        ],
+        [
+          "Line",
+          34
+        ],
+        [
+          "ListItem",
+          8
+        ],
+        [
+          "PageHeader",
+          2
+        ],
+        [
+          "ListGroup",
+          2
+        ],
+        [
+          "PageFooter",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0,
+        "previous_text": "",
+        "previous_type": "",
+        "previous_order": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/1414-431X-bjmbr-53-12-e9949"
+}
