@@ -68,7 +68,9 @@ def run_rag(
                 "No chunks retrieved from Chroma. Run ingest_papers.py --reset first."
             )
         user_prompt = build_user_prompt(question, chunks, obs)
-        answer = chat.complete(user_prompt, system=RAG_SYSTEM, max_tokens=2048)
+        answer = chat.complete(
+            user_prompt, system=RAG_SYSTEM, max_tokens=2048, temperature=0.35
+        )
     else:
         user_prompt = build_base_prompt(question, obs)
         answer = chat.complete(user_prompt, system=BASE_SYSTEM)

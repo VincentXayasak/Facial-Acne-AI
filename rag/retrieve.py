@@ -194,13 +194,18 @@ def build_user_prompt(
     return (
         f"{obs_block}{topic_block}"
         f"User question: {question}\n\n"
-        f"Research context ({len(chunks)} peer-reviewed excerpts):\n{context}\n\n"
-        "Write a thorough, well-organized answer grounded ONLY in the research context above.\n"
-        "- Aim for several paragraphs when the sources support it; synthesize across [1], [2], etc.\n"
-        "- Group by theme when helpful (e.g. causes, treatments, lifestyle) using the corpus topics.\n"
-        "- Cite every major claim inline as [1], [2], matching the numbered blocks.\n"
-        "- If a topic is not covered in the context, say the corpus does not address it.\n"
-        "- End with a Sources section listing the paper title for each citation used."
+        f"Research context ({len(chunks)} paper excerpts — for your facts only, do not copy their wording):\n"
+        f"{context}\n\n"
+        "Write a clear, easy-to-read answer using ONLY the facts in the excerpts above.\n"
+        "Structure example:\n"
+        "1) Brief intro (what you see in the photo if provided + what the question is about)\n"
+        "2) **Main causes** — numbered list in plain English, with [1], [2] citations\n"
+        "3) **What research suggests for care** — numbered practical steps or options, with citations\n"
+        "4) **Extra tips** — short bullets if sources support them\n"
+        "5) Short closing reminder (patience, see a dermatologist if needed)\n"
+        "6) **Sources** — list paper titles\n\n"
+        "Remember: simplify the science. No words like pathogenesis, phylotypes, dysbiosis, or "
+        "follicular hyper-keratinization unless you immediately explain them in simple terms."
     )
 
 
