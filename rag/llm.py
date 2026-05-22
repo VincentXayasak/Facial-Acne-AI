@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import os
+from collections.abc import Iterator
 
 from openai import OpenAI
 
@@ -75,6 +76,29 @@ class LMStudioChat:
         )
         choice = response.choices[0].message.content
         return (choice or "").strip()
+
+    def stream_tokens(
+        self,
+        user_prompt: str,
+        *,
+        system: str = DEFAULT_SYSTEM,
+        temperature: float = 0.2,
+        max_tokens: int = 1536,
+    ) -> Iterator[str]:
+        stream = self._client.chat.completions.create(
+            model=self.model,
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": user_prompt},
+            ],
+            temperature=temperature,
+            max_tokens=max_tokens,
+            stream=True,
+        )
+        for chunk in stream:
+            delta = chunk.choices[0].delta
+            if delta.content:
+                yield delta.content
 
     def ping(self) -> str:
         text = self.complete("Reply with exactly: ok", max_tokens=16)

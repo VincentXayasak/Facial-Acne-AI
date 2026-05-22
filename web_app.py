@@ -3,16 +3,17 @@
 
 from __future__ import annotations
 
+import json
 import os
 import traceback
 import uuid
 from pathlib import Path
 
 from dotenv import load_dotenv
-from flask import Flask, jsonify, render_template, request
+from flask import Flask, Response, jsonify, render_template, request, stream_with_context
 from werkzeug.utils import secure_filename
 
-from rag.pipeline import result_to_dict, run_rag
+from rag.pipeline import stream_rag_events
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 UPLOAD_DIR = SCRIPT_DIR / "uploads"
@@ -28,13 +29,17 @@ def _allowed_file(filename: str) -> bool:
     return Path(filename).suffix.lower() in ALLOWED_EXTENSIONS
 
 
+def _sse(payload: dict) -> str:
+    return f"data: {json.dumps(payload, ensure_ascii=False)}\n\n"
+
+
 @app.route("/")
 def index():
     return render_template("index.html")
 
 
-@app.route("/api/ask", methods=["POST"])
-def api_ask():
+@app.route("/api/ask/stream", methods=["POST"])
+def api_ask_stream():
     question = (request.form.get("question") or "").strip()
     if not question:
         return jsonify({"error": "Please enter a question."}), 400
@@ -61,25 +66,36 @@ def api_ask():
         upload.save(dest)
         image_path = dest
 
-    try:
-        result = run_rag(
-            question,
-            image_path=image_path,
-            chroma_path=chroma_path if use_rag else None,
-            collection_name=collection,
-            use_rag=use_rag,
-            top_k=7,
-        )
-        return jsonify(result_to_dict(result))
-    except Exception as exc:
-        app.logger.error("ask failed: %s", traceback.format_exc())
-        return jsonify({"error": str(exc)}), 500
-    finally:
-        if image_path and image_path.is_file():
-            try:
-                image_path.unlink()
-            except OSError:
-                pass
+    def generate():
+        try:
+            for event in stream_rag_events(
+                question,
+                image_path=image_path,
+                chroma_path=chroma_path if use_rag else None,
+                collection_name=collection,
+                use_rag=use_rag,
+                top_k=7,
+            ):
+                yield _sse(event)
+        except Exception as exc:
+            app.logger.error("stream failed: %s", traceback.format_exc())
+            yield _sse({"type": "error", "message": str(exc)})
+        finally:
+            if image_path and image_path.is_file():
+                try:
+                    image_path.unlink()
+                except OSError:
+                    pass
+
+    return Response(
+        stream_with_context(generate()),
+        mimetype="text/event-stream",
+        headers={
+            "Cache-Control": "no-cache",
+            "Connection": "keep-alive",
+            "X-Accel-Buffering": "no",
+        },
+    )
 
 
 def main() -> None:
@@ -93,7 +109,7 @@ def main() -> None:
 
     print(f"Open http://{args.host}:{args.port}")
     print("Requires LM Studio (chat + embed) and GEMINI_API_KEY for photos.")
-    app.run(host=args.host, port=args.port, debug=args.debug)
+    app.run(host=args.host, port=args.port, debug=args.debug, threaded=True)
 
 
 if __name__ == "__main__":

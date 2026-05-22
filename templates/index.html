@@ -4,6 +4,8 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Facial Acne Research Assistant</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.2.4/dist/purify.min.js"></script>
   <style>
     :root {
       --bg: #f4f7fb;
@@ -13,7 +15,6 @@
       --accent: #2d6cdf;
       --accent-hover: #2458b8;
       --border: #dce4ee;
-      --success: #0d7a4a;
       --error: #b42318;
     }
     * { box-sizing: border-box; }
@@ -31,11 +32,7 @@
       padding: 2rem 1.25rem 3rem;
     }
     header { margin-bottom: 1.75rem; }
-    h1 {
-      font-size: 1.5rem;
-      font-weight: 600;
-      margin: 0 0 0.35rem;
-    }
+    h1 { font-size: 1.5rem; font-weight: 600; margin: 0 0 0.35rem; }
     .sub { color: var(--muted); font-size: 0.9rem; margin: 0; }
     .card {
       background: var(--card);
@@ -69,114 +66,111 @@
       border-color: var(--accent);
     }
     .row { margin-bottom: 1rem; }
-    .row:last-child { margin-bottom: 0; }
-    .file-row {
-      display: flex;
-      gap: 1rem;
-      align-items: flex-start;
-      flex-wrap: wrap;
-    }
+    .file-row { display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap; }
     input[type="file"] { font-size: 0.85rem; max-width: 100%; }
     #preview {
-      width: 120px;
-      height: 120px;
-      object-fit: cover;
-      border-radius: 8px;
-      border: 1px solid var(--border);
-      display: none;
+      width: 120px; height: 120px; object-fit: cover;
+      border-radius: 8px; border: 1px solid var(--border); display: none;
     }
     .toggle {
-      display: flex;
-      align-items: center;
-      gap: 0.5rem;
-      font-size: 0.95rem;
-      color: var(--text);
-      cursor: pointer;
+      display: flex; align-items: center; gap: 0.5rem;
+      font-size: 0.95rem; cursor: pointer;
     }
     .toggle input { width: 1rem; height: 1rem; accent-color: var(--accent); }
     button[type="submit"] {
-      width: 100%;
-      padding: 0.85rem 1rem;
-      background: var(--accent);
-      color: #fff;
-      border: none;
-      border-radius: 8px;
-      font-size: 1rem;
-      font-weight: 600;
-      cursor: pointer;
-      margin-top: 0.5rem;
+      width: 100%; padding: 0.85rem 1rem;
+      background: var(--accent); color: #fff; border: none;
+      border-radius: 8px; font-size: 1rem; font-weight: 600;
+      cursor: pointer; margin-top: 0.5rem;
     }
     button[type="submit"]:hover:not(:disabled) { background: var(--accent-hover); }
-    button[type="submit"]:disabled {
-      opacity: 0.65;
-      cursor: not-allowed;
-    }
+    button[type="submit"]:disabled { opacity: 0.65; cursor: not-allowed; }
     #status {
-      text-align: center;
-      color: var(--muted);
-      font-size: 0.9rem;
-      padding: 0.75rem;
-      display: none;
+      text-align: center; color: var(--muted); font-size: 0.9rem;
+      padding: 0.75rem; display: none;
     }
     #status.loading { display: block; }
     .err {
-      background: #fef2f2;
-      border: 1px solid #fecaca;
-      color: var(--error);
-      padding: 0.75rem 1rem;
-      border-radius: 8px;
-      font-size: 0.9rem;
-      display: none;
+      background: #fef2f2; border: 1px solid #fecaca; color: var(--error);
+      padding: 0.75rem 1rem; border-radius: 8px; font-size: 0.9rem; display: none;
     }
     .err.visible { display: block; }
     #results { display: none; }
     #results.visible { display: block; }
     .badge {
-      display: inline-block;
-      font-size: 0.75rem;
-      font-weight: 600;
-      padding: 0.2rem 0.55rem;
-      border-radius: 999px;
-      background: #e8f0fe;
-      color: var(--accent);
-      margin-bottom: 0.75rem;
+      display: inline-block; font-size: 0.75rem; font-weight: 600;
+      padding: 0.2rem 0.55rem; border-radius: 999px;
+      background: #e8f0fe; color: var(--accent); margin-bottom: 0.75rem;
     }
     .section-title {
-      font-size: 0.8rem;
-      font-weight: 600;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      margin: 0 0 0.5rem;
+      font-size: 0.8rem; font-weight: 600; color: var(--muted);
+      text-transform: uppercase; letter-spacing: 0.04em; margin: 0 0 0.5rem;
     }
     pre.json {
-      background: #f8fafc;
-      border: 1px solid var(--border);
-      border-radius: 8px;
-      padding: 0.75rem;
-      font-size: 0.78rem;
-      overflow-x: auto;
-      margin: 0;
-      white-space: pre-wrap;
-      word-break: break-word;
+      background: #f8fafc; border: 1px solid var(--border); border-radius: 8px;
+      padding: 0.75rem; font-size: 0.78rem; margin: 0;
+      white-space: pre-wrap; word-break: break-word;
     }
     .sources { list-style: none; padding: 0; margin: 0; }
     .sources li {
-      padding: 0.5rem 0;
-      border-bottom: 1px solid var(--border);
-      font-size: 0.88rem;
+      padding: 0.5rem 0; border-bottom: 1px solid var(--border); font-size: 0.88rem;
     }
     .sources li:last-child { border-bottom: none; }
     .sources .cite { font-weight: 700; color: var(--accent); margin-right: 0.35rem; }
+
+    /* Rendered markdown answer */
     .answer {
       font-size: 0.95rem;
-      white-space: pre-wrap;
+      line-height: 1.65;
+    }
+    .answer.streaming .cursor {
+      display: inline-block;
+      width: 2px;
+      height: 1em;
+      background: var(--accent);
+      margin-left: 2px;
+      vertical-align: text-bottom;
+      animation: blink 0.9s step-end infinite;
+    }
+    @keyframes blink { 50% { opacity: 0; } }
+    .answer h1, .answer h2, .answer h3, .answer h4 {
+      margin: 1.1rem 0 0.5rem;
+      line-height: 1.3;
+      font-weight: 600;
+    }
+    .answer h1 { font-size: 1.2rem; }
+    .answer h2 { font-size: 1.1rem; }
+    .answer h3 { font-size: 1rem; }
+    .answer p { margin: 0 0 0.75rem; }
+    .answer p:last-child { margin-bottom: 0; }
+    .answer ul, .answer ol {
+      margin: 0 0 0.85rem;
+      padding-left: 1.35rem;
+    }
+    .answer li { margin-bottom: 0.35rem; }
+    .answer li > ul, .answer li > ol { margin-top: 0.35rem; margin-bottom: 0; }
+    .answer strong { font-weight: 600; }
+    .answer em { font-style: italic; }
+    .answer code {
+      font-size: 0.88em;
+      background: #f1f5f9;
+      padding: 0.1em 0.35em;
+      border-radius: 4px;
+    }
+    .answer blockquote {
+      margin: 0 0 0.75rem;
+      padding-left: 0.85rem;
+      border-left: 3px solid var(--border);
+      color: var(--muted);
+    }
+    .answer hr {
+      border: none;
+      border-top: 1px solid var(--border);
+      margin: 1rem 0;
     }
     footer {
-      margin-top: 2rem;
-      font-size: 0.75rem;
-      color: var(--muted);
-      text-align: center;
+      margin-top: 2rem; font-size: 0.75rem;
+      color: var(--muted); text-align: center;
     }
   </style>
 </head>
@@ -190,14 +184,9 @@
     <form id="form" class="card">
       <div class="row">
         <label for="question">Your question</label>
-        <textarea
-          id="question"
-          name="question"
-          required
-          placeholder="e.g. Based on what you see and the research, what do studies report about care options?"
-        ></textarea>
+        <textarea id="question" name="question" required
+          placeholder="e.g. Based on what you see and the research, what do studies report about care options?"></textarea>
       </div>
-
       <div class="row">
         <label>Face photo (optional)</label>
         <div class="file-row">
@@ -205,7 +194,6 @@
           <img id="preview" alt="Preview" />
         </div>
       </div>
-
       <div class="row">
         <label class="toggle">
           <input type="checkbox" id="use_rag" name="use_rag" value="true" checked />
@@ -215,9 +203,8 @@
           Uncheck to compare base Llama without paper retrieval.
         </p>
       </div>
-
       <button type="submit" id="submit">Ask</button>
-      <p id="status" class="loading">Analyzing… this may take 1–3 minutes.</p>
+      <p id="status" class="loading"></p>
     </form>
 
     <div id="error" class="err" role="alert"></div>
@@ -230,12 +217,10 @@
           <pre id="observation" class="json"></pre>
         </div>
       </div>
-
       <div id="sources-block" class="card" style="display: none;">
         <p class="section-title">Retrieved sources</p>
         <ul id="sources" class="sources"></ul>
       </div>
-
       <div class="card">
         <p class="section-title">Answer</p>
         <div id="answer" class="answer"></div>
@@ -248,6 +233,8 @@
   </div>
 
   <script>
+    marked.setOptions({ breaks: true, gfm: true });
+
     const form = document.getElementById("form");
     const imageInput = document.getElementById("image");
     const preview = document.getElementById("preview");
@@ -255,22 +242,118 @@
     const statusEl = document.getElementById("status");
     const errorEl = document.getElementById("error");
     const resultsEl = document.getElementById("results");
+    const answerEl = document.getElementById("answer");
+
+    let answerMarkdown = "";
+    let renderScheduled = false;
 
     imageInput.addEventListener("change", () => {
       const file = imageInput.files[0];
-      if (!file) {
-        preview.style.display = "none";
-        return;
-      }
+      if (!file) { preview.style.display = "none"; return; }
       preview.src = URL.createObjectURL(file);
       preview.style.display = "block";
     });
+
+    function escapeHtml(s) {
+      const d = document.createElement("div");
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    function renderAnswer(streaming) {
+      const html = DOMPurify.sanitize(marked.parse(answerMarkdown || ""));
+      answerEl.innerHTML = html + (streaming ? '<span class="cursor"></span>' : "");
+      answerEl.classList.toggle("streaming", streaming);
+    }
+
+    function scheduleRender(streaming) {
+      if (renderScheduled) return;
+      renderScheduled = true;
+      requestAnimationFrame(() => {
+        renderScheduled = false;
+        renderAnswer(streaming);
+      });
+    }
+
+    function showMeta(data) {
+      document.getElementById("mode-badge").textContent = data.use_rag
+        ? "RAG — grounded in research papers"
+        : "Base model — no paper retrieval";
+
+      const obsBlock = document.getElementById("obs-block");
+      if (data.observation) {
+        obsBlock.style.display = "block";
+        document.getElementById("observation").textContent =
+          JSON.stringify(data.observation, null, 2);
+      } else {
+        obsBlock.style.display = "none";
+      }
+
+      const srcBlock = document.getElementById("sources-block");
+      const srcList = document.getElementById("sources");
+      srcList.innerHTML = "";
+      if (data.sources && data.sources.length) {
+        srcBlock.style.display = "block";
+        data.sources.forEach((s) => {
+          const li = document.createElement("li");
+          li.innerHTML =
+            `<span class="cite">[${s.cite}]</span>` +
+            `<strong>${escapeHtml(s.title)}</strong><br>` +
+            `<span style="color:var(--muted)">${escapeHtml(s.section || "")} · ${escapeHtml(s.paper_id)}</span>`;
+          srcList.appendChild(li);
+        });
+      } else {
+        srcBlock.style.display = "none";
+      }
+    }
+
+    async function consumeSSE(reader) {
+      const decoder = new TextDecoder();
+      let buffer = "";
+
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        buffer += decoder.decode(value, { stream: true });
+
+        const parts = buffer.split("\n\n");
+        buffer = parts.pop() || "";
+
+        for (const part of parts) {
+          const line = part.trim();
+          if (!line.startsWith("data:")) continue;
+          const jsonStr = line.slice(5).trim();
+          if (!jsonStr) continue;
+
+          const event = JSON.parse(jsonStr);
+          if (event.type === "status") {
+            statusEl.textContent = event.message;
+            statusEl.classList.add("loading");
+          } else if (event.type === "meta") {
+            showMeta(event);
+            resultsEl.classList.add("visible");
+            answerMarkdown = "";
+            renderAnswer(true);
+          } else if (event.type === "token") {
+            answerMarkdown += event.text;
+            scheduleRender(true);
+          } else if (event.type === "error") {
+            throw new Error(event.message);
+          } else if (event.type === "done") {
+            renderAnswer(false);
+          }
+        }
+      }
+    }
 
     form.addEventListener("submit", async (e) => {
       e.preventDefault();
       errorEl.classList.remove("visible");
       resultsEl.classList.remove("visible");
       submitBtn.disabled = true;
+      answerMarkdown = "";
+      answerEl.innerHTML = "";
+      statusEl.textContent = "Starting…";
       statusEl.classList.add("loading");
 
       const fd = new FormData(form);
@@ -279,56 +362,21 @@
       }
 
       try {
-        const res = await fetch("/api/ask", { method: "POST", body: fd });
-        const data = await res.json();
-        if (!res.ok) throw new Error(data.error || res.statusText);
-
-        document.getElementById("mode-badge").textContent = data.use_rag
-          ? "RAG — grounded in research papers"
-          : "Base model — no paper retrieval";
-
-        const obsBlock = document.getElementById("obs-block");
-        if (data.observation) {
-          obsBlock.style.display = "block";
-          document.getElementById("observation").textContent =
-            JSON.stringify(data.observation, null, 2);
-        } else {
-          obsBlock.style.display = "none";
+        const res = await fetch("/api/ask/stream", { method: "POST", body: fd });
+        if (!res.ok) {
+          const err = await res.json().catch(() => ({}));
+          throw new Error(err.error || res.statusText);
         }
-
-        const srcBlock = document.getElementById("sources-block");
-        const srcList = document.getElementById("sources");
-        srcList.innerHTML = "";
-        if (data.sources && data.sources.length) {
-          srcBlock.style.display = "block";
-          data.sources.forEach((s) => {
-            const li = document.createElement("li");
-            li.innerHTML =
-              `<span class="cite">[${s.cite}]</span>` +
-              `<strong>${escapeHtml(s.title)}</strong><br>` +
-              `<span style="color:var(--muted)">${escapeHtml(s.section || "")} · ${escapeHtml(s.paper_id)}</span>`;
-            srcList.appendChild(li);
-          });
-        } else {
-          srcBlock.style.display = "none";
-        }
-
-        document.getElementById("answer").textContent = data.answer || "";
-        resultsEl.classList.add("visible");
+        await consumeSSE(res.body.getReader());
       } catch (err) {
         errorEl.textContent = err.message;
         errorEl.classList.add("visible");
       } finally {
         submitBtn.disabled = false;
         statusEl.classList.remove("loading");
+        statusEl.textContent = "";
       }
     });
-
-    function escapeHtml(s) {
-      const d = document.createElement("div");
-      d.textContent = s;
-      return d.innerHTML;
-    }
   </script>
 </body>
 </html>

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+from collections.abc import Iterator
 from dataclasses import dataclass
 from pathlib import Path
 
@@ -27,7 +28,20 @@ class RAGResult:
     use_rag: bool
 
 
-def run_rag(
+def chunks_to_sources(chunks: list) -> list[dict]:
+    return [
+        {
+            "cite": c.index,
+            "title": c.title,
+            "section": c.section,
+            "paper_id": c.base_name,
+            "distance": c.distance,
+        }
+        for c in chunks
+    ]
+
+
+def _prepare_prompts(
     question: str,
     *,
     image_path: Path | None = None,
@@ -35,12 +49,11 @@ def run_rag(
     chroma_path: Path | None = None,
     collection_name: str = "acne_research",
     embedding_fn: LMStudioEmbeddingFunction | None = None,
-    chat: LMStudioChat | None = None,
     top_k: int = 5,
     skip_vision: bool = False,
     use_rag: bool = True,
-) -> RAGResult:
-    chat = chat or LMStudioChat()
+) -> tuple[dict | None, list, str | None, str, str, float, int]:
+    """Returns obs, chunks, retrieval_query, user_prompt, system, temperature, max_tokens."""
     obs = observation
 
     if image_path and not skip_vision and obs is None:
@@ -68,12 +81,100 @@ def run_rag(
                 "No chunks retrieved from Chroma. Run ingest_papers.py --reset first."
             )
         user_prompt = build_user_prompt(question, chunks, obs)
-        answer = chat.complete(
-            user_prompt, system=RAG_SYSTEM, max_tokens=2048, temperature=0.35
+        return obs, chunks, retrieval_query, user_prompt, RAG_SYSTEM, 0.35, 2048
+
+    user_prompt = build_base_prompt(question, obs)
+    return obs, chunks, retrieval_query, user_prompt, BASE_SYSTEM, 0.35, 2048
+
+
+def stream_rag_events(
+    question: str,
+    *,
+    image_path: Path | None = None,
+    observation: dict | None = None,
+    chroma_path: Path | None = None,
+    collection_name: str = "acne_research",
+    embedding_fn: LMStudioEmbeddingFunction | None = None,
+    chat: LMStudioChat | None = None,
+    top_k: int = 7,
+    skip_vision: bool = False,
+    use_rag: bool = True,
+) -> Iterator[dict]:
+    """Yield status/meta/token/done events for SSE streaming."""
+    chat = chat or LMStudioChat()
+
+    if image_path and not skip_vision and observation is None:
+        yield {"type": "status", "message": "Analyzing photo with Gemini…"}
+    if use_rag:
+        yield {"type": "status", "message": "Searching research papers…"}
+
+    obs, chunks, retrieval_query, user_prompt, system, temperature, max_tokens = (
+        _prepare_prompts(
+            question,
+            image_path=image_path,
+            observation=observation,
+            chroma_path=chroma_path,
+            collection_name=collection_name,
+            embedding_fn=embedding_fn,
+            top_k=top_k,
+            skip_vision=skip_vision,
+            use_rag=use_rag,
         )
-    else:
-        user_prompt = build_base_prompt(question, obs)
-        answer = chat.complete(user_prompt, system=BASE_SYSTEM)
+    )
+
+    yield {
+        "type": "meta",
+        "use_rag": use_rag,
+        "observation": obs,
+        "retrieval_query": retrieval_query,
+        "sources": chunks_to_sources(chunks),
+    }
+    yield {"type": "status", "message": "Writing answer…"}
+
+    for token in chat.stream_tokens(
+        user_prompt,
+        system=system,
+        temperature=temperature,
+        max_tokens=max_tokens,
+    ):
+        yield {"type": "token", "text": token}
+
+    yield {"type": "done"}
+
+
+def run_rag(
+    question: str,
+    *,
+    image_path: Path | None = None,
+    observation: dict | None = None,
+    chroma_path: Path | None = None,
+    collection_name: str = "acne_research",
+    embedding_fn: LMStudioEmbeddingFunction | None = None,
+    chat: LMStudioChat | None = None,
+    top_k: int = 5,
+    skip_vision: bool = False,
+    use_rag: bool = True,
+) -> RAGResult:
+    chat = chat or LMStudioChat()
+    obs, chunks, retrieval_query, user_prompt, system, temperature, max_tokens = (
+        _prepare_prompts(
+            question,
+            image_path=image_path,
+            observation=observation,
+            chroma_path=chroma_path,
+            collection_name=collection_name,
+            embedding_fn=embedding_fn,
+            top_k=top_k,
+            skip_vision=skip_vision,
+            use_rag=use_rag,
+        )
+    )
+    answer = chat.complete(
+        user_prompt,
+        system=system,
+        temperature=temperature,
+        max_tokens=max_tokens,
+    )
 
     return RAGResult(
         answer=answer,
@@ -85,23 +186,13 @@ def run_rag(
 
 
 def result_to_dict(result: RAGResult) -> dict:
-    out = {
+    return {
         "answer": result.answer,
         "observation": result.observation,
         "use_rag": result.use_rag,
         "retrieval_query": result.retrieval_query,
-        "sources": [
-            {
-                "cite": c.index,
-                "title": c.title,
-                "section": c.section,
-                "paper_id": c.base_name,
-                "distance": c.distance,
-            }
-            for c in result.chunks
-        ],
+        "sources": chunks_to_sources(result.chunks),
     }
-    return out
 
 
 def print_result(result: RAGResult) -> None:
