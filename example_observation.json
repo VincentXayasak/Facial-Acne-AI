@@ -1,0 +1,8 @@
+{
+  "acne_types": ["papules", "comedones"],
+  "severity_estimate": "moderate",
+  "affected_areas": ["cheeks", "forehead"],
+  "skin_tone_description": "medium",
+  "apparent_sex_presentation": "unclear",
+  "other_observations": "inflammatory lesions with some scarring"
+}
