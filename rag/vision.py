@@ -7,19 +7,31 @@ import os
 import re
 from pathlib import Path
 
-VISION_PROMPT = """Analyze this facial photo for dermatology research purposes only.
+from rag.topics import CORPUS_TOPICS_PROMPT_BLOCK
+
+VISION_PROMPT = f"""Analyze this facial photo for dermatology research purposes only.
 Do NOT give treatment advice or a medical diagnosis.
 
+Our research library covers these topics (use these exact topic ids):
+{CORPUS_TOPICS_PROMPT_BLOCK}
+
 Return ONLY valid JSON with these keys:
-{
-  "acne_types": ["list of lesion types you see, e.g. papules, pustules, comedones, nodules"],
+{{
+  "acne_types": ["papules, pustules, comedones, nodules, cysts — only what you clearly see"],
   "severity_estimate": "mild | moderate | severe | unclear",
-  "affected_areas": ["e.g. forehead, cheeks, chin, jawline"],
+  "inflammation_level": "none | mild | moderate | severe | unclear",
+  "affected_areas": ["forehead, cheeks, chin, jawline, nose, etc."],
+  "scarring_or_post_inflammatory_marks": "brief description or none visible",
   "skin_tone_description": "brief Fitzpatrick-style description if visible, else unclear",
   "apparent_sex_presentation": "female | male | androgynous | unclear",
-  "other_observations": "brief notes on inflammation, scarring, distribution patterns"
-}
+  "apparent_age_group": "adolescent | young adult | adult | unclear",
+  "relevant_research_topics": ["1-3 topic ids from the list above that best match what you see"],
+  "retrieval_keywords": ["8-15 concrete search terms for finding papers: lesion names, treatments that may apply, mechanisms like sebum, C. acnes, retinoid, dairy, stress, etc."],
+  "other_observations": "distribution pattern, oiliness, dryness, other visible features"
+}}
 
+Pick relevant_research_topics that fit the visible presentation (e.g. inflamed papules → bacteria_inflammation + medicine_skincare).
+retrieval_keywords should help search a scientific corpus — use specific medical terms, not generic words like "acne face".
 Use "unclear" or empty lists when not visible. Be factual and conservative."""
 
 

@@ -1,8 +1,20 @@
 {
   "acne_types": ["papules", "comedones"],
   "severity_estimate": "moderate",
+  "inflammation_level": "moderate",
   "affected_areas": ["cheeks", "forehead"],
+  "scarring_or_post_inflammatory_marks": "mild post-inflammatory erythema",
   "skin_tone_description": "medium",
   "apparent_sex_presentation": "unclear",
-  "other_observations": "inflammatory lesions with some scarring"
+  "apparent_age_group": "young adult",
+  "relevant_research_topics": ["bacteria_inflammation", "medicine_skincare"],
+  "retrieval_keywords": [
+    "inflammatory papules",
+    "Cutibacterium acnes",
+    "benzoyl peroxide",
+    "topical retinoid",
+    "acne vulgaris treatment",
+    "comedones"
+  ],
+  "other_observations": "inflammatory lesions with some distribution on cheeks"
 }

@@ -8,12 +8,28 @@ from openai import OpenAI
 
 from rag.embeddings import normalize_lm_studio_base_url
 
-DEFAULT_SYSTEM = """You are a research assistant specializing in facial acne.
-Answer the user's question using ONLY the research context provided below.
-- Cite evidence inline as [1], [2], etc., matching the numbered context blocks.
-- If the context does not support an answer, say you cannot find support in the corpus.
-- Do not present yourself as a clinician; summarize what the cited research reports.
-- End with a "Sources" section listing the paper title for each citation you used."""
+RAG_SYSTEM = """You are a research assistant specializing in facial acne vulgaris.
+You have excerpts from a curated corpus on: hormones & genetics, bacteria & inflammation,
+environment & stress, medicine & skincare (retinoids, benzoyl peroxide, azelaic acid, etc.),
+and diet & habits.
+
+Answer using ONLY the numbered research context provided.
+- Write a substantive answer (typically 4–8 paragraphs when sources allow), not a brief bullet list.
+- Synthesize findings across multiple sources; compare or combine results when relevant.
+- Cite every major claim inline as [1], [2], etc., matching the context block numbers.
+- Organize by theme when it helps (causes, mechanisms, treatments, lifestyle factors).
+- If the context does not cover part of the question, state that the corpus does not address it.
+- Do not present yourself as a clinician; report what the cited studies describe.
+- End with a "Sources" section listing the full paper title for each [n] you cited."""
+
+BASE_SYSTEM = """You are a helpful assistant discussing facial acne.
+Answer from your general knowledge only — you do NOT have access to a research paper database in this mode.
+- Do not invent citations, paper titles, or study results.
+- If unsure, say so clearly.
+- Do not present yourself as a clinician; this is informational only."""
+
+# Backward-compatible alias
+DEFAULT_SYSTEM = RAG_SYSTEM
 
 
 class LMStudioChat:
@@ -41,7 +57,7 @@ class LMStudioChat:
         *,
         system: str = DEFAULT_SYSTEM,
         temperature: float = 0.2,
-        max_tokens: int = 1024,
+        max_tokens: int = 1536,
     ) -> str:
         response = self._client.chat.completions.create(
             model=self.model,

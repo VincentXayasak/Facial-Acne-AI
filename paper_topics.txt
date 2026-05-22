@@ -1,0 +1,5 @@
+(Hormones & Genetics): Focuses on how puberty, genetics, and internal body changes cause acne.
+(Bacteria & Inflammation): Focuses on the biology of skin bacteria (like C. acnes) and why the skin gets red or swollen.
+(Environment & Stress): Focuses on how things like sweat, products like towels etc, and mental stress affect the skin.
+(Medicine & Skincare): Focuses on proven ingredients like Retinoids, Benzoyl Peroxide, and Azelaic Acid. This is a big area for the AI to "read".
+(Diet & Habits): Focuses on research about how food (like dairy or sugar), sleep, and washing habits change the skin.

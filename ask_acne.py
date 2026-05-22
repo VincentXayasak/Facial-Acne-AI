@@ -9,6 +9,9 @@ Examples:
   # With photo (Gemini vision → RAG → Llama)
   python ask_acne.py --image photo.jpg --question "What might help based on what you see and the literature?"
 
+  # Base Llama only (Gemini observation still used if --image); no Chroma retrieval
+  python ask_acne.py --no-rag --image photo.jpg --question "What might help for what you see?"
+
   # Skip vision; use a saved observation JSON
   python ask_acne.py --question "Treatment options?" --observation-json observation.json
 
@@ -59,9 +62,14 @@ def parse_args() -> argparse.Namespace:
         help="Skip Gemini; use this JSON observation file",
     )
     parser.add_argument(
+        "--no-rag",
+        action="store_true",
+        help="Use base Llama only (no Chroma); Gemini vision still runs if --image is set",
+    )
+    parser.add_argument(
         "--skip-vision",
         action="store_true",
-        help="Ignore --image for Gemini (retrieval + Llama only)",
+        help="Ignore --image for Gemini (Llama only)",
     )
     parser.add_argument(
         "--chroma-path",
@@ -77,8 +85,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--top-k",
         type=int,
-        default=5,
-        help="Unique paper-section chunks to retrieve",
+        default=7,
+        help="Unique paper-section chunks to retrieve (higher = richer context)",
     )
     parser.add_argument(
         "--json",
@@ -136,7 +144,8 @@ def main() -> int:
         print("Provide --question (or use --ping-chat / --ping-embed).", file=sys.stderr)
         return 1
 
-    if not chroma_path.is_dir():
+    use_rag = not args.no_rag
+    if use_rag and not chroma_path.is_dir():
         print(
             f"Chroma DB not found at {chroma_path}. Run: python ingest_papers.py --reset",
             file=sys.stderr,
@@ -159,10 +168,11 @@ def main() -> int:
             args.question,
             image_path=image_path if not args.skip_vision else None,
             observation=observation,
-            chroma_path=chroma_path,
+            chroma_path=chroma_path if use_rag else None,
             collection_name=collection,
             top_k=args.top_k,
             skip_vision=args.skip_vision,
+            use_rag=use_rag,
         )
     except Exception as exc:
         print(f"Error: {exc}", file=sys.stderr)

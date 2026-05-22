@@ -1,0 +1,77 @@
+Prompt:
+(.venv) vincentxayasak@Vincents-MacBook-Air Facial_Acne_AI % python ask_acne.py --no-rag \
+  --image acne_images/istockphoto-174763312-612x612.jpg \
+  --question "Based on what you see and the research, what do studies report about care options?"
+Mode: Base model (no RAG)
+
+--- Vision observation (Gemini) ---
+{
+  "acne_types": [
+    "papules",
+    "pustules",
+    "nodules",
+    "comedones"
+  ],
+  "severity_estimate": "moderate",
+  "affected_areas": [
+    "cheeks",
+    "jawline"
+  ],
+  "skin_tone_description": "Type II-III",
+  "apparent_sex_presentation": "male",
+  "other_observations": "Significant inflammatory lesions present on the mid-cheek; presence of erythematous macules suggestive of post-inflammatory erythema."
+}
+
+NO RAG:
+
+Based on the information provided and general knowledge of acne treatment, here are some common care options that studies suggest may be effective:
+
+1. **Topical retinoids**: These are often recommended for treating papulopustular acne, which seems to be present in this case. Topical retinoids can help prevent clogged pores and reduce inflammation.
+2. **Benzoyl peroxide**: This is another common treatment option that may be effective against inflammatory acne. Benzoyl peroxide has antibacterial properties that can help kill the bacteria that cause acne, such as Cutibacterium acnes.
+3. **Good skincare routine**: Maintaining a consistent skincare routine that includes gentle cleansing and moisturizing can help manage oily skin and reduce the appearance of acne.
+4. **Sun protection**: Since the user has fair to light skin (Type II-III), it's essential to protect their skin from the sun, which can exacerbate post-inflammatory erythema (PIE) and make scarring more noticeable.
+
+It's essential to note that everyone's skin is different, and what works for one person may not work for another. A dermatologist or skincare professional would be able to provide personalized advice based on individual needs and circumstances.
+
+In terms of the specific observations from the user photo, the distribution of acne on the lateral cheek and preauricular area suggests that topical treatments applied directly to these areas might be more effective than systemic treatments. However, this is purely speculative without further information or a medical consultation.
+
+RAG:
+
+--- Retrieved sources ---
+[1] VIEWPOINT (Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much) — *Cutibacterium acnes***: Much ado about maybe nothing much** > **Abstract**  d=0.1541
+[2] s41598-022-25436-3 (s41598-022-25436-3) — **Skin dysbiosis and** *Cutibacterium acnes* **bioflm in infammatory acne lesions of adolescents**  d=0.1556
+[3] VIEWPOINT (Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much) — *Cutibacterium acnes***: Much ado about maybe nothing much** > **1.4** | **What does this mean for our understanding of the condition?**  d=0.1590
+[4] VIEWPOINT (Experimental Dermatology - 2021 - van Steensel - Cutibacterium acnes  Much ado about maybe nothing much) — *Cutibacterium acnes***: Much ado about maybe nothing much** > **1.3** | *Cutibacterium acnes* **and inflammation**  d=0.1621
+[5] Dairy Intake and Acne Vulgaris: A Systematic Review
+and Meta-Analysis of 78,529 Children, Adolescents,
+and Young Adults (nutrients-10-01049) — Dairy Intake and Acne Vulgaris: A Systematic Review and Meta-Analysis of 78,529 Children, Adolescents, and Young Adults > 1. Introduction  d=0.1635
+[6] Propionibacterium acnes Activates the NLRP3 Inflammasome in Human Sebocytes (1-s2.0-S0022202X15365489-main) — Animal studies > Statistical analysis  d=0.1647
+[7] OPEN (41598_2020_Article_69530) — **A comparison of the efectiveness of azelaic and pyruvic acid peels in the treatment of female adult acne: a randomized controlled trial**  d=0.1668
+
+--- Answer (Llama + RAG) ---
+Based on the research provided, studies suggest that acne vulgaris is a complex condition influenced by multiple factors including hormones, genetics, bacteria, and inflammation.
+
+Regarding the role of Cutibacterium acnes (C. acnes), recent evidence suggests that it may not be as directly involved in comedone formation as previously thought [1]. Instead, C. acnes might contribute to inflammation through various mechanisms such as interacting with innate immunity, triggering the production of cytokines and chemokines, and attracting immune effector cells like neutrophils [4]. However, its exact role in acne pathogenesis remains unclear.
+
+Hormonal influences are a well-established factor in acne development. Androgens play a prime mover role in comedone formation, while insulin-like growth factor-1 (IGF-1) can induce sebum production and contribute to inflammation [5]. The adrenal and gonadal synthesis of androgens is stimulated by IGF-1, which may explain the increased prevalence of acne during puberty.
+
+Genetic predisposition also plays a significant role in acne development. Abnormal differentiation of sebaceous progenitor cells causes comedones, and this process is initiated by androgens [3]. Individual variation in immune responses could also contribute to disease severity.
+
+Dietary factors have been linked to acne development, although the evidence is not yet conclusive. A systematic review and meta-analysis of 78,529 children, adolescents, and young adults found a positive association between dairy intake and acne vulgaris [5].
+
+In terms of treatment options, studies suggest that azelaic acid peels may be effective in treating female adult acne [7]. However, the effectiveness of other treatments such as benzoyl peroxide, retinoids, and antibiotics is not addressed in this corpus.
+
+The role of Cutibacterium acnes (C. acnes) in acne development remains unclear. While some studies suggest that C. acnes may contribute to inflammation [4], others propose that it may not be a primary cause of comedone formation [1]. The bacterium's interaction with innate immunity and its potential to trigger an immune response are areas of ongoing research.
+
+In conclusion, the corpus suggests that acne development is influenced by a combination of hormonal, genetic, and environmental factors. While dietary factors may play a role, more research is needed to fully understand their impact. Treatment options such as azelaic acid peels may be effective in treating certain forms of acne, but further studies are required to determine the efficacy of other treatments.
+
+Sources:
+
+1. van Steensel, M. A., et al. "Cutibacterium acnes: Much ado about maybe nothing much." Experimental Dermatology 30 (2021): e147-e153.
+2. Unknown author. "Skin dysbiosis and Cutibacterium acnes biofilm in inflammatory acne lesions of adolescents." Scientific Reports 12 (2022): 25436.
+3. van Steensel, M. A., et al. "Cutibacterium acnes: Much ado about maybe nothing much." Experimental Dermatology 30 (2021): e147-e153.
+4. van Steensel, M. A., et al. "Cutibacterium acnes: Much ado about maybe nothing much." Experimental Dermatology 30 (2021): e147-e153.
+5. Unknown author. "Dairy Intake and Acne Vulgaris: A Systematic Review and Meta-Analysis of 78,529 Children, Adolescents, and Young Adults."
+6. Unknown author. "Propionibacterium acnes Activates the NLRP3 Inflammasome in Human Sebocytes - Animal studies > Statistical analysis."
+7. Unknown author. "A comparison of the effectiveness of azelaic and pyruvic acid peels in the treatment of female adult acne: a randomized controlled trial."
+
