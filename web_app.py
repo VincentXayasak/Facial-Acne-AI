@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 from flask import Flask, Response, jsonify, render_template, request, stream_with_context
 from werkzeug.utils import secure_filename
 
-from rag.pipeline import stream_rag_events
+from rag.pipeline import parse_history, stream_rag_events
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 UPLOAD_DIR = SCRIPT_DIR / "uploads"
@@ -66,15 +66,18 @@ def api_ask_stream():
         upload.save(dest)
         image_path = dest
 
+    history = parse_history(request.form.get("history"))
+
     def generate():
         try:
             for event in stream_rag_events(
                 question,
                 image_path=image_path,
+                history=history,
                 chroma_path=chroma_path if use_rag else None,
                 collection_name=collection,
                 use_rag=use_rag,
-                top_k=7,
+                top_k=5,
             ):
                 yield _sse(event)
         except Exception as exc:

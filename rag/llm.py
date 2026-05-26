@@ -4,38 +4,69 @@ from __future__ import annotations
 
 import os
 from collections.abc import Iterator
+from typing import Any
 
 from openai import OpenAI
 
 from rag.embeddings import normalize_lm_studio_base_url
 
-RAG_SYSTEM = """You help everyday users understand facial acne using plain language.
-You have short excerpts from peer-reviewed papers (hormones, bacteria, treatments, diet, stress, etc.).
+RAG_SYSTEM = """You explain facial acne to everyday consumers — friendly, clear, and calm.
+You ONLY know facts from the numbered research excerpts in the user's message. You have no other medical knowledge.
 
-STYLE (very important):
-- Write like the no-nonsense, friendly tone of a health blog — NOT like a journal article.
-- Use simple words. If you must use a medical term, explain it in parentheses right after.
-  Example: "Cutibacterium acnes (a common skin bacteria)" not "gram-positive anaerobic bacterium."
-- Use clear section headers and numbered lists for causes, treatments, and tips.
-- Keep paragraphs short (2–4 sentences). No walls of dense science text.
-- Do NOT copy academic phrasing from the sources. Translate study findings into everyday English.
-- Still ground every main point in the provided context and cite as [1], [2], etc.
-- When photo observations are given, briefly acknowledge what was seen, then answer the question.
+STRICT RULES (never break these):
+- Every sentence about causes or treatments MUST come from the excerpts and include a citation [1], [2], etc.
+- Do NOT add generic skincare advice (e.g. wash your face twice daily, don't pick pimples, stay hydrated, use gentle cleanser)
+  unless that exact idea appears in a cited excerpt.
+- Do NOT add an "Extra tips" or "Additional tips" section unless every bullet is directly supported by a cited excerpt.
+- If the excerpts do not mention something the user asked about, say clearly that the retrieved papers do not cover that — do not guess.
+- Never stretch unrelated studies (eczema, contact dermatitis, vinegar, generic moisturizers) into acne treatment advice unless the excerpt explicitly discusses acne treatment.
+- Do not diagnose or prescribe. You can suggest talking to a dermatologist in one short sentence at the end.
 
-CONTENT:
-- Focus on what the research suggests: likely causes, what treatments studies mention, practical takeaways.
-- If the sources do not cover something, say "The papers we have don't really cover that" — don't pad with jargon.
-- Do not diagnose or prescribe. Encourage seeing a dermatologist for persistent or severe acne.
-- End with a short "Sources" section listing paper titles for each [n] you used."""
+TONE (consumer-friendly):
+- Write like a knowledgeable health educator explaining to a curious friend — warm, clear, not clinical.
+- Use plain language. Prefer "oil buildup in pores" over "sebum production" unless the excerpt uses the technical term — then explain it once simply.
+- Avoid sounding scary or overly technical. Skip pathway names (e.g. NLRP3 inflammasome) unless the excerpt focuses on them — then explain in one simple line what it means for the reader.
+- Use simple section headers, e.g. "What might be going on" and "What studies suggest".
+
+LENGTH (important):
+- Give a substantive answer, not a skimpy outline. Use the excerpt text — develop ideas in full sentences and short paragraphs.
+- Do not stop after one sentence per source; elaborate on what each study adds and how it connects to the user's question.
+- Numbered lists are OK only if each item is a mini-paragraph (2–4 sentences), not a single line.
+
+FORMAT:
+- Warm intro (2–3 sentences): acknowledge the photo if provided, then what you're answering.
+- End with **Sources**: list only paper titles you actually cited (match [n] numbers).
+- You may use earlier chat messages only for follow-up context, but new facts still need citations from today's excerpts."""
 
 BASE_SYSTEM = """You are a helpful assistant discussing facial acne.
 Answer from your general knowledge only — you do NOT have access to a research paper database in this mode.
 - Do not invent citations, paper titles, or study results.
 - If unsure, say so clearly.
+- You may refer to earlier messages in this conversation for follow-up questions.
 - Do not present yourself as a clinician; this is informational only."""
 
-# Backward-compatible alias
 DEFAULT_SYSTEM = RAG_SYSTEM
+
+# Prior turns sent to the model (user + assistant pairs).
+MAX_HISTORY_MESSAGES = 12
+
+DEFAULT_MAX_TOKENS = int(os.environ.get("LM_STUDIO_MAX_TOKENS", "3072"))
+
+
+def build_chat_messages(
+    system: str,
+    user_prompt: str,
+    history: list[dict[str, str]] | None = None,
+) -> list[dict[str, str]]:
+    messages: list[dict[str, str]] = [{"role": "system", "content": system}]
+    if history:
+        for msg in history[-MAX_HISTORY_MESSAGES:]:
+            role = msg.get("role")
+            content = (msg.get("content") or "").strip()
+            if role in ("user", "assistant") and content:
+                messages.append({"role": role, "content": content})
+    messages.append({"role": "user", "content": user_prompt})
+    return messages
 
 
 class LMStudioChat:
@@ -57,22 +88,33 @@ class LMStudioChat:
         )
         self._client = OpenAI(base_url=self.base_url, api_key=self.api_key)
 
+    def _completion_kwargs(
+        self,
+        *,
+        temperature: float,
+        max_tokens: int | None,
+    ) -> dict[str, Any]:
+        kwargs: dict[str, Any] = {
+            "model": self.model,
+            "temperature": temperature,
+        }
+        if max_tokens is not None:
+            kwargs["max_tokens"] = max_tokens
+        return kwargs
+
     def complete(
         self,
         user_prompt: str,
         *,
         system: str = DEFAULT_SYSTEM,
+        history: list[dict[str, str]] | None = None,
         temperature: float = 0.2,
-        max_tokens: int = 1536,
+        max_tokens: int = DEFAULT_MAX_TOKENS,
     ) -> str:
+        messages = build_chat_messages(system, user_prompt, history)
         response = self._client.chat.completions.create(
-            model=self.model,
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user_prompt},
-            ],
-            temperature=temperature,
-            max_tokens=max_tokens,
+            messages=messages,
+            **self._completion_kwargs(temperature=temperature, max_tokens=max_tokens),
         )
         choice = response.choices[0].message.content
         return (choice or "").strip()
@@ -82,18 +124,15 @@ class LMStudioChat:
         user_prompt: str,
         *,
         system: str = DEFAULT_SYSTEM,
+        history: list[dict[str, str]] | None = None,
         temperature: float = 0.2,
-        max_tokens: int = 1536,
+        max_tokens: int = DEFAULT_MAX_TOKENS,
     ) -> Iterator[str]:
+        messages = build_chat_messages(system, user_prompt, history)
         stream = self._client.chat.completions.create(
-            model=self.model,
-            messages=[
-                {"role": "system", "content": system},
-                {"role": "user", "content": user_prompt},
-            ],
-            temperature=temperature,
-            max_tokens=max_tokens,
+            messages=messages,
             stream=True,
+            **self._completion_kwargs(temperature=temperature, max_tokens=max_tokens),
         )
         for chunk in stream:
             delta = chunk.choices[0].delta

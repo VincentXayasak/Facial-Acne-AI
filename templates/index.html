@@ -15,244 +15,424 @@
       --accent: #2d6cdf;
       --accent-hover: #2458b8;
       --border: #dce4ee;
+      --user-bg: #e8f0fe;
       --error: #b42318;
     }
     * { box-sizing: border-box; }
+    html, body { height: 100%; margin: 0; }
     body {
-      margin: 0;
       font-family: "Segoe UI", system-ui, -apple-system, sans-serif;
       background: var(--bg);
       color: var(--text);
       line-height: 1.5;
-      min-height: 100vh;
     }
-    .wrap {
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 2rem 1.25rem 3rem;
+    .app {
+      display: flex;
+      height: 100vh;
+      max-height: 100dvh;
     }
-    header { margin-bottom: 1.75rem; }
-    h1 { font-size: 1.5rem; font-weight: 600; margin: 0 0 0.35rem; }
-    .sub { color: var(--muted); font-size: 0.9rem; margin: 0; }
-    .card {
+    .sidebar {
+      width: 260px;
+      flex-shrink: 0;
       background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 1.25rem 1.35rem;
-      margin-bottom: 1rem;
-      box-shadow: 0 1px 3px rgba(26, 35, 50, 0.06);
+      border-right: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
     }
-    label {
-      display: block;
-      font-size: 0.8rem;
-      font-weight: 600;
-      color: var(--muted);
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-      margin-bottom: 0.4rem;
+    .sidebar-head {
+      padding: 1rem;
+      border-bottom: 1px solid var(--border);
     }
-    textarea {
+    .sidebar-head h1 { font-size: 1rem; margin: 0 0 0.25rem; font-weight: 600; }
+    .sidebar-head .sub { font-size: 0.75rem; color: var(--muted); margin: 0; }
+    .btn-new {
       width: 100%;
-      min-height: 100px;
-      padding: 0.75rem;
-      border: 1px solid var(--border);
+      margin-top: 0.75rem;
+      padding: 0.55rem;
+      background: var(--accent);
+      color: #fff;
+      border: none;
       border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+      font-size: 0.85rem;
+    }
+    .btn-new:hover { background: var(--accent-hover); }
+    .history-list {
+      flex: 1;
+      overflow-y: auto;
+      padding: 0.5rem;
+    }
+    .history-item {
+      display: block;
+      width: 100%;
+      text-align: left;
+      padding: 0.6rem 0.65rem;
+      margin-bottom: 0.25rem;
+      border: none;
+      border-radius: 8px;
+      background: transparent;
+      cursor: pointer;
       font: inherit;
-      resize: vertical;
+      font-size: 0.82rem;
+      color: var(--text);
     }
-    textarea:focus {
-      outline: 2px solid var(--accent);
-      outline-offset: 1px;
-      border-color: var(--accent);
+    .history-item:hover { background: #f1f5f9; }
+    .history-item.active { background: var(--user-bg); color: var(--accent); font-weight: 600; }
+    .history-item .title {
+      display: block;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
-    .row { margin-bottom: 1rem; }
-    .file-row { display: flex; gap: 1rem; align-items: flex-start; flex-wrap: wrap; }
-    input[type="file"] { font-size: 0.85rem; max-width: 100%; }
-    #preview {
-      width: 120px; height: 120px; object-fit: cover;
-      border-radius: 8px; border: 1px solid var(--border); display: none;
+    .history-item .date { font-size: 0.7rem; color: var(--muted); }
+    .btn-clear {
+      margin: 0.5rem;
+      padding: 0.45rem;
+      font-size: 0.75rem;
+      background: transparent;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      color: var(--muted);
+      cursor: pointer;
+    }
+    .main {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      min-width: 0;
+    }
+    .toolbar {
+      padding: 0.65rem 1rem;
+      background: var(--card);
+      border-bottom: 1px solid var(--border);
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      font-size: 0.85rem;
     }
     .toggle {
-      display: flex; align-items: center; gap: 0.5rem;
-      font-size: 0.95rem; cursor: pointer;
+      display: flex;
+      align-items: center;
+      gap: 0.4rem;
+      cursor: pointer;
     }
-    .toggle input { width: 1rem; height: 1rem; accent-color: var(--accent); }
-    button[type="submit"] {
-      width: 100%; padding: 0.85rem 1rem;
-      background: var(--accent); color: #fff; border: none;
-      border-radius: 8px; font-size: 1rem; font-weight: 600;
-      cursor: pointer; margin-top: 0.5rem;
+    .toggle input { accent-color: var(--accent); }
+    #status { color: var(--muted); flex: 1; min-width: 120px; }
+    .messages {
+      flex: 1;
+      overflow-y: auto;
+      padding: 1rem 1.25rem;
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
     }
-    button[type="submit"]:hover:not(:disabled) { background: var(--accent-hover); }
-    button[type="submit"]:disabled { opacity: 0.65; cursor: not-allowed; }
-    #status {
-      text-align: center; color: var(--muted); font-size: 0.9rem;
-      padding: 0.75rem; display: none;
-    }
-    #status.loading { display: block; }
-    .err {
-      background: #fef2f2; border: 1px solid #fecaca; color: var(--error);
-      padding: 0.75rem 1rem; border-radius: 8px; font-size: 0.9rem; display: none;
-    }
-    .err.visible { display: block; }
-    #results { display: none; }
-    #results.visible { display: block; }
-    .badge {
-      display: inline-block; font-size: 0.75rem; font-weight: 600;
-      padding: 0.2rem 0.55rem; border-radius: 999px;
-      background: #e8f0fe; color: var(--accent); margin-bottom: 0.75rem;
-    }
-    .section-title {
-      font-size: 0.8rem; font-weight: 600; color: var(--muted);
-      text-transform: uppercase; letter-spacing: 0.04em; margin: 0 0 0.5rem;
-    }
-    pre.json {
-      background: #f8fafc; border: 1px solid var(--border); border-radius: 8px;
-      padding: 0.75rem; font-size: 0.78rem; margin: 0;
-      white-space: pre-wrap; word-break: break-word;
-    }
-    .sources { list-style: none; padding: 0; margin: 0; }
-    .sources li {
-      padding: 0.5rem 0; border-bottom: 1px solid var(--border); font-size: 0.88rem;
-    }
-    .sources li:last-child { border-bottom: none; }
-    .sources .cite { font-weight: 700; color: var(--accent); margin-right: 0.35rem; }
-
-    /* Rendered markdown answer */
-    .answer {
+    .empty-state {
+      color: var(--muted);
+      text-align: center;
+      padding: 3rem 1rem;
       font-size: 0.95rem;
-      line-height: 1.65;
     }
-    .answer.streaming .cursor {
+    .msg {
+      max-width: 92%;
+    }
+    .msg.user {
+      align-self: flex-end;
+      background: var(--user-bg);
+      border-radius: 12px 12px 4px 12px;
+      padding: 0.75rem 1rem;
+    }
+    .msg.assistant {
+      align-self: flex-start;
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px 12px 12px 4px;
+      padding: 0.85rem 1rem;
+      max-width: 95%;
+    }
+    .msg-role {
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      color: var(--muted);
+      margin-bottom: 0.35rem;
+    }
+    .msg-body { font-size: 0.95rem; line-height: 1.65; }
+    .msg-body.streaming .cursor {
       display: inline-block;
-      width: 2px;
-      height: 1em;
+      width: 2px; height: 1em;
       background: var(--accent);
       margin-left: 2px;
       vertical-align: text-bottom;
       animation: blink 0.9s step-end infinite;
     }
     @keyframes blink { 50% { opacity: 0; } }
-    .answer h1, .answer h2, .answer h3, .answer h4 {
-      margin: 1.1rem 0 0.5rem;
-      line-height: 1.3;
-      font-weight: 600;
-    }
-    .answer h1 { font-size: 1.2rem; }
-    .answer h2 { font-size: 1.1rem; }
-    .answer h3 { font-size: 1rem; }
-    .answer p { margin: 0 0 0.75rem; }
-    .answer p:last-child { margin-bottom: 0; }
-    .answer ul, .answer ol {
-      margin: 0 0 0.85rem;
-      padding-left: 1.35rem;
-    }
-    .answer li { margin-bottom: 0.35rem; }
-    .answer li > ul, .answer li > ol { margin-top: 0.35rem; margin-bottom: 0; }
-    .answer strong { font-weight: 600; }
-    .answer em { font-style: italic; }
-    .answer code {
-      font-size: 0.88em;
-      background: #f1f5f9;
-      padding: 0.1em 0.35em;
-      border-radius: 4px;
-    }
-    .answer blockquote {
-      margin: 0 0 0.75rem;
-      padding-left: 0.85rem;
-      border-left: 3px solid var(--border);
+    .msg-meta {
+      margin-top: 0.65rem;
+      padding-top: 0.65rem;
+      border-top: 1px solid var(--border);
+      font-size: 0.78rem;
       color: var(--muted);
     }
-    .answer hr {
-      border: none;
+    .msg-meta details summary { cursor: pointer; color: var(--accent); }
+    .sources-mini { list-style: none; padding: 0.4rem 0 0; margin: 0; }
+    .sources-mini li { padding: 0.2rem 0; }
+    .composer {
+      background: var(--card);
       border-top: 1px solid var(--border);
-      margin: 1rem 0;
+      padding: 0.85rem 1rem 1rem;
     }
-    footer {
-      margin-top: 2rem; font-size: 0.75rem;
-      color: var(--muted); text-align: center;
+    .composer textarea {
+      width: 100%;
+      min-height: 72px;
+      padding: 0.65rem;
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      font: inherit;
+      resize: vertical;
+    }
+    .composer-row {
+      display: flex;
+      gap: 0.75rem;
+      align-items: center;
+      margin-top: 0.5rem;
+      flex-wrap: wrap;
+    }
+    .composer-row input[type="file"] { font-size: 0.8rem; max-width: 200px; }
+    #preview {
+      width: 48px; height: 48px; object-fit: cover;
+      border-radius: 6px; border: 1px solid var(--border); display: none;
+    }
+    .btn-send {
+      margin-left: auto;
+      padding: 0.6rem 1.25rem;
+      background: var(--accent);
+      color: #fff;
+      border: none;
+      border-radius: 8px;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .btn-send:hover:not(:disabled) { background: var(--accent-hover); }
+    .btn-send:disabled { opacity: 0.6; cursor: not-allowed; }
+    .err {
+      margin: 0 1rem 0.5rem;
+      background: #fef2f2;
+      border: 1px solid #fecaca;
+      color: var(--error);
+      padding: 0.6rem 0.85rem;
+      border-radius: 8px;
+      font-size: 0.85rem;
+      display: none;
+    }
+    .err.visible { display: block; }
+    .msg-body h1, .msg-body h2, .msg-body h3 { margin: 0.85rem 0 0.4rem; font-size: 1.05rem; }
+    .msg-body p { margin: 0 0 0.65rem; }
+    .msg-body ul, .msg-body ol { margin: 0 0 0.65rem; padding-left: 1.25rem; }
+    .msg-body li { margin-bottom: 0.25rem; }
+    .msg-body strong { font-weight: 600; }
+    @media (max-width: 720px) {
+      .sidebar { width: 200px; }
+      .msg.user, .msg.assistant { max-width: 100%; }
     }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <h1>Facial Acne Research Assistant</h1>
-      <p class="sub">Gemini vision → peer-reviewed papers (RAG) → Llama 3.2</p>
-    </header>
+  <div class="app">
+    <aside class="sidebar">
+      <div class="sidebar-head">
+        <h1>Facial Acne AI Assistant</h1>
+        <p class="sub">AI Responses Can Be Wrong, Please Verify With A Doctor</p>
+        <button type="button" class="btn-new" id="btn-new">+ New chat</button>
+      </div>
+      <div class="history-list" id="history-list"></div>
+      <button type="button" class="btn-clear" id="btn-clear">Clear all history</button>
+    </aside>
 
-    <form id="form" class="card">
-      <div class="row">
-        <label for="question">Your question</label>
-        <textarea id="question" name="question" required
-          placeholder="e.g. Based on what you see and the research, what do studies report about care options?"></textarea>
-      </div>
-      <div class="row">
-        <label>Face photo (optional)</label>
-        <div class="file-row">
-          <input type="file" id="image" name="image" accept="image/jpeg,image/png,image/webp" />
-          <img id="preview" alt="Preview" />
-        </div>
-      </div>
-      <div class="row">
+    <div class="main">
+      <div class="toolbar">
         <label class="toggle">
-          <input type="checkbox" id="use_rag" name="use_rag" value="true" checked />
+          <input type="checkbox" id="use_rag" checked />
           Use research papers (RAG)
         </label>
-        <p class="sub" style="margin: 0.35rem 0 0 1.5rem; font-size: 0.8rem;">
-          Uncheck to compare base Llama without paper retrieval.
-        </p>
+        <span id="status"></span>
       </div>
-      <button type="submit" id="submit">Ask</button>
-      <p id="status" class="loading"></p>
-    </form>
-
-    <div id="error" class="err" role="alert"></div>
-
-    <div id="results">
-      <div class="card">
-        <span id="mode-badge" class="badge"></span>
-        <div id="obs-block" style="display: none;">
-          <p class="section-title">Vision observation (Gemini)</p>
-          <pre id="observation" class="json"></pre>
+      <div id="error" class="err" role="alert"></div>
+      <div class="messages" id="messages"></div>
+      <form id="form" class="composer">
+        <textarea id="question" name="question" required
+          placeholder="Ask about causes, treatments, or what studies say…"></textarea>
+        <div class="composer-row">
+          <input type="file" id="image" name="image" accept="image/jpeg,image/png,image/webp" />
+          <img id="preview" alt="" />
+          <button type="submit" class="btn-send" id="submit">Send</button>
         </div>
-      </div>
-      <div id="sources-block" class="card" style="display: none;">
-        <p class="section-title">Retrieved sources</p>
-        <ul id="sources" class="sources"></ul>
-      </div>
-      <div class="card">
-        <p class="section-title">Answer</p>
-        <div id="answer" class="answer"></div>
-      </div>
+      </form>
     </div>
-
-    <footer>
-      For research and education only — not medical advice. Requires LM Studio and Gemini API.
-    </footer>
   </div>
 
   <script>
     marked.setOptions({ breaks: true, gfm: true });
 
+    const STORAGE_KEY = "acne_assistant_sessions";
+    const state = {
+      sessions: [],
+      currentId: null,
+      streaming: false,
+      streamMarkdown: "",
+    };
+
+    const historyList = document.getElementById("history-list");
+    const messagesEl = document.getElementById("messages");
     const form = document.getElementById("form");
+    const questionEl = document.getElementById("question");
     const imageInput = document.getElementById("image");
     const preview = document.getElementById("preview");
     const submitBtn = document.getElementById("submit");
     const statusEl = document.getElementById("status");
     const errorEl = document.getElementById("error");
-    const resultsEl = document.getElementById("results");
-    const answerEl = document.getElementById("answer");
+    const useRagEl = document.getElementById("use_rag");
 
-    let answerMarkdown = "";
+    function uid() {
+      return crypto.randomUUID ? crypto.randomUUID() : Date.now().toString(36);
+    }
+
+    function loadSessions() {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        state.sessions = raw ? JSON.parse(raw) : [];
+      } catch {
+        state.sessions = [];
+      }
+      if (!state.sessions.length) {
+        createSession(false);
+      } else if (!state.currentId || !state.sessions.find((s) => s.id === state.currentId)) {
+        state.currentId = state.sessions[0].id;
+      }
+    }
+
+    function saveSessions() {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(state.sessions));
+    }
+
+    function currentSession() {
+      return state.sessions.find((s) => s.id === state.currentId);
+    }
+
+    function createSession(select = true) {
+      const session = {
+        id: uid(),
+        title: "New chat",
+        updatedAt: new Date().toISOString(),
+        messages: [],
+      };
+      state.sessions.unshift(session);
+      if (select) state.currentId = session.id;
+      saveSessions();
+      renderHistory();
+      renderMessages();
+    }
+
+    function sessionTitle(session) {
+      const first = session.messages.find((m) => m.role === "user");
+      if (first) return first.content.slice(0, 48) + (first.content.length > 48 ? "…" : "");
+      return "New chat";
+    }
+
+    function renderHistory() {
+      historyList.innerHTML = "";
+      state.sessions.forEach((s) => {
+        s.title = sessionTitle(s);
+        const btn = document.createElement("button");
+        btn.type = "button";
+        btn.className = "history-item" + (s.id === state.currentId ? " active" : "");
+        btn.innerHTML =
+          `<span class="title">${escapeHtml(s.title)}</span>` +
+          `<span class="date">${new Date(s.updatedAt).toLocaleString()}</span>`;
+        btn.onclick = () => {
+          state.currentId = s.id;
+          renderHistory();
+          renderMessages();
+        };
+        historyList.appendChild(btn);
+      });
+    }
+
+    function renderMarkdown(md, streaming) {
+      const html = DOMPurify.sanitize(marked.parse(md || ""));
+      return html + (streaming ? '<span class="cursor"></span>' : "");
+    }
+
+    function renderMessages() {
+      const session = currentSession();
+      messagesEl.innerHTML = "";
+      if (!session || !session.messages.length) {
+        messagesEl.innerHTML =
+          '<p class="empty-state">Upload an optional face photo and ask a question. ' +
+          "Past chats are saved in the sidebar.</p>";
+        return;
+      }
+      session.messages.forEach((msg, idx) => {
+        const div = document.createElement("div");
+        div.className = "msg " + msg.role;
+        const roleLabel = msg.role === "user" ? "You" : "Assistant";
+        let metaHtml = "";
+        if (msg.role === "assistant" && msg.meta) {
+          const parts = [];
+          if (msg.meta.use_rag !== undefined) {
+            parts.push(msg.meta.use_rag ? "RAG (research papers)" : "Base model");
+          }
+          if (msg.meta.sources && msg.meta.sources.length) {
+            const items = msg.meta.sources
+              .map(
+                (s) =>
+                  `<li><strong>[${s.cite}]</strong> ${escapeHtml(s.title)}</li>`
+              )
+              .join("");
+            parts.push(
+              `<details><summary>Sources (${msg.meta.sources.length})</summary>` +
+              `<ul class="sources-mini">${items}</ul></details>`
+            );
+          }
+          if (msg.meta.observation) {
+            parts.push(
+              `<details><summary>Vision notes</summary><pre style="white-space:pre-wrap;font-size:0.72rem">${escapeHtml(JSON.stringify(msg.meta.observation, null, 2))}</pre></details>`
+            );
+          }
+          if (parts.length) {
+            metaHtml = `<div class="msg-meta">${parts.join("")}</div>`;
+          }
+        }
+        const isLastStreaming =
+          state.streaming &&
+          idx === session.messages.length - 1 &&
+          msg.role === "assistant";
+        div.innerHTML =
+          `<div class="msg-role">${roleLabel}</div>` +
+          `<div class="msg-body${isLastStreaming ? " streaming" : ""}">${renderMarkdown(msg.content, isLastStreaming)}</div>` +
+          metaHtml;
+        messagesEl.appendChild(div);
+      });
+      messagesEl.scrollTop = messagesEl.scrollHeight;
+    }
+
     let renderScheduled = false;
-
-    imageInput.addEventListener("change", () => {
-      const file = imageInput.files[0];
-      if (!file) { preview.style.display = "none"; return; }
-      preview.src = URL.createObjectURL(file);
-      preview.style.display = "block";
-    });
+    function scheduleStreamRender() {
+      if (renderScheduled) return;
+      renderScheduled = true;
+      requestAnimationFrame(() => {
+        renderScheduled = false;
+        const session = currentSession();
+        if (!session) return;
+        const last = session.messages[session.messages.length - 1];
+        if (last && last.role === "assistant") {
+          last.content = state.streamMarkdown;
+          renderMessages();
+        }
+      });
+    }
 
     function escapeHtml(s) {
       const d = document.createElement("div");
@@ -260,87 +440,69 @@
       return d.innerHTML;
     }
 
-    function renderAnswer(streaming) {
-      const html = DOMPurify.sanitize(marked.parse(answerMarkdown || ""));
-      answerEl.innerHTML = html + (streaming ? '<span class="cursor"></span>' : "");
-      answerEl.classList.toggle("streaming", streaming);
+    function historyForApi(session) {
+      return session.messages.map((m) => ({
+        role: m.role,
+        content: m.content,
+      }));
     }
 
-    function scheduleRender(streaming) {
-      if (renderScheduled) return;
-      renderScheduled = true;
-      requestAnimationFrame(() => {
-        renderScheduled = false;
-        renderAnswer(streaming);
-      });
-    }
-
-    function showMeta(data) {
-      document.getElementById("mode-badge").textContent = data.use_rag
-        ? "RAG — grounded in research papers"
-        : "Base model — no paper retrieval";
-
-      const obsBlock = document.getElementById("obs-block");
-      if (data.observation) {
-        obsBlock.style.display = "block";
-        document.getElementById("observation").textContent =
-          JSON.stringify(data.observation, null, 2);
-      } else {
-        obsBlock.style.display = "none";
+    imageInput.addEventListener("change", () => {
+      const file = imageInput.files[0];
+      if (!file) {
+        preview.style.display = "none";
+        return;
       }
+      preview.src = URL.createObjectURL(file);
+      preview.style.display = "block";
+    });
 
-      const srcBlock = document.getElementById("sources-block");
-      const srcList = document.getElementById("sources");
-      srcList.innerHTML = "";
-      if (data.sources && data.sources.length) {
-        srcBlock.style.display = "block";
-        data.sources.forEach((s) => {
-          const li = document.createElement("li");
-          li.innerHTML =
-            `<span class="cite">[${s.cite}]</span>` +
-            `<strong>${escapeHtml(s.title)}</strong><br>` +
-            `<span style="color:var(--muted)">${escapeHtml(s.section || "")} · ${escapeHtml(s.paper_id)}</span>`;
-          srcList.appendChild(li);
-        });
-      } else {
-        srcBlock.style.display = "none";
-      }
-    }
+    document.getElementById("btn-new").onclick = () => createSession(true);
+    document.getElementById("btn-clear").onclick = () => {
+      if (!confirm("Delete all chat history on this device?")) return;
+      state.sessions = [];
+      createSession(true);
+    };
 
-    async function consumeSSE(reader) {
+    async function consumeSSE(reader, session, assistantMsg) {
       const decoder = new TextDecoder();
       let buffer = "";
+      state.streamMarkdown = "";
 
       while (true) {
         const { done, value } = await reader.read();
         if (done) break;
         buffer += decoder.decode(value, { stream: true });
-
         const parts = buffer.split("\n\n");
         buffer = parts.pop() || "";
 
         for (const part of parts) {
           const line = part.trim();
           if (!line.startsWith("data:")) continue;
-          const jsonStr = line.slice(5).trim();
-          if (!jsonStr) continue;
+          const event = JSON.parse(line.slice(5).trim());
 
-          const event = JSON.parse(jsonStr);
           if (event.type === "status") {
             statusEl.textContent = event.message;
-            statusEl.classList.add("loading");
           } else if (event.type === "meta") {
-            showMeta(event);
-            resultsEl.classList.add("visible");
-            answerMarkdown = "";
-            renderAnswer(true);
+            assistantMsg.meta = {
+              use_rag: event.use_rag,
+              observation: event.observation,
+              sources: event.sources,
+            };
+            statusEl.textContent = "Writing answer…";
+            renderMessages();
           } else if (event.type === "token") {
-            answerMarkdown += event.text;
-            scheduleRender(true);
+            state.streamMarkdown += event.text;
+            scheduleStreamRender();
           } else if (event.type === "error") {
             throw new Error(event.message);
           } else if (event.type === "done") {
-            renderAnswer(false);
+            assistantMsg.content = state.streamMarkdown;
+            state.streaming = false;
+            session.updatedAt = new Date().toISOString();
+            saveSessions();
+            renderHistory();
+            renderMessages();
           }
         }
       }
@@ -348,35 +510,71 @@
 
     form.addEventListener("submit", async (e) => {
       e.preventDefault();
-      errorEl.classList.remove("visible");
-      resultsEl.classList.remove("visible");
-      submitBtn.disabled = true;
-      answerMarkdown = "";
-      answerEl.innerHTML = "";
-      statusEl.textContent = "Starting…";
-      statusEl.classList.add("loading");
+      const session = currentSession();
+      if (!session) return;
 
-      const fd = new FormData(form);
-      if (!document.getElementById("use_rag").checked) {
-        fd.set("use_rag", "false");
+      const question = questionEl.value.trim();
+      if (!question) return;
+
+      errorEl.classList.remove("visible");
+      submitBtn.disabled = true;
+      state.streaming = true;
+
+      const userMsg = {
+        role: "user",
+        content: question,
+        use_rag: useRagEl.checked,
+      };
+      session.messages.push(userMsg);
+
+      const assistantMsg = { role: "assistant", content: "", meta: null };
+      session.messages.push(assistantMsg);
+
+      questionEl.value = "";
+      renderMessages();
+
+      const fd = new FormData();
+      fd.append("question", question);
+      fd.append("use_rag", useRagEl.checked ? "true" : "false");
+      fd.append(
+        "history",
+        JSON.stringify(session.messages.slice(0, -2).map((m) => ({
+          role: m.role,
+          content: m.content,
+        })))
+      );
+      if (imageInput.files[0]) {
+        fd.append("image", imageInput.files[0]);
+        imageInput.value = "";
+        preview.style.display = "none";
       }
 
       try {
+        statusEl.textContent = "Starting…";
         const res = await fetch("/api/ask/stream", { method: "POST", body: fd });
         if (!res.ok) {
           const err = await res.json().catch(() => ({}));
           throw new Error(err.error || res.statusText);
         }
-        await consumeSSE(res.body.getReader());
+        await consumeSSE(res.body.getReader(), session, assistantMsg);
       } catch (err) {
+        session.messages.pop();
+        session.messages.pop();
         errorEl.textContent = err.message;
         errorEl.classList.add("visible");
+        state.streaming = false;
+        renderMessages();
       } finally {
         submitBtn.disabled = false;
-        statusEl.classList.remove("loading");
         statusEl.textContent = "";
+        saveSessions();
+        renderHistory();
       }
     });
+
+    loadSessions();
+    renderHistory();
+    renderMessages();
   </script>
 </body>
 </html>

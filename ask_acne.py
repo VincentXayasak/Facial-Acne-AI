@@ -85,8 +85,8 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--top-k",
         type=int,
-        default=7,
-        help="Unique paper-section chunks to retrieve (higher = richer context)",
+        default=5,
+        help="Number of research excerpts to retrieve (default 5)",
     )
     parser.add_argument(
         "--json",

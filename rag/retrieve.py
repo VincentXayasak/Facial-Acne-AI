@@ -8,6 +8,11 @@ from pathlib import Path
 
 from rag.embeddings import LMStudioEmbeddingFunction
 from rag.ingest import query_collection
+from rag.relevance import (
+    chunk_passes_relevance,
+    is_causes_query,
+    is_treatment_query,
+)
 from rag.topics import (
     CORPUS_TOPICS,
     TOPIC_SEARCH_TERMS,
@@ -26,7 +31,9 @@ class RetrievedChunk:
 
 
 def _dedupe_key(meta: dict) -> str:
-    return f"{meta.get('base_name', '')}::{meta.get('section', '')}"
+    base = meta.get("base_name", "")
+    idx = meta.get("chunk_index", "")
+    return f"{base}::{idx}"
 
 
 def _merge_chunk(
@@ -48,9 +55,32 @@ def _merge_chunk(
         best[key] = chunk
 
 
+def _one_best_chunk_per_paper(
+    candidates: list[RetrievedChunk], top_k: int
+) -> list[RetrievedChunk]:
+    """Keep the closest chunk per paper so sources are diverse."""
+    by_paper: dict[str, RetrievedChunk] = {}
+    for chunk in sorted(candidates, key=lambda c: c.distance):
+        if chunk.base_name not in by_paper:
+            by_paper[chunk.base_name] = chunk
+    ranked = sorted(by_paper.values(), key=lambda c: c.distance)[:top_k]
+    return [
+        RetrievedChunk(
+            index=i + 1,
+            text=c.text,
+            title=c.title,
+            section=c.section,
+            base_name=c.base_name,
+            distance=c.distance,
+        )
+        for i, c in enumerate(ranked)
+    ]
+
+
 def retrieve_chunks(
     query_text: str,
     *,
+    question: str | None = None,
     chroma_path: Path,
     collection_name: str,
     embedding_fn: LMStudioEmbeddingFunction,
@@ -58,14 +88,15 @@ def retrieve_chunks(
     fetch_k: int | None = None,
     extra_queries: list[str] | None = None,
 ) -> list[RetrievedChunk]:
-    """Retrieve top-k unique (paper, section) chunks; optional multi-query merge."""
+    """Retrieve top-k chunks from distinct papers after relevance filtering."""
+    question = question or query_text
     queries = [query_text]
     if extra_queries:
         for q in extra_queries:
             if q and q not in queries:
                 queries.append(q)
 
-    per_query_k = fetch_k or max(top_k * 2, 8)
+    per_query_k = fetch_k or max(top_k * 5, 20)
     best: dict[str, RetrievedChunk] = {}
 
     for q in queries:
@@ -82,18 +113,27 @@ def retrieve_chunks(
         for doc, meta, dist in zip(docs, metas, dists):
             _merge_chunk(best, doc, meta, dist)
 
-    ranked = sorted(best.values(), key=lambda c: c.distance)[:top_k]
-    return [
-        RetrievedChunk(
-            index=i + 1,
-            text=c.text,
-            title=c.title,
-            section=c.section,
-            base_name=c.base_name,
-            distance=c.distance,
-        )
-        for i, c in enumerate(ranked)
+    filtered = [
+        c
+        for c in best.values()
+        if chunk_passes_relevance(c.text, c.title, c.distance, question=question)
     ]
+
+    # If filters are too strict, fall back to best distance matches that at least mention acne.
+    if len(filtered) < top_k:
+        fallback = [
+            c for c in sorted(best.values(), key=lambda x: x.distance)
+            if "acne" in (c.title + c.text).lower()
+        ]
+        seen = {c.base_name for c in filtered}
+        for c in fallback:
+            if c.base_name not in seen:
+                filtered.append(c)
+                seen.add(c.base_name)
+            if len(filtered) >= top_k:
+                break
+
+    return _one_best_chunk_per_paper(filtered, top_k)
 
 
 def format_context_block(chunk: RetrievedChunk) -> str:
@@ -113,10 +153,18 @@ def _format_observation_value(value) -> str:
 
 def build_retrieval_query(question: str, observation: dict | None) -> str:
     """Primary embedding query: question + vision + topic vocabulary."""
-    if not observation:
-        return question
-
     parts = [question]
+
+    if is_treatment_query(question):
+        parts.append(
+            "acne vulgaris treatment benzoyl peroxide retinoid topical therapy clinical"
+        )
+    elif is_causes_query(question):
+        parts.append("acne vulgaris causes hormones sebum Cutibacterium acnes inflammation")
+
+    if not observation:
+        return " | ".join(parts)
+
     field_map = [
         ("acne_types", "lesions"),
         ("severity_estimate", "severity"),
@@ -146,25 +194,35 @@ def build_retrieval_query(question: str, observation: dict | None) -> str:
 
 
 def build_extra_retrieval_queries(
-    question: str, observation: dict | None
+    question: str, observation: dict | None = None
 ) -> list[str]:
-    """Topic-focused queries so retrieval spans hormones, bacteria, treatments, diet, etc."""
-    if not observation:
-        return []
-
+    """Extra searches tuned to what the user actually asked."""
     extra: list[str] = []
-    topics = observation.get("relevant_research_topics") or infer_topics_from_observation(
-        observation
-    )
-    keywords = observation.get("retrieval_keywords") or []
 
-    for topic_id in topics[:4]:
-        terms = TOPIC_SEARCH_TERMS.get(topic_id, [])
-        if terms:
-            extra.append(f"{question} {' '.join(terms[:10])}")
+    if is_treatment_query(question):
+        med = " ".join(TOPIC_SEARCH_TERMS["medicine_skincare"][:10])
+        extra.append(f"{question} {med}")
+        extra.append(
+            f"{question} acne vulgaris randomized topical benzoyl peroxide retinoid treatment efficacy"
+        )
+    elif is_causes_query(question):
+        extra.append(
+            f"{question} acne vulgaris pathogenesis sebaceous hormones Cutibacterium acnes"
+        )
+    else:
+        extra.append(f"{question} acne vulgaris facial acne research")
 
-    if keywords:
-        extra.append(f"{question} {' '.join(str(k) for k in keywords[:12])}")
+    if observation:
+        topics = observation.get("relevant_research_topics") or infer_topics_from_observation(
+            observation
+        )
+        keywords = observation.get("retrieval_keywords") or []
+        for topic_id in topics[:2]:
+            terms = TOPIC_SEARCH_TERMS.get(topic_id, [])
+            if terms:
+                extra.append(f"{question} {' '.join(terms[:8])}")
+        if keywords:
+            extra.append(f"{question} {' '.join(str(k) for k in keywords[:10])}")
 
     return extra
 
@@ -191,26 +249,41 @@ def build_user_prompt(
                 + "\n\n"
             )
 
+    treatment_note = ""
+    if is_treatment_query(question):
+        treatment_note = (
+            "The user asked about treatment or a product routine. "
+            "If the excerpts do NOT describe specific acne treatments, products, or regimens, "
+            "say clearly: 'The papers we retrieved don't lay out a step-by-step product routine.' "
+            "Do NOT repurpose eczema, contact dermatitis, vinegar, or general moisturizer studies as acne advice.\n\n"
+        )
+
     return (
         f"{obs_block}{topic_block}"
         f"User question: {question}\n\n"
-        f"Research context ({len(chunks)} paper excerpts — for your facts only, do not copy their wording):\n"
+        f"{treatment_note}"
+        f"Research context ({len(chunks)} excerpts from {len(chunks)} different papers — "
+        f"these are your ONLY allowed facts):\n"
         f"{context}\n\n"
-        "Write a clear, easy-to-read answer using ONLY the facts in the excerpts above.\n"
-        "Structure example:\n"
-        "1) Brief intro (what you see in the photo if provided + what the question is about)\n"
-        "2) **Main causes** — numbered list in plain English, with [1], [2] citations\n"
-        "3) **What research suggests for care** — numbered practical steps or options, with citations\n"
-        "4) **Extra tips** — short bullets if sources support them\n"
-        "5) Short closing reminder (patience, see a dermatologist if needed)\n"
-        "6) **Sources** — list paper titles\n\n"
-        "Remember: simplify the science. No words like pathogenesis, phylotypes, dysbiosis, or "
-        "follicular hyper-keratinization unless you immediately explain them in simple terms."
+        "Write a detailed, consumer-friendly answer using ONLY information from the excerpts above.\n"
+        "LENGTH: Aim for a full, helpful reply — usually at least 4–6 paragraphs or equivalent depth. "
+        "Do not give a thin bullet list of one-liners.\n"
+        "- For each idea, write 2–4 sentences that explain what the research found and what it means "
+        "for someone reading this, with citation(s) [n] inline.\n"
+        "- Combine related facts from different [n] blocks into the same paragraph when they fit.\n"
+        "- Translate study language into plain English; do not copy academic wording.\n"
+        "- Do NOT invent lifestyle tips, hygiene routines, or warnings that are not in the excerpts.\n"
+        "- If a topic is missing from the excerpts, say the papers do not address it.\n"
+        "Suggested flow:\n"
+        "1) Friendly intro (2–3 sentences): photo + what you will cover\n"
+        "2) **What might be going on** — developed paragraphs with [n] citations (skip if user only asked about treatment)\n"
+        "3) **What studies suggest** — developed paragraphs on treatments/findings with [n] citations\n"
+        "4) Optional: 1–2 sentences suggesting a dermatologist for personal medical advice\n"
+        "5) **Sources** — paper titles for each [n] you used"
     )
 
 
 def build_base_prompt(question: str, observation: dict | None = None) -> str:
-    """User prompt for Llama without RAG (Gemini observation optional)."""
     obs_block = ""
     if observation:
         obs_block = (
