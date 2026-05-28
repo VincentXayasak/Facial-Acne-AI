@@ -13,6 +13,7 @@ from rag.relevance import (
     is_causes_query,
     is_treatment_query,
 )
+from rag.clean import sanitize_inline_citations
 from rag.topics import (
     CORPUS_TOPICS,
     TOPIC_SEARCH_TERMS,
@@ -142,7 +143,8 @@ def format_context_block(chunk: RetrievedChunk) -> str:
         header += f" — {chunk.section}"
     if chunk.base_name:
         header += f" (id: {chunk.base_name})"
-    return f"{header}\n{chunk.text}"
+    body = sanitize_inline_citations(chunk.text)
+    return f"{header}\n{body}"
 
 
 def _format_observation_value(value) -> str:
@@ -265,6 +267,9 @@ def build_user_prompt(
         f"Research context ({len(chunks)} excerpts from {len(chunks)} different papers — "
         f"these are your ONLY allowed facts):\n"
         f"{context}\n\n"
+        f"CITATIONS: Use ONLY excerpt numbers [1] through [{len(chunks)}] from the headers above. "
+        "Never use numbers copied from inside an excerpt (those were removed when possible). "
+        "Each fact must cite the excerpt it came from.\n\n"
         "Write a detailed, consumer-friendly answer using ONLY information from the excerpts above.\n"
         "LENGTH: Aim for a full, helpful reply — usually at least 4–6 paragraphs or equivalent depth. "
         "Do not give a thin bullet list of one-liners.\n"

@@ -48,3 +48,46 @@ def is_substantive(text: str, min_chars: int = 80) -> bool:
     """Skip empty or tiny fragments after cleaning."""
     stripped = re.sub(r"\s+", "", text)
     return len(stripped) >= min_chars
+
+
+# In-paper bibliography (not RAG excerpt labels). Applied when building the LLM prompt.
+_BRACKET_NUM_CITE = re.compile(r"\[(?:\s*\d+\s*(?:,\s*\d+\s*)*)\]")
+_PAGE_ANCHOR = re.compile(r"\]\(#page-\d+-\d+\)")
+
+
+def _strip_page_anchor_refs(text: str) -> str:
+    """Remove Marker/PDF links like [26](#page-9-0) or [[42\\]](#page-10-0)."""
+    while True:
+        match = _PAGE_ANCHOR.search(text)
+        if not match:
+            break
+        bracket_start = text.rfind("[", 0, match.start())
+        if bracket_start < 0:
+            break
+        text = text[:bracket_start] + text[match.end() :]
+    return text
+
+
+def sanitize_inline_citations(text: str) -> str:
+    """Strip the source paper's in-text reference numbers from excerpt bodies.
+
+    RAG uses [1], [2], … only as excerpt header labels. Without this, models
+    often copy bibliography markers like [26, 37] from the chunk text.
+    """
+    text = _strip_page_anchor_refs(text)
+    text = _BRACKET_NUM_CITE.sub("", text)
+    text = re.sub(r"\\\]", "", text)
+    text = re.sub(r"\[\s*,\s*", "", text)
+    text = re.sub(r"\[\s*\]", "", text)
+    text = re.sub(r"\[\s+and\s+", " and ", text)
+    text = re.sub(r"\s+\]\s*", " ", text)
+    text = re.sub(r"\s+\[\s+", " ", text)
+    text = re.sub(r"\s+\]\.", ".", text)
+    text = re.sub(r"\s+\[\.", ".", text)
+    text = re.sub(r"\[\s*$", "", text, flags=re.MULTILINE)
+    text = re.sub(r"\(\s*\)", "", text)
+    text = re.sub(r",\s*,", ",", text)
+    text = re.sub(r"\s+,", ",", text)
+    text = re.sub(r"  +", " ", text)
+    text = re.sub(r" +([,.;:!?])", r"\1", text)
+    return text.strip()
