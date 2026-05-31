@@ -10,13 +10,23 @@ import uuid
 from pathlib import Path
 
 from dotenv import load_dotenv
-from flask import Flask, Response, jsonify, render_template, request, stream_with_context
+from flask import (
+    Flask,
+    Response,
+    abort,
+    jsonify,
+    render_template,
+    request,
+    send_from_directory,
+    stream_with_context,
+)
 from werkzeug.utils import secure_filename
 
 from rag.pipeline import parse_history, stream_rag_events
 
 SCRIPT_DIR = Path(__file__).resolve().parent
 UPLOAD_DIR = SCRIPT_DIR / "uploads"
+PDF_DIR = SCRIPT_DIR / "pdfs"
 ALLOWED_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
 
 load_dotenv(SCRIPT_DIR / ".env")
@@ -36,6 +46,18 @@ def _sse(payload: dict) -> str:
 @app.route("/")
 def index():
     return render_template("index.html")
+
+
+@app.route("/papers/<paper_id>")
+def serve_paper(paper_id: str):
+    """Serve a paper PDF inline. paper_id must match a file in pdfs/."""
+    safe = secure_filename(paper_id)
+    if not safe or safe != paper_id:
+        abort(404)
+    filename = f"{safe}.pdf"
+    if not (PDF_DIR / filename).is_file():
+        abort(404)
+    return send_from_directory(PDF_DIR, filename, mimetype="application/pdf")
 
 
 @app.route("/api/ask/stream", methods=["POST"])

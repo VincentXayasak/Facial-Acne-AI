@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 from collections.abc import Iterator
 from dataclasses import dataclass
+from functools import lru_cache
 from pathlib import Path
 
 from rag.embeddings import LMStudioEmbeddingFunction
@@ -28,7 +29,18 @@ class RAGResult:
     use_rag: bool
 
 
+PDF_DIR = Path(__file__).resolve().parent.parent / "pdfs"
+
+
+@lru_cache(maxsize=1)
+def _local_pdf_ids() -> frozenset[str]:
+    if not PDF_DIR.is_dir():
+        return frozenset()
+    return frozenset(p.stem for p in PDF_DIR.glob("*.pdf"))
+
+
 def chunks_to_sources(chunks: list) -> list[dict]:
+    pdfs = _local_pdf_ids()
     return [
         {
             "cite": c.index,
@@ -36,6 +48,7 @@ def chunks_to_sources(chunks: list) -> list[dict]:
             "section": c.section,
             "paper_id": c.base_name,
             "distance": c.distance,
+            "pdf_url": f"/papers/{c.base_name}" if c.base_name in pdfs else None,
         }
         for c in chunks
     ]

@@ -179,6 +179,10 @@
     .msg-meta details summary { cursor: pointer; color: var(--accent); }
     .sources-mini { list-style: none; padding: 0.4rem 0 0; margin: 0; }
     .sources-mini li { padding: 0.2rem 0; }
+    .sources-mini a { color: #2563eb; text-decoration: none; }
+    .sources-mini a:hover { text-decoration: underline; }
+    .cite-link { color: #2563eb; text-decoration: none; font-weight: 600; }
+    .cite-link:hover { text-decoration: underline; }
     .composer {
       background: var(--card);
       border-top: 1px solid var(--border);
@@ -360,8 +364,20 @@
       });
     }
 
-    function renderMarkdown(md, streaming) {
-      const html = DOMPurify.sanitize(marked.parse(md || ""));
+    function linkifyCitations(html, sources) {
+      if (!sources || !sources.length) return html;
+      const urlByCite = {};
+      sources.forEach((s) => { if (s.pdf_url) urlByCite[s.cite] = s.pdf_url; });
+      return html.replace(/\[(\d+)\]/g, (match, n) => {
+        const url = urlByCite[n];
+        if (!url) return match;
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="cite-link">[${n}]</a>`;
+      });
+    }
+
+    function renderMarkdown(md, streaming, sources) {
+      let html = DOMPurify.sanitize(marked.parse(md || ""));
+      html = linkifyCitations(html, sources);
       return html + (streaming ? '<span class="cursor"></span>' : "");
     }
 
@@ -386,10 +402,13 @@
           }
           if (msg.meta.sources && msg.meta.sources.length) {
             const items = msg.meta.sources
-              .map(
-                (s) =>
-                  `<li><strong>[${s.cite}]</strong> ${escapeHtml(s.title)}</li>`
-              )
+              .map((s) => {
+                const title = escapeHtml(s.title);
+                const titleHtml = s.pdf_url
+                  ? `<a href="${s.pdf_url}" target="_blank" rel="noopener noreferrer">${title}</a>`
+                  : title;
+                return `<li><strong>[${s.cite}]</strong> ${titleHtml}</li>`;
+              })
               .join("");
             parts.push(
               `<details><summary>Sources (${msg.meta.sources.length})</summary>` +
@@ -409,9 +428,10 @@
           state.streaming &&
           idx === session.messages.length - 1 &&
           msg.role === "assistant";
+        const sources = msg.role === "assistant" && msg.meta ? msg.meta.sources : null;
         div.innerHTML =
           `<div class="msg-role">${roleLabel}</div>` +
-          `<div class="msg-body${isLastStreaming ? " streaming" : ""}">${renderMarkdown(msg.content, isLastStreaming)}</div>` +
+          `<div class="msg-body${isLastStreaming ? " streaming" : ""}">${renderMarkdown(msg.content, isLastStreaming, sources)}</div>` +
           metaHtml;
         messagesEl.appendChild(div);
       });
