@@ -1,4 +1,4 @@
-"""End-to-end: optional vision → optional RAG → Llama answer."""
+"""End-to-end: optional vision → optional RAG → Qwen VL answer."""
 
 from __future__ import annotations
 
@@ -17,7 +17,7 @@ from rag.retrieve import (
     build_user_prompt,
     retrieve_chunks,
 )
-from rag.vision import analyze_face_gemini
+from rag.vision import analyze_face
 
 
 @dataclass
@@ -92,7 +92,7 @@ def _prepare_prompts(
     obs = observation
 
     if image_path and not skip_vision and obs is None:
-        obs = analyze_face_gemini(image_path)
+        obs = analyze_face(image_path)
 
     chunks: list = []
     retrieval_query: str | None = None
@@ -141,7 +141,7 @@ def stream_rag_events(
     chat = chat or LMStudioChat()
 
     if image_path and not skip_vision and observation is None:
-        yield {"type": "status", "message": "Analyzing photo with Gemini…"}
+        yield {"type": "status", "message": "Analyzing photo with vision model…"}
     if use_rag:
         yield {"type": "status", "message": "Searching research papers…"}
 
@@ -237,7 +237,7 @@ def print_result(result: RAGResult) -> None:
     print(f"Mode: {mode}\n")
 
     if result.observation:
-        print("--- Vision observation (Gemini) ---")
+        print("--- Vision observation ---")
         print(json.dumps(result.observation, indent=2))
         print()
 
@@ -253,8 +253,8 @@ def print_result(result: RAGResult) -> None:
         for c in result.chunks:
             print(f"[{c.index}] {c.title} ({c.base_name}) — {c.section}  d={c.distance:.4f}")
         print()
-        print("--- Answer (Llama + RAG) ---")
+        print("--- Answer (Qwen VL + RAG) ---")
     else:
-        print("--- Answer (Llama base model) ---")
+        print("--- Answer (Qwen VL base model) ---")
 
     print(result.answer)

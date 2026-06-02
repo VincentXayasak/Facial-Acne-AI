@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
 """
-Facial acne RAG assistant: Gemini vision → Chroma retrieval → Llama 3.2 (LM Studio).
+Facial acne RAG assistant: Qwen2.5-VL vision → Chroma retrieval → Qwen VL (LM Studio).
 
 Examples:
   # Text-only (no photo)
   python ask_acne.py --question "What does research say about benzoyl peroxide for inflammatory acne?"
 
-  # With photo (Gemini vision → RAG → Llama)
+  # With photo (vision → RAG → Qwen VL)
   python ask_acne.py --image photo.jpg --question "What might help based on what you see and the literature?"
 
-  # Base Llama only (Gemini observation still used if --image); no Chroma retrieval
+  # Base model only (vision still runs if --image); no Chroma retrieval
   python ask_acne.py --no-rag --image photo.jpg --question "What might help for what you see?"
 
   # Skip vision; use a saved observation JSON
@@ -46,30 +46,30 @@ def parse_args() -> argparse.Namespace:
         "-q",
         type=str,
         default=None,
-        help="User question for Llama",
+        help="User question for the chat model",
     )
     parser.add_argument(
         "--image",
         "-i",
         type=Path,
         default=None,
-        help="Face photo path (sent to Gemini for structured observation)",
+        help="Face photo path (sent to Qwen VL for structured observation)",
     )
     parser.add_argument(
         "--observation-json",
         type=Path,
         default=None,
-        help="Skip Gemini; use this JSON observation file",
+        help="Skip vision; use this JSON observation file",
     )
     parser.add_argument(
         "--no-rag",
         action="store_true",
-        help="Use base Llama only (no Chroma); Gemini vision still runs if --image is set",
+        help="Use base model only (no Chroma); vision still runs if --image is set",
     )
     parser.add_argument(
         "--skip-vision",
         action="store_true",
-        help="Ignore --image for Gemini (Llama only)",
+        help="Ignore --image for vision (text-only with image path unused)",
     )
     parser.add_argument(
         "--chroma-path",
@@ -135,7 +135,7 @@ def main() -> int:
         except Exception as exc:
             print(f"Chat FAILED: {exc}", file=sys.stderr)
             print(
-                "Load Llama 3.2 8B Instruct in LM Studio and set LM_STUDIO_CHAT_MODEL to its id.",
+                "Load qwen/qwen2.5-vl-7b in LM Studio and set LM_STUDIO_CHAT_MODEL to its id.",
                 file=sys.stderr,
             )
             return 1

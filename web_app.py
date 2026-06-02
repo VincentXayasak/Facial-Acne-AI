@@ -133,7 +133,7 @@ def main() -> None:
     args = parser.parse_args()
 
     print(f"Open http://{args.host}:{args.port}")
-    print("Requires LM Studio (chat + embed) and GEMINI_API_KEY for photos.")
+    print("Requires LM Studio (qwen/qwen2.5-vl-7b + embedding model) for chat and photos.")
     app.run(host=args.host, port=args.port, debug=args.debug, threaded=True)
 
 

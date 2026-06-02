@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-# Keys must match what Gemini returns in relevant_research_topics.
+# Keys must match what the vision model returns in relevant_research_topics.
 CORPUS_TOPICS: dict[str, str] = {
     "hormones_genetics": (
         "Hormones & Genetics — puberty, androgens, genetics, sebocytes, hormonal acne"
@@ -82,7 +82,7 @@ CORPUS_TOPICS_PROMPT_BLOCK = "\n".join(
 
 
 def infer_topics_from_observation(observation: dict) -> list[str]:
-    """Fallback topic tags if Gemini omits relevant_research_topics."""
+    """Fallback topic tags if vision omits relevant_research_topics."""
     text = " ".join(
         str(observation.get(k, ""))
         for k in (

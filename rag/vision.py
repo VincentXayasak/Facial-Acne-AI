@@ -1,13 +1,19 @@
-"""Gemini vision: structured facial acne observations only."""
+"""LM Studio vision (Qwen2.5-VL): structured facial acne observations only."""
 
 from __future__ import annotations
 
+import base64
 import json
 import os
 import re
 from pathlib import Path
 
+from openai import OpenAI
+
+from rag.embeddings import normalize_lm_studio_base_url
 from rag.topics import CORPUS_TOPICS_PROMPT_BLOCK
+
+DEFAULT_VISION_MODEL = "qwen/qwen2.5-vl-7b"
 
 VISION_PROMPT = f"""Analyze this facial photo for dermatology research purposes only.
 Do NOT give treatment advice or a medical diagnosis.
@@ -43,49 +49,78 @@ def _parse_json_response(text: str) -> dict:
     return json.loads(text)
 
 
-def analyze_face_gemini(
-    image_path: Path,
-    *,
-    api_key: str | None = None,
-    model: str | None = None,
-) -> dict:
-    from google import genai
-
-    api_key = api_key or os.environ.get("GEMINI_API_KEY") or os.environ.get("GOOGLE_API_KEY")
-    if not api_key:
-        raise RuntimeError(
-            "Set GEMINI_API_KEY (or GOOGLE_API_KEY) in .env for Gemini vision."
-        )
-
-    model = model or os.environ.get("GEMINI_MODEL", "gemini-2.0-flash")
-    client = genai.Client(api_key=api_key)
-
+def _image_mime(image_path: Path) -> str:
     suffix = image_path.suffix.lower()
-    mime = {
+    return {
         ".jpg": "image/jpeg",
         ".jpeg": "image/jpeg",
         ".png": "image/png",
         ".webp": "image/webp",
     }.get(suffix, "image/jpeg")
 
-    image_bytes = image_path.read_bytes()
-    response = client.models.generate_content(
+
+def _vision_client() -> tuple[OpenAI, str]:
+    raw_base = os.environ.get("LM_STUDIO_BASE_URL", "http://localhost:1234")
+    base_url = normalize_lm_studio_base_url(raw_base)
+    api_key = os.environ.get("LM_STUDIO_API_KEY", "lm-studio")
+    model = (
+        os.environ.get("LM_STUDIO_VISION_MODEL")
+        or os.environ.get("LM_STUDIO_CHAT_MODEL")
+        or os.environ.get("LM_STUDIO_MODEL")
+        or DEFAULT_VISION_MODEL
+    )
+    return OpenAI(base_url=base_url, api_key=api_key), model
+
+
+def analyze_face(
+    image_path: Path,
+    *,
+    base_url: str | None = None,
+    api_key: str | None = None,
+    model: str | None = None,
+) -> dict:
+    """Return structured JSON observation from a face photo via LM Studio vision."""
+    if base_url or api_key or model:
+        raw_base = base_url or os.environ.get("LM_STUDIO_BASE_URL", "http://localhost:1234")
+        client = OpenAI(
+            base_url=normalize_lm_studio_base_url(raw_base),
+            api_key=api_key or os.environ.get("LM_STUDIO_API_KEY", "lm-studio"),
+        )
+        model = model or os.environ.get("LM_STUDIO_VISION_MODEL") or os.environ.get(
+            "LM_STUDIO_CHAT_MODEL", DEFAULT_VISION_MODEL
+        )
+    else:
+        client, model = _vision_client()
+
+    mime = _image_mime(image_path)
+    b64 = base64.standard_b64encode(image_path.read_bytes()).decode("ascii")
+    data_url = f"data:{mime};base64,{b64}"
+
+    response = client.chat.completions.create(
         model=model,
-        contents=[
-            genai.types.Part.from_bytes(data=image_bytes, mime_type=mime),
-            VISION_PROMPT,
+        messages=[
+            {
+                "role": "user",
+                "content": [
+                    {"type": "text", "text": VISION_PROMPT},
+                    {"type": "image_url", "image_url": {"url": data_url}},
+                ],
+            }
         ],
+        temperature=0.1,
+        max_tokens=2048,
     )
 
-    text = getattr(response, "text", None) or ""
-    if not text and response.candidates:
-        parts = response.candidates[0].content.parts
-        text = "".join(getattr(p, "text", "") or "" for p in parts)
-
-    if not text.strip():
-        raise RuntimeError("Gemini returned an empty vision response.")
+    text = (response.choices[0].message.content or "").strip()
+    if not text:
+        raise RuntimeError(
+            f"Vision model ({model}) returned an empty response. "
+            "Load qwen/qwen2.5-vl-7b in LM Studio and start the server."
+        )
 
     try:
         return _parse_json_response(text)
     except json.JSONDecodeError as exc:
-        raise RuntimeError(f"Gemini response was not valid JSON: {text[:500]}") from exc
+        raise RuntimeError(
+            f"Vision model response was not valid JSON: {text[:500]}"
+        ) from exc

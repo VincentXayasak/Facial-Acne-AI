@@ -86,7 +86,7 @@ class LMStudioChat:
         self.api_key = api_key or os.environ.get("LM_STUDIO_API_KEY", "lm-studio")
         self.model = model or os.environ.get(
             "LM_STUDIO_CHAT_MODEL",
-            os.environ.get("LM_STUDIO_MODEL", "llama-3.2-8b-instruct"),
+            os.environ.get("LM_STUDIO_MODEL", "qwen/qwen2.5-vl-7b"),
         )
         self._client = OpenAI(base_url=self.base_url, api_key=self.api_key)
 
