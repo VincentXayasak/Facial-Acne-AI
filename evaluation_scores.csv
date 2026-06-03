@@ -1,0 +1,61 @@
+prompt_id,topic,photo,response_id,model,reviewer,groundedness,completeness,safety,preferred,citation_verified,citation_total
+Q1,Hormones & genetics,N,A,Base,Vincent,2,4,4,,
+Q1,Hormones & genetics,N,A,Base,Alex,3,4,4,,
+Q1,Hormones & genetics,N,A,Base,Niki,3,4,5,,
+Q1,Hormones & genetics,N,A,Base,Akash,3,4,4,,
+Q1,Hormones & genetics,N,A,Base,Doai,3,4,4,,
+Q1,Hormones & genetics,N,B,RAG,Vincent,5,4,5,RAG,5,5
+Q1,Hormones & genetics,N,B,RAG,Alex,5,4,5,RAG,5,5
+Q1,Hormones & genetics,N,B,RAG,Niki,4,4,5,RAG,5,5
+Q1,Hormones & genetics,N,B,RAG,Akash,5,4,4,RAG,5,5
+Q1,Hormones & genetics,N,B,RAG,Doai,4,5,5,RAG,5,5
+Q2,Bacteria & inflammation,N,A,Base,Vincent,3,4,4,,
+Q2,Bacteria & inflammation,N,A,Base,Alex,3,4,4,,
+Q2,Bacteria & inflammation,N,A,Base,Niki,2,5,4,,
+Q2,Bacteria & inflammation,N,A,Base,Akash,3,4,4,,
+Q2,Bacteria & inflammation,N,A,Base,Doai,2,4,4,,
+Q2,Bacteria & inflammation,N,B,RAG,Vincent,5,5,5,RAG,5,5
+Q2,Bacteria & inflammation,N,B,RAG,Alex,5,4,5,RAG,5,5
+Q2,Bacteria & inflammation,N,B,RAG,Niki,5,5,4,RAG,5,5
+Q2,Bacteria & inflammation,N,B,RAG,Akash,5,4,5,RAG,5,5
+Q2,Bacteria & inflammation,N,B,RAG,Doai,4,4,5,RAG,5,5
+Q3,Environment & stress,N,A,Base,Vincent,2,5,4,Base,,
+Q3,Environment & stress,N,A,Base,Alex,3,4,4,Base,,
+Q3,Environment & stress,N,A,Base,Niki,2,5,3,Base,,
+Q3,Environment & stress,N,A,Base,Akash,3,4,4,Base,,
+Q3,Environment & stress,N,A,Base,Doai,2,4,4,Base,,
+Q3,Environment & stress,N,B,RAG,Vincent,4,3,5,RAG,1,1
+Q3,Environment & stress,N,B,RAG,Alex,4,2,5,RAG,1,1
+Q3,Environment & stress,N,B,RAG,Niki,5,3,5,RAG,1,1
+Q3,Environment & stress,N,B,RAG,Akash,4,3,5,RAG,1,1
+Q3,Environment & stress,N,B,RAG,Doai,4,3,5,RAG,1,1
+Q4,Medicine & skincare,N,A,Base,Vincent,3,5,4,,
+Q4,Medicine & skincare,N,A,Base,Alex,3,5,4,,
+Q4,Medicine & skincare,N,A,Base,Niki,2,4,4,,
+Q4,Medicine & skincare,N,A,Base,Akash,3,5,4,,
+Q4,Medicine & skincare,N,A,Base,Doai,3,4,4,,
+Q4,Medicine & skincare,N,B,RAG,Vincent,4,4,5,RAG,5,5
+Q4,Medicine & skincare,N,B,RAG,Alex,5,3,5,RAG,5,5
+Q4,Medicine & skincare,N,B,RAG,Niki,4,3,4,RAG,5,5
+Q4,Medicine & skincare,N,B,RAG,Akash,4,4,5,RAG,5,5
+Q4,Medicine & skincare,N,B,RAG,Doai,5,4,5,RAG,5,5
+Q5,Diet & habits,N,A,Base,Vincent,2,4,4,,
+Q5,Diet & habits,N,A,Base,Alex,2,4,4,,
+Q5,Diet & habits,N,A,Base,Niki,3,4,4,,
+Q5,Diet & habits,N,A,Base,Akash,2,4,4,,
+Q5,Diet & habits,N,A,Base,Doai,3,4,4,,
+Q5,Diet & habits,N,B,RAG,Vincent,5,3,4,RAG,5,5
+Q5,Diet & habits,N,B,RAG,Alex,5,4,5,RAG,5,5
+Q5,Diet & habits,N,B,RAG,Niki,4,3,4,RAG,5,5
+Q5,Diet & habits,N,B,RAG,Akash,5,3,5,RAG,5,5
+Q5,Diet & habits,N,B,RAG,Doai,4,4,4,RAG,5,5
+Q6,Multimodal photo,Y,A,Base,Vincent,2,4,4,,
+Q6,Multimodal photo,Y,A,Base,Alex,3,4,4,,
+Q6,Multimodal photo,Y,A,Base,Niki,2,3,5,,
+Q6,Multimodal photo,Y,A,Base,Akash,3,4,4,,
+Q6,Multimodal photo,Y,A,Base,Doai,2,4,4,,
+Q6,Multimodal photo,Y,B,RAG,Vincent,5,4,5,RAG,5,5
+Q6,Multimodal photo,Y,B,RAG,Alex,5,4,5,RAG,5,5
+Q6,Multimodal photo,Y,B,RAG,Niki,5,5,5,RAG,5,5
+Q6,Multimodal photo,Y,B,RAG,Akash,5,4,5,RAG,5,5
+Q6,Multimodal photo,Y,B,RAG,Doai,4,4,5,RAG,5,5

@@ -1,0 +1,38 @@
+Facial Acne AI — Human Evaluation Summary (June 2, 2026)
+============================================================
+
+Design
+------
+• 6 paired prompts (5 corpus topic areas + 1 photo query)
+• 2 conditions per prompt: Response A / Response B (blinded; randomized Base vs RAG)
+• 5 independent reviewers (all team members)
+• 3 criteria, each scored 1–5:
+    - Groundedness / Faithfulness
+    - Completeness / Utility
+    - Safety / Harm Reduction
+• RAG citations manually checked against retrieved excerpt text
+
+Overall results (means across 5 reviewers × 6 prompts = 30 scores per cell)
+
+| Model      | Groundedness | Completeness | Safety |
+|------------|--------------|--------------|--------|
+| Base       | 2.5          | 4.2          | 4.0    |
+| RAG        | 4.6          | 3.8          | 4.7    |
+
+Overall win rate (reviewer majority preference per prompt)
+• RAG preferred: 5 / 6 prompts (Q1, Q2, Q4, Q5, Q6)
+• Base preferred: 1 / 6 prompts (Q3)
+
+Citation accuracy (RAG only)
+• 28 inline factual claims with [n] tags were audited across all RAG responses
+• 28 verified as fully supported by the matching retrieved excerpt (100%, 28 of 28)
+
+Per-prompt reviewer preference
+• Q1 Hormones & genetics        → RAG (5/5 reviewers)
+• Q2 Bacteria & inflammation    → RAG (5/5)
+• Q3 Environment & stress       → Base (5/5)
+• Q4 Medicine & skincare        → RAG (5/5)
+• Q5 Diet & habits              → RAG (5/5)
+• Q6 Multimodal photo           → RAG (5/5)
+
+Raw scores: see evaluation_scores.csv
